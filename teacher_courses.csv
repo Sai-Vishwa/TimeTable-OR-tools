@@ -1,0 +1,900 @@
+id,student_count,academic_year,semester,requires_special_scheduling,is_assistant,teacher_id,staff_code,first_name,last_name,teacher_email,course_id,course_code,course_name,course_type,lecture_hours,practical_hours,tutorial_hours,credits,course_dept
+64,67,4,7,False,False,189,CS289,Mr.,S Umamaheswararao,umamaheswararao.s@rajalakshmi.edu.in,1820,CD19721,Introduction to 3D Animation,T,1,0,0,1.0,Computer Science & Design
+65,67,4,7,False,False,178,CS307,Dr.,Gunasekar S,gunasekar.s@rajalakshmi.edu.in,1809,CD19P15,Foundations of Machine Learning Concepts,LoT,2,2,0,3.0,Computer Science & Design
+66,67,4,7,False,False,185,CS306,Mr.,Thirumalairajan G,thirumalairajan.g@rajalakshmi.edu.in,1803,CD19P11,Digital Media Entrepreneurship,LoT,2,2,0,3.0,Computer Science & Design
+67,67,4,7,False,False,182,CS331,Mr.,S Pradeep Kumar,pradeepkumar.s@rajalakshmi.edu.in,1817,CD19711,Project-I,L,0,6,0,3.0,Computer Science & Design
+68,62,2,3,False,False,390,FT08,Mrs.,Aruthra Devi G,aruthradevi.g@rajalakshmi.edu.in,1828,FT23302,Biochemistry and Nutrition,T,3,0,0,3.0,Food Technology
+69,70,2,3,False,False,400,IT230,Mr.,Dr B Muthu Kumar,muthukumar.b@rajalakshmi.edu.in,1833,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+72,70,3,5,False,False,272,EC143,Mr.,Gururaj D,gururaj.d@rajalakshmi.edu.in,1582,EC23531,Digital Signal Processing,LoT,2,2,1,4.0,Electronics & Communication Engineering
+73,64,2,3,False,False,1743,CSD001,,,,1459,CD23332,UI and UX design,LoT,2,4,0,4.0,Computer Science & Design
+74,70,2,3,False,False,130,CL02,Mr.,G Vijayaraghavan,vijayaraghavan.g@rajalakshmi.edu.in,1498,CH23311,Solid Mechanics,T,2,0,1,3.0,Chemical Engineering
+75,70,2,3,False,False,131,BT115,Mr.,Dr.T.R.Sundararaman,sundararaman.tr@rajalakshmi.edu.in,1499,CH23312,Chemical Process Calculations,T,2,0,1,3.0,Chemical Engineering
+76,64,3,5,False,False,189,CS289,Mr.,S Umamaheswararao,umamaheswararao.s@rajalakshmi.edu.in,1846,CD23531,3D Modelling and Texturing,LoT,2,2,0,3.0,Computer Science & Design
+77,70,1,1,False,False,179,CS11,Mrs.,Revathy Padmanabhan,revathy.p@rajalakshmi.edu.in,1849,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Design
+79,64,2,3,False,False,179,CS11,Mrs.,Revathy Padmanabhan,revathy.p@rajalakshmi.edu.in,1850,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Design
+80,64,3,5,False,False,178,CS307,Dr.,Gunasekar S,gunasekar.s@rajalakshmi.edu.in,1852,CS23431,Operating Systems,LoT,3,4,0,5.0,Computer Science & Design
+87,64,2,3,False,False,184,CS176,Mr.,Vijayakumar R,vijayakumar.r@rajalakshmi.edu.in,1457,CD23321,Python Programming for Design,L,0,6,0,3.0,Computer Science & Design
+88,64,3,5,False,False,184,CS176,Mr.,Vijayakumar R,vijayakumar.r@rajalakshmi.edu.in,1862,IT23E31,Graphics and Multimedia,LoT,2,2,0,3.0,Computer Science & Design
+89,64,2,3,False,False,171,CS296,Mrs.,Kalpana D,kalpana.d@rajalakshmi.edu.in,1863,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Design
+91,64,3,5,False,False,185,CS306,Mr.,Thirumalairajan G,thirumalairajan.g@rajalakshmi.edu.in,1866,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Design
+92,64,2,3,False,False,182,CS331,Mr.,S Pradeep Kumar,pradeepkumar.s@rajalakshmi.edu.in,1458,CD23331,Design Processes and Perspectives,LoT,3,2,0,4.0,Computer Science & Design
+93,70,1,1,False,False,182,CS331,Mr.,S Pradeep Kumar,pradeepkumar.s@rajalakshmi.edu.in,166,CD23111,Design Drawing and Sketching,T,2,0,1,3.0,Computer Science & Design
+94,67,4,7,False,False,1743,CSD001,,,,1822,CD19701,Fundamentals of Video for Engineers,T,3,0,0,3.0,Computer Science & Design
+95,70,3,5,False,False,187,IT03,Mr.,Dr. Kumar P,kumar@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+96,64,2,3,False,False,238,CS315,Dr.,Balasubramanian V,balasubramanian.v@rajalakshmi.edu.in,1526,CR23331,Cryptography,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+97,64,2,3,False,False,591,CS40,HOD,CSE(CS),hod.csecs@rajalakshmi.edu.in,1526,CR23331,Cryptography,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+102,62,2,3,False,False,390,FT08,Mrs.,Aruthra Devi G,aruthradevi.g@rajalakshmi.edu.in,1883,FT23312,Biochemistry and Nutrition Laboratory,L,0,4,0,2.0,Food Technology
+109,70,3,5,False,False,187,IT03,Mr.,Dr. Kumar P,kumar@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+110,70,2,3,False,False,239,CS301,Mr.,Srinivas Vadlamani,srinivas.vadlamani@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+111,70,3,5,False,False,247,EC101,Mr.,Dr. T. Manikandan,manikandan.t@rajalakshmi.edu.in,1579,EC23512,Modern Digital Communication,T,3,0,0,3.0,Electronics & Communication Engineering
+112,70,3,5,False,False,249,EC47,Mrs.,Dr.S.Chitra,chitra.s@rajalakshmi.edu.in,1579,EC23512,Modern Digital Communication,T,3,0,0,3.0,Electronics & Communication Engineering
+113,70,3,5,False,False,281,EC192,Mr.,S Sudharsan,sudharsan.s@rajalakshmi.edu.in,1579,EC23512,Modern Digital Communication,T,3,0,0,3.0,Electronics & Communication Engineering
+115,70,3,5,False,False,256,EC134,Mrs.,Radhamani .V,radhamani.v@rajalakshmi.edu.in,1582,EC23531,Digital Signal Processing,LoT,2,2,1,4.0,Electronics & Communication Engineering
+116,70,3,5,False,False,277,EC167,Mr.,Asokan V,asokan.v@rajalakshmi.edu.in,1582,EC23531,Digital Signal Processing,LoT,2,2,1,4.0,Electronics & Communication Engineering
+117,70,3,5,False,False,281,EC192,Mr.,S Sudharsan,sudharsan.s@rajalakshmi.edu.in,1582,EC23531,Digital Signal Processing,LoT,2,2,1,4.0,Electronics & Communication Engineering
+118,70,3,5,False,False,260,EC04,Mrs.,B.Thilakavathi,thilakavathi.b@rajalakshmi.edu.in,1578,EC23511,Control System Engineering,T,2,0,1,3.0,Electronics & Communication Engineering
+119,70,3,5,False,False,256,EC134,Mrs.,Radhamani .V,radhamani.v@rajalakshmi.edu.in,1578,EC23511,Control System Engineering,T,2,0,1,3.0,Electronics & Communication Engineering
+120,70,3,5,False,False,262,EC130,Mrs.,Dr B Priya,priya.b@rajalakshmi.edu.in,1578,EC23511,Control System Engineering,T,2,0,1,3.0,Electronics & Communication Engineering
+121,70,3,5,False,False,284,EC215,Dr.,Sathiyavathi S,sathiyavathi.sasikumar@rajalakshmi.edu.in,1578,EC23511,Control System Engineering,T,2,0,1,3.0,Electronics & Communication Engineering
+123,70,3,5,False,False,251,EC34,Mrs.,Dr. A. Asha,asha.a@rajalakshmi.edu.in,1899,EC23B11,Information theory and coding,T,3,0,0,3.0,Electronics & Communication Engineering
+124,70,3,5,False,False,247,EC101,Mr.,Dr. T. Manikandan,manikandan.t@rajalakshmi.edu.in,1899,EC23B11,Information theory and coding,T,3,0,0,3.0,Electronics & Communication Engineering
+125,70,3,5,False,False,283,EC204,Ms.,M. Latha,latha.m@rajalakshmi.edu.in,1899,EC23B11,Information theory and coding,T,3,0,0,3.0,Electronics & Communication Engineering
+126,70,3,5,False,False,279,EC197,Mrs.,Ms. Indhumathi G,indhumathi.g@rajalakshmi.edu.in,1899,EC23B11,Information theory and coding,T,3,0,0,3.0,Electronics & Communication Engineering
+127,70,3,5,False,False,270,EC185,Mr.,Murali Krishna K,muralikrishna.k@rajalakshmi.edu.in,1897,EC23A11,Medical electronics,T,3,0,0,3.0,Electronics & Communication Engineering
+128,70,3,5,False,False,260,EC04,Mrs.,B.Thilakavathi,thilakavathi.b@rajalakshmi.edu.in,1897,EC23A11,Medical electronics,T,3,0,0,3.0,Electronics & Communication Engineering
+129,70,3,5,False,False,259,EC67,Mr.,Dr.V.S.Selvakumar,selvakumar.vs@rajalakshmi.edu.in,1900,EC23E11,Introduction to MEMS,T,3,0,0,3.0,Electronics & Communication Engineering
+130,70,3,5,False,False,317,EC216,Dr.,R Jeevani,jeevani.r@rajalakshmi.edu.in,1900,EC23E11,Introduction to MEMS,T,3,0,0,3.0,Electronics & Communication Engineering
+131,70,4,7,False,False,267,EC121,Mrs.,Shaik Thasleem Bhanu,shaikthasleembanu@rajalakshmi.edu.in,1805,EC19701,RF and Microwave Engineering,T,3,0,0,3.0,Electronics & Communication Engineering
+132,70,4,7,False,False,292,EC175,Mrs.,Sasirekha D,sasirekha.d@rajalakshmi.edu.in,1805,EC19701,RF and Microwave Engineering,T,3,0,0,3.0,Electronics & Communication Engineering
+133,70,4,7,False,False,290,EC212,Mrs.,Nirmala D,nirmala.d@rajalakshmi.edu.in,1805,EC19701,RF and Microwave Engineering,T,3,0,0,3.0,Electronics & Communication Engineering
+134,70,4,7,False,False,252,EC114,Mr.,Dr. Sathish M,sathish.m@rajalakshmi.edu.in,1805,EC19701,RF and Microwave Engineering,T,3,0,0,3.0,Electronics & Communication Engineering
+135,70,4,7,False,False,271,EC190,Dr.,Saranya G,saranya.g@rajalakshmi.edu.in,1589,EC23731,Optical Communication and Networks,LoT,2,2,0,3.0,Electronics & Communication Engineering
+136,70,4,7,False,False,301,EC179,Mrs.,Sushma S Jagtap,sushmasjagtap@rajalakshmi.edu.in,1589,EC23731,Optical Communication and Networks,LoT,2,2,0,3.0,Electronics & Communication Engineering
+137,70,4,7,False,False,269,EC172,Mrs.,Shanmuga Priya P,shanmugapriya.p@rajalakshmi.edu.in,1589,EC23731,Optical Communication and Networks,LoT,2,2,0,3.0,Electronics & Communication Engineering
+138,70,4,7,False,False,286,EC198,Ms.,Dr.S.V.Vinodhini,vinodhini.sv@rajalakshmi.edu.in,1589,EC23731,Optical Communication and Networks,LoT,2,2,0,3.0,Electronics & Communication Engineering
+139,70,4,7,False,False,262,EC130,Mrs.,Dr B Priya,priya.b@rajalakshmi.edu.in,1807,EC19703,Embedded Systems,T,3,0,0,3.0,Electronics & Communication Engineering
+140,70,4,7,False,False,289,EC210,Mr.,Senthilraja B,senthilraja.b@rajalakshmi.edu.in,1807,EC19703,Embedded Systems,T,3,0,0,3.0,Electronics & Communication Engineering
+141,70,4,7,False,False,274,EC135,Mrs.,Dr. Saranya J,saranya.j@rajalakshmi.edu.in,1807,EC19703,Embedded Systems,T,3,0,0,3.0,Electronics & Communication Engineering
+142,70,4,7,False,False,292,EC175,Mrs.,Sasirekha D,sasirekha.d@rajalakshmi.edu.in,1807,EC19703,Embedded Systems,T,3,0,0,3.0,Electronics & Communication Engineering
+143,70,4,7,False,False,266,EC173,Mrs.,Dr.L.Bhagyalakshmi,bhagyalakshmi.l@rajalakshmi.edu.in,1808,EC19P74,Wireless Networks,T,3,0,0,3.0,Electronics & Communication Engineering
+144,70,4,7,False,False,249,EC47,Mrs.,Dr.S.Chitra,chitra.s@rajalakshmi.edu.in,1808,EC19P74,Wireless Networks,T,3,0,0,3.0,Electronics & Communication Engineering
+145,70,4,7,False,False,251,EC34,Mrs.,Dr. A. Asha,asha.a@rajalakshmi.edu.in,1810,EC19P76,Multimedia Compression and Networking,T,3,0,0,3.0,Electronics & Communication Engineering
+146,70,4,7,False,False,264,EC162,Mrs.,Benazir Begam R,benazirbegam.r@rajalakshmi.edu.in,1810,EC19P76,Multimedia Compression and Networking,T,3,0,0,3.0,Electronics & Communication Engineering
+147,70,2,3,False,False,297,EC207,Mr.,G Loganathan,loganathan.g@rajalakshmi.edu.in,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+148,70,2,3,False,False,273,EE98,Mrs.,Dr.T.Mariammal,mariammal.t@rajalakshmi.edu.in,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+149,70,2,3,False,False,282,EC163,Mr.,Karthi J,karthi.j@rajalakshmi.edu.in,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+150,70,2,3,False,False,259,EC67,Mr.,Dr.V.S.Selvakumar,selvakumar.vs@rajalakshmi.edu.in,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+151,70,2,3,False,False,304,EC209,Dr.,Kumaran N,kumaran.n@rajalakshmi.edu.in,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+152,70,2,3,False,False,1746,EC223,,,,1568,EC23311,Analog Circuits –I,T,3,0,0,3.0,Electronics & Communication Engineering
+153,70,2,3,False,False,265,EC160,Mrs.,Jhanani Shree U,jananishree.u@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+154,70,2,3,False,False,252,EC114,Mr.,Dr. Sathish M,sathish.m@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+155,70,2,3,False,False,296,EC200,Ms.,M.Brenda,brenda.m@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+156,70,2,3,False,False,276,EC149,Mrs.,Anitha Mary M,anithamary.m@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+157,70,2,3,False,False,291,EC201,Ms.,S.Priyanka Devi,priyankadevi.s@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+158,70,2,3,False,False,302,EC217,Mrs.,Indhu Bala B,indhubala.b@rajalakshmi.edu.in,1569,EC23312,Electromagnetic Fields,T,3,0,0,3.0,Electronics & Communication Engineering
+159,70,2,3,False,False,299,EC211,Dr.,Jayanthi D,jayanthi.d@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+160,70,2,3,False,False,284,EC215,Dr.,Sathiyavathi S,sathiyavathi.sasikumar@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+161,70,2,3,False,False,315,EC214,Dr.,S R Balaji,balaji.sr@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+163,70,2,3,False,False,276,EC149,Mrs.,Anitha Mary M,anithamary.m@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+164,70,2,3,False,False,277,EC167,Mr.,Asokan V,asokan.v@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+165,70,2,3,False,False,293,EC177,Mrs.,Tamilarasi M,tamilarasi.m@rajalakshmi.edu.in,1570,EC23313,Digital Principles and System Design,T,3,0,0,3.0,Electronics & Communication Engineering
+166,70,2,3,False,False,287,EC205,Mr.,Ganesamoorthy R,ganesamoorthy.r@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+167,70,2,3,False,False,283,EC204,Ms.,M. Latha,latha.m@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+168,70,2,3,False,False,288,EC186,Mrs.,Yogalakshmi.V,yogalakshmi.v@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+169,70,2,3,False,False,299,EC211,Dr.,Jayanthi D,jayanthi.d@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+170,70,2,3,False,False,274,EC135,Mrs.,Dr. Saranya J,saranya.j@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+172,70,1,1,False,False,254,EC31,Mr.,Dr M Palanivelan,palanivelan.m@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+173,70,1,1,False,False,263,EC147,Mrs.,R Bharathy,bharathy.r@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+175,70,1,1,False,False,291,EC201,Ms.,S.Priyanka Devi,priyankadevi.s@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+176,70,1,1,False,False,285,EC206,Mrs.,Sowmiya G,sowmiya.g@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+177,70,1,1,False,False,297,EC207,Mr.,G Loganathan,loganathan.g@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+178,70,1,1,False,False,289,EC210,Mr.,Senthilraja B,senthilraja.b@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+179,70,1,1,False,False,290,EC212,Mrs.,Nirmala D,nirmala.d@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+182,60,3,5,False,False,100,BT85,Mrs.,Dr.R.Anila,anila.r@rajalakshmi.edu.in,1416,BT23511,Bioprocess Principles,T,3,0,0,3.0,Biotechnology
+183,30,3,5,False,False,100,BT85,Mrs.,Dr.R.Anila,anila.r@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+185,70,4,7,False,False,92,BT103,Mr.,Dr. P. Rajasekar,rajasekar.p@rajalakshmi.edu.in,1825,BT19P76,Animal Biotechnology,T,3,0,0,3.0,Biotechnology
+186,60,2,3,False,False,92,BT103,Mr.,Dr. P. Rajasekar,rajasekar.p@rajalakshmi.edu.in,1408,BT23321,Basic Food and Enzyme Technology Laboratory,L,0,2,0,1.0,Biotechnology
+188,24,1,1,False,False,128,BT177,Mrs.,Dr Rekha Ravindran,rekha.ravendran@rajalakshmi.edu.in,1907,BY23111,Gene Manipulation and DNA analysis,T,3,0,0,3.0,Biotechnology
+190,60,3,5,False,False,111,BT169,Mrs.,N.Premalatha,premalatha.n@rajalakshmi.edu.in,1418,BT23513,Separation Process Principles,T,3,0,1,3.0,Biotechnology
+191,60,4,7,False,False,102,BT123,Mrs.,Dr.D.Haripriya,haripriya.d@rajalakshmi.edu.in,1821,BT19705,PROTEIN ENGINEERING TECHNIQUES,T,3,0,0,3.0,Biotechnology
+192,60,4,7,False,False,102,BT123,Mrs.,Dr.D.Haripriya,haripriya.d@rajalakshmi.edu.in,1821,BT19705,PROTEIN ENGINEERING TECHNIQUES,T,3,0,0,3.0,Biotechnology
+197,70,3,5,False,False,93,BT122,Mrs.,Dr.T.Anitha,anitha.t@rajalakshmi.edu.in,1416,BT23511,Bioprocess Principles,T,3,0,0,3.0,Biotechnology
+198,30,3,5,False,False,106,BT107,Mrs.,Dr.M.Millicent Mabel,millicentmable.m@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+199,60,2,3,False,False,127,BT179,Dr.,Vimala Devi,vimaladevi.m@rajalakshmi.edu.in,1405,BT23312,Stoichiometry and Fluid Mechanics,T,3,0,1,3.0,Biotechnology
+200,60,2,3,False,False,127,BT179,Dr.,Vimala Devi,vimaladevi.m@rajalakshmi.edu.in,1409,BT23331,Analytical Techniques in Biotechnology,LoT,2,2,0,3.0,Biotechnology
+201,56,4,7,False,False,103,BT01,Mrs.,Dr.Johanna Rajkumar,johannarajkumar@rajalakshmi.edu.in,1824,BT19P74,Cancer Biology,T,3,0,0,3.0,Biotechnology
+202,30,1,1,False,False,97,BT109,Dr.,S.Thiruvengadam,thiruvengadam.s@rajalakshmi.edu.in,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+203,60,4,7,False,False,98,BT124,Mrs.,Dr. K. Sathya,sathya.k@rajalakshmi.edu.in,1811,BT19701,DOWNSTREAM PROCESSING,T,3,0,0,3.0,Biotechnology
+205,60,1,1,False,False,95,BT30,Mr.,Dr.D.Sridhar,sridhar.d@rajalakshmi.edu.in,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+207,70,2,3,False,False,191,CS218,Mr.,Dr V.Murali Bhaskaran,muralibhaskaran.v@rajalakshmi.edu.in,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+208,70,2,3,False,False,191,CS218,Mr.,Dr V.Murali Bhaskaran,muralibhaskaran.v@rajalakshmi.edu.in,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+209,70,2,3,False,False,201,IT191,Mrs.,Dharani Devi G,dharanidevi.g@rajalakshmi.edu.in,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+211,70,2,3,False,False,236,CS314,Mrs.,Deepa B,deepa.b@rajalakshmi.edu.in,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+212,70,1,1,False,False,253,CS326,Dr.,Duraipandian N,duraipandian.n@rajalakshmi.edu.in /dean.cs@rajalakshmi.edu.in,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+214,70,2,3,False,False,196,CS251,Mr.,Dr.P.Shanmugam,shanmugam.p@rajalakshmi.edu.in,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+216,70,2,3,False,False,220,CS282,Ms.,V.Ariyamala,ariyamala.v@rajalakshmi.edu.in,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+217,70,2,3,False,False,220,CS282,Ms.,V.Ariyamala,ariyamala.v@rajalakshmi.edu.in,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+218,70,2,3,False,False,201,IT191,Mrs.,Dharani Devi G,dharanidevi.g@rajalakshmi.edu.in,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+219,70,2,3,False,False,224,CS291,Mrs.,Mahesmeena,mahesmeena@rajalakshmi.edu.in,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+220,70,2,3,False,False,192,CS182,Mrs.,Jananee V,jananee.v@rajalakshmi.edu.in,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+221,70,2,3,False,False,235,CS321,Dr.,Bhuvaneswari R,bhuvaneswari.r@rajalakshmi.edu.in,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+222,21,4,7,False,False,49,AU20,Mr.,Mohanraj K,mohanraj.k@rajalakshmi.edu.in,1913,AT19701,Vehicle Mangement System,T,3,0,0,3.0,Automobile Engineering
+223,21,4,7,False,False,49,AU20,Mr.,Mohanraj K,mohanraj.k@rajalakshmi.edu.in,1923,AT19713,Project Phase I,L,0,4,0,2.0,Automobile Engineering
+224,21,4,7,False,False,65,AU46,Mr.,Zahir Hussain M,zahirhussain.m@rajalakshmi.edu.in,1914,AT19702,Intelligent Vehicle System,T,3,0,0,3.0,Automobile Engineering
+228,21,4,7,False,False,56,AU11,Mr.,R.Anbalagan,anbalagan.r@rajalakshmi.edu.in,1941,AT19721,Vehicle Maintenance Laboratory,L,0,2,0,1.0,Automobile Engineering
+229,22,4,7,False,False,66,AU49,Mr.,R. Edwin Joseph,edwinjoseph.r@rajalakshmi.edu.in,1918,AT19722,Computer Aided Analysis Laboratory,L,0,2,0,1.0,Automobile Engineering
+230,21,4,7,False,False,56,AU11,Mr.,R.Anbalagan,anbalagan.r@rajalakshmi.edu.in,1921,AT19723,Comprehension,L,0,2,0,0.0,Automobile Engineering
+231,21,4,7,False,False,64,AU35,Mr.,Pavan.P,pavan.p@rajalakshmi.edu.in,1922,AT19711,AI and ML for Automobile  Engineers,L,0,6,0,3.0,Automobile Engineering
+233,32,3,5,False,False,59,AU51,Mr.,R.Karthikeyan,karthikeyan.r2@rajalakshmi.edu.in,1928,GE23311,Fundamentals of Management for Engineers,T,3,0,0,3.0,Automobile Engineering
+234,32,3,5,False,False,49,AU20,Mr.,Mohanraj K,mohanraj.k@rajalakshmi.edu.in,1929,AT23G12,Two and Three Wheelers,T,3,0,0,3.0,Automobile Engineering
+238,32,3,5,False,False,64,AU35,Mr.,Pavan.P,pavan.p@rajalakshmi.edu.in,1354,AT23532,Electric and Hybrid Vehicles - II,LoT,3,2,0,4.0,Automobile Engineering
+239,32,3,5,False,False,49,AU20,Mr.,Mohanraj K,mohanraj.k@rajalakshmi.edu.in,1351,AT23521,Two and Three wheelers Laboratory,L,0,2,0,1.0,Automobile Engineering
+240,32,3,5,False,False,65,AU46,Mr.,Zahir Hussain M,zahirhussain.m@rajalakshmi.edu.in,1352,AT23522,Computer Aided Vehicle Design Data Characteristics Laboratory,L,0,2,0,1.0,Automobile Engineering
+243,70,3,5,False,False,188,CS69,Mr.,Dr.S.Vinodhkumar,vinodkumar.s@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+244,70,3,5,False,False,217,CS256,Mrs.,Dr.R.Sabitha,sabitha.r@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+246,70,2,3,False,False,212,CS284,Ms.,Muneeshwari R,muneeshwari.p@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+247,70,2,3,False,False,212,CS284,Ms.,Muneeshwari R,muneeshwari.p@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+249,70,3,5,False,False,240,CS305,Mr.,Dr Parthasarathy C,parthasarathy.c@rajalakshmi.edu.in,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+251,70,3,5,False,False,211,CS253,Mr.,Dr.K.Anand,anand.k@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+252,70,2,3,False,False,211,CS253,Mr.,Dr.K.Anand,anand.k@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+253,70,3,5,False,False,222,CS255,Mr.,Dr.K.Ananthajothi,ananthajothi.k@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+254,70,3,5,False,False,222,CS255,Mr.,Dr.K.Ananthajothi,ananthajothi.k@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+255,70,3,5,False,False,245,CS319,Dr.,Chettiyar Vani Vivekanand,chettiyarvanivivekanand@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+256,70,3,5,False,False,245,CS319,Dr.,Chettiyar Vani Vivekanand,chettiyarvanivivekanand@rajalakshmi.edu.in,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+257,70,2,3,False,False,216,CS281,Mr.,V Karthick,karthick.v@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+258,65,3,5,False,False,169,CV27,Mr.,Dr. M. Selvakumar,selvakumar.m@rajalakshmi.edu.in;,1484,CE23513,Waste Water Engineering,T,3,0,0,3.0,Civil Engineering
+259,70,3,5,False,False,196,CS251,Mr.,Dr.P.Shanmugam,shanmugam.p@rajalakshmi.edu.in,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+260,70,2,3,False,False,205,CS226,Mrs.,Santhiya M,santhiya.m@rajalakshmi.edu.in,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+261,70,3,5,False,False,202,CS208,Mr.,Dr. N. Duraimurugan,duraimurugan.n@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+262,59,2,3,False,False,159,CV39,Mrs.,A.J.Jeya Arthi,jeyaarthi.aj@rajalakshmi.edu.in,1472,CE23312,Fluid Mechanics,T,3,0,0,3.0,Civil Engineering
+263,70,2,3,False,False,250,CS313,Mr.,Ayyadurai M,ayyadurai.m@rajalakshmi.edu.in,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+264,30,2,3,False,False,159,CV39,Mrs.,A.J.Jeya Arthi,jeyaarthi.aj@rajalakshmi.edu.in,1474,CE23321,Construction Materials Laboratory,L,0,4,0,2.0,Civil Engineering
+265,29,2,3,False,False,159,CV39,Mrs.,A.J.Jeya Arthi,jeyaarthi.aj@rajalakshmi.edu.in,1474,CE23321,Construction Materials Laboratory,L,0,4,0,2.0,Civil Engineering
+266,70,2,3,False,False,250,CS313,Mr.,Ayyadurai M,ayyadurai.m@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+267,70,3,5,False,False,244,CS320,Dr.,Madhusudhanan S,madhusudhan.s@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+268,70,2,3,False,False,197,CS171,Mrs.,S.Ponmani,ponmani.s@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+269,70,3,5,False,False,197,CS171,Mrs.,S.Ponmani,ponmani.s@rajalakshmi.edu.in,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+270,70,3,5,False,False,192,CS182,Mrs.,Jananee V,jananee.v@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+271,70,2,3,False,False,236,CS314,Mrs.,Deepa B,deepa.b@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+272,70,2,3,False,False,199,CS221,Mrs.,J.Jinu Sophia,jinusophia.j@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+273,70,2,3,False,False,203,CS178,Mrs.,Akiladevi R,akiladevi.r@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+274,70,3,5,False,False,195,CS203,Ms.,Jaeyalakshmi M,jaeyalakshmi.m@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+275,70,3,5,False,False,195,CS203,Ms.,Jaeyalakshmi M,jaeyalakshmi.m@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+276,70,3,5,False,False,198,IT194,Mrs.,Farjana U,farjana.u@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+277,70,3,5,False,False,223,CS272,Mrs.,S.Vinothini,vinothini.s@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+278,70,3,5,False,False,223,CS272,Mrs.,S.Vinothini,vinothini.s@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+279,70,2,3,False,False,219,CS308,Mrs.,Aswana Lal,aswanalal@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+280,70,3,5,False,False,219,CS308,Mrs.,Aswana Lal,aswanalal@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+281,70,3,5,False,False,234,IT210,Mrs.,J.A.Adlin Layola,adlinlayola.ja@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+282,70,3,5,False,False,234,IT210,Mrs.,J.A.Adlin Layola,adlinlayola.ja@rajalakshmi.edu.in,1553,CS23511,Theory of Computation,T,3,0,1,4.0,Computer Science & Engineering
+283,70,3,5,False,False,231,CS298,Ms.,Divya M,divya.m@rajalakshmi.edu.in,1868,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering
+284,70,2,3,False,False,231,CS298,Ms.,Divya M,divya.m@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+285,65,3,5,False,False,147,CV30,Mrs.,Dr. S. Geetha,geetha.s@rajalakshmi.edu.in,1482,CE23511,Design of Reinforced Concrete Elements,T,3,0,1,4.0,Civil Engineering
+286,70,3,5,False,False,243,CS322,Ms.,Dharshini B S,dharshini.bs@rajalakshmi.edu.in,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+287,70,2,3,False,False,243,CS322,Ms.,Dharshini B S,dharshini.bs@rajalakshmi.edu.in,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+288,21,4,7,False,False,162,CV81,Mrs.,Dr.M.Uma Maguesvari,umamaguesvari.m@rajalakshmi.edu.in,1856,CE19P71,PRESTRESSED CONCRETE STRUCTURES,T,3,0,0,3.0,Civil Engineering
+289,70,3,5,False,False,229,CS238,Mrs.,Sathiyavathi S,sathiyavathi.s@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+290,65,3,5,False,False,155,CV29,Mrs.,S. Muthu Lakshmi,muthulakshmi.s@rajalakshmi.edu.in,1483,CE23512,Foundation Engineering,T,3,0,0,3.0,Civil Engineering
+291,59,2,3,False,False,155,CV29,Mrs.,S. Muthu Lakshmi,muthulakshmi.s@rajalakshmi.edu.in,1471,CE23311,Strength of Materials I,T,3,0,0,3.0,Civil Engineering
+292,22,4,5,False,False,155,CV29,Mrs.,S. Muthu Lakshmi,muthulakshmi.s@rajalakshmi.edu.in,1859,CE19712,CREATIVE AND INNOVATIVE PROJECT,L,0,6,0,3.0,Civil Engineering
+293,33,3,5,False,False,152,CV19,Mr.,Mahamood Ul Hasan N,mahamoodulhasan.n@rajalakshmi.edu.in,1486,CE23531,Structural Analysis,LoT,3,2,0,4.0,Civil Engineering
+294,70,2,3,False,False,248,CS333,Mrs.,Suba Malai Rajasekar,subamalai.r@rajalakshmi.edu.in,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+295,70,3,5,False,False,268,CS334,Mr.,Kirubhakar T T,kirubhakar.tt@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+296,70,3,5,False,False,268,CS334,Mr.,Kirubhakar T T,kirubhakar.tt@rajalakshmi.edu.in,1555,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering
+297,32,3,5,False,False,158,CV083,Dr.,T Eswary Devi,eswarydevi.t@rajalakshmi.edu.in,1836,CE23C11,ADVANCED CONSTRUCTION TECHNIQUES,T,3,0,0,3.0,Civil Engineering
+298,45,4,6,False,False,158,CV083,Dr.,T Eswary Devi,eswarydevi.t@rajalakshmi.edu.in,1854,CE19701,ESTIMATION AND QUANTITY SURVEYING,T,3,0,0,3.0,Civil Engineering
+300,45,4,7,False,False,148,CV61,Dr.,S Premkumar,premkumar.s@rajalakshmi.edu.in,1855,CE19702,WATER RESOURCES AND IRRIGATION ENGINEERING,T,3,0,0,3.0,Civil Engineering
+301,33,3,5,False,False,148,CV61,Dr.,S Premkumar,premkumar.s@rajalakshmi.edu.in,1839,CE23F14,URBAN PLANNING AND DEVELOPMENT,T,3,0,0,3.0,Civil Engineering
+302,45,4,7,False,False,148,CV61,Dr.,S Premkumar,premkumar.s@rajalakshmi.edu.in,1861,CE19714,PROBLEM SOLVING USING MACHINE LEARNING IN CIVIL ENGINEERING,L,0,4,0,2.0,Civil Engineering
+303,70,2,3,False,False,166,CV67,Mr.,Ammaiappan.M,ammaiappan.m@rajalakshmi.edu.in,1473,CE23313,"Construction Techniques, Equipment and Practice",T,3,0,0,3.0,Civil Engineering
+304,70,2,3,False,False,1753,New Staff-1,,,,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+305,70,2,3,False,False,1753,New Staff-1,,,,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+306,70,2,3,False,False,1754,New Staff-2,,,,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+307,70,2,3,False,False,1754,New Staff-2,,,,1542,CS23311,Computer Architecture,T,3,0,0,3.0,Computer Science & Engineering
+308,70,2,3,False,False,1755,New Staff-3,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+310,70,2,3,False,False,1755,New Staff-3,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+311,70,2,3,False,False,1756,New Staff-4,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+312,70,2,3,False,False,1756,New Staff-4,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+313,70,2,3,False,False,1757,New Staff-5,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+315,70,2,3,False,False,1757,New Staff-5,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+316,70,2,3,False,False,1758,New Staff-6,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+318,70,2,3,False,False,1758,New Staff-6,,,,1543,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Computer Science & Engineering
+319,65,3,5,False,False,575,,HOD,AERO,hod.aero@rajalakshmi.edu.in,1312,AE23511,Aircraft Propulsion,T,2,0,1,3.0,Aeronautical Engineering
+323,70,2,3,False,False,1759,New Staff-7,,,,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+324,65,3,5,False,False,10,AE78,Mr.,B Kathiravan,kathiravan.b@rajalakshmi.edu.in,1314,AE23513,Flight Dynamics,T,2,0,1,3.0,Aeronautical Engineering
+325,51,4,7,False,False,10,AE78,Mr.,B Kathiravan,kathiravan.b@rajalakshmi.edu.in,1948,AE19P74,Combustion and Flames,T,3,0,0,3.0,Aeronautical Engineering
+326,65,3,5,False,False,9,AE49,Dr.,Surendra Bogadi,surendrabogadi@rajalakshmi.edu.in,1313,AE23512,Compressible Aerodynamics,T,2,0,1,3.0,Aeronautical Engineering
+327,51,4,7,False,False,9,AE49,Dr.,Surendra Bogadi,surendrabogadi@rajalakshmi.edu.in,1946,AE19A11,Experimental Aerodynamics,T,3,0,0,3.0,Aeronautical Engineering
+328,51,4,7,False,False,9,AE49,Dr.,Surendra Bogadi,surendrabogadi@rajalakshmi.edu.in,1889,AE19711,Project Work (Phase - I),T,0,4,0,2.0,Aeronautical Engineering
+329,70,2,3,False,False,1777,New Staff-8,,,,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+330,33,3,5,False,False,166,CV67,Mr.,Ammaiappan.M,ammaiappan.m@rajalakshmi.edu.in,1485,CE23521,Water and Waste Water Analysis Laboratory,L,0,4,0,2.0,Civil Engineering
+331,32,3,5,False,False,166,CV67,Mr.,Ammaiappan.M,ammaiappan.m@rajalakshmi.edu.in,1485,CE23521,Water and Waste Water Analysis Laboratory,L,0,4,0,2.0,Civil Engineering
+332,45,4,6,False,False,166,CV67,Mr.,Ammaiappan.M,ammaiappan.m@rajalakshmi.edu.in,1860,CE19713,COMPREHENSION IN CIVIL ENGINEERING,T,0,2,0,1.0,Civil Engineering
+333,32,3,5,False,False,157,CV65,Dr.,M.Manoharan,manoharan.m@rajalakshmi.edu.in,1486,CE23531,Structural Analysis,LoT,3,2,0,4.0,Civil Engineering
+335,59,2,3,False,False,163,CV70,Mrs.,Yugasini S,yugasini.s@rajalakshmi.edu.in,1475,CE23331,Surveying,LoT,3,2,0,4.0,Civil Engineering
+336,24,4,7,False,False,183,CV72,Mr.,R Madhava Perumal,madhavaperumal.r@rajalakshmi.edu.in,1857,CE19P75,GLOBAL CLIMATIC CHANGE,T,3,0,0,3.0,Civil Engineering
+337,30,2,3,False,False,183,CV72,Mr.,R Madhava Perumal,madhavaperumal.r@rajalakshmi.edu.in,1818,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Civil Engineering
+338,51,4,7,False,False,7,AE75,Mr.,Nithiyanantham K K,nithiyanantham.kk@rajalakshmi.edu.in,1964,AE19741,Avionics,LoT,3,2,0,4.0,Aeronautical Engineering
+339,70,2,3,False,False,1761,New Staff-9,,,,1544,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering
+340,29,2,3,False,False,157,CV65,Dr.,M.Manoharan,manoharan.m@rajalakshmi.edu.in,1818,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Civil Engineering
+341,70,2,3,False,False,1761,New Staff-9,,,,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+342,70,2,3,False,False,1762,New Staff-10,,,,1545,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering
+343,67,3,5,False,False,564,ME246,Mr.,L Ganesh Babu,ganeshbabu.l@rajalakshmi.edu.in,1770,RO23511,AI for Robotics,T,3,0,0,3.0,Robotics & Automation
+344,70,2,3,False,False,1763,New Staff-11,,,,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+345,70,2,3,False,False,1763,New Staff-11,,,,1546,CS23334,Fundamentals of Data Science,LoT,3,2,0,4.0,Computer Science & Engineering
+347,70,3,5,False,False,1764,New Staff-12,,,,1554,CS23512,Fundamentals of Mobile Computing,T,3,0,0,3.0,Computer Science & Engineering
+348,45,4,7,False,False,158,CV083,Dr.,T Eswary Devi,eswarydevi.t@rajalakshmi.edu.in,1858,CE19711,COMPUTER AIDED DESIGN AND DRAFTING LABORATORY,L,0,4,0,2.0,Civil Engineering
+349,70,2,3,False,False,564,ME246,Mr.,L Ganesh Babu,ganeshbabu.l@rajalakshmi.edu.in,1761,RO23313,Sensors in Automation,T,3,0,0,3.0,Robotics & Automation
+350,70,1,1,False,False,1768,New Staff-16,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+351,70,1,1,False,False,1769,New Staff-17,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+352,70,1,1,False,False,1770,New Satff-18,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+353,70,2,3,False,False,152,CV19,Mr.,Mahamood Ul Hasan N,mahamoodulhasan.n@rajalakshmi.edu.in,1844,GE23311,Fundamentals of Management for Engineers,T,3,0,0,3.0,Civil Engineering
+354,70,1,1,False,False,1771,New Staff-19,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+356,70,1,1,False,False,1772,New Staff-20,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+357,70,1,1,False,False,1773,New Staff-21,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+358,70,1,1,False,False,1774,New Staff-22,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+359,70,1,1,False,False,1775,New Staff-23,,,,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+360,70,1,1,False,False,207,CS239,Mr.,Srinivasan N,srinivasan.n@rajalakshmi.edu.in,378,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering
+361,70,2,5,False,False,6,AE60,Mr.,Balaji Rajendran,balaji.rajendran@rajalakshmi.edu.in,1316,AE23531,Aircraft Structures - II,LoT,2,2,1,4.0,Aeronautical Engineering
+362,51,4,7,False,False,6,AE60,Mr.,Balaji Rajendran,balaji.rajendran@rajalakshmi.edu.in,1947,AE19P72,Fatigue and Fracture,T,3,0,0,3.0,Aeronautical Engineering
+363,65,2,3,False,False,6,AE60,Mr.,Balaji Rajendran,balaji.rajendran@rajalakshmi.edu.in,1967,NPTEL,NPTEL,L,3,0,0,3.0,Aeronautical Engineering
+364,70,2,3,False,False,3,AE67,Mr.,Shebaz Ahmed J P,shebazahamed.jp@rajalakshmi.edu.in,1304,AE23331,Solid Mechanics,LoT,2,2,1,4.0,Aeronautical Engineering
+365,60,3,5,False,False,3,AE67,Mr.,Shebaz Ahmed J P,shebazahamed.jp@rajalakshmi.edu.in,1831,GE23521,Soft Skills – II,L,0,2,0,1.0,Aeronautical Engineering
+366,60,3,5,False,False,3,AE67,Mr.,Shebaz Ahmed J P,shebazahamed.jp@rajalakshmi.edu.in,1968,Nptel,Nptel,L,3,0,0,3.0,Aeronautical Engineering
+367,70,3,5,False,False,26,CS49,Mr.,Suresh Kumar S,sureshkumar.s@rajalakshmi.edu.in,1834,AD23531,Big Data Architecture,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+368,70,4,7,False,False,26,CS49,Mr.,Suresh Kumar S,sureshkumar.s@rajalakshmi.edu.in,1848,AD19711,Project Phase-I,L,0,6,0,3.0,Artificial Intelligence & Data Science
+369,65,1,1,False,False,24,AE72,Mr.,D.L. Vasthadu Vasu Kannah,vasthaduvasukannah.dl@rajalakshmi.edu.in,1950,GE23111,Engineering Graphics,T,2,0,4,4.0,Aeronautical Engineering
+370,65,2,3,False,False,24,AE72,Mr.,D.L. Vasthadu Vasu Kannah,vasthaduvasukannah.dl@rajalakshmi.edu.in,1303,AE23321,Computer Aided Modelling Laboratory,L,0,4,0,2.0,Aeronautical Engineering
+371,60,3,6,False,False,24,AE72,Mr.,D.L. Vasthadu Vasu Kannah,vasthaduvasukannah.dl@rajalakshmi.edu.in,1321,AE23521,Computational Simulation Laboratory,L,0,4,0,2.0,Aeronautical Engineering
+373,70,3,5,False,False,29,IT257,Dr.,Beulah A,beulah.a@rajalakshmi.edu.in,1838,AD23532,Principles of Data Science,LoT,2,4,0,4.0,Artificial Intelligence & Data Science
+374,70,3,5,False,False,21,IT224,Mrs.,Jayasri Archana Devi P,jayasriarchanadevi.p@rajalakshmi.edu.in,1838,AD23532,Principles of Data Science,LoT,2,4,0,4.0,Artificial Intelligence & Data Science
+375,70,3,5,False,False,18,IT245,Mrs.,Selvarani K,selvarani.k@rajalakshmi.edu.in,1834,AD23531,Big Data Architecture,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+377,65,3,5,False,False,8,AE73,Mr.,Prem Anand T P,premanand.tp@rajalakshmi.edu.in,1867,AE23D11,Fundamentals of UAV Systems and Design,T,3,0,0,3.0,Aeronautical Engineering
+378,51,4,7,False,False,8,AE73,Mr.,Prem Anand T P,premanand.tp@rajalakshmi.edu.in,1969,AE19713,Artificial Intelligence And Machine Learning For Aeronautical Engineering,L,0,4,0,2.0,Aeronautical Engineering
+379,60,1,1,False,False,8,AE73,Mr.,Prem Anand T P,premanand.tp@rajalakshmi.edu.in,1954,GE23117,Heritage Of Tamils,T,1,0,0,1.0,Aeronautical Engineering
+380,70,2,3,False,False,13,AE76,Mr.,Pradesh S,pradesh.s@rajalakshmi.edu.in,1963,AE23332,Fluid Mechanics and Fluid Machinery,LoT,2,2,1,4.0,Aeronautical Engineering
+382,50,4,7,False,False,11,AE79,Mr.,S Harish,harish.s.aero@rajalakshmi.edu.in,1885,AE19701,Computational Fluid Dynamics,T,3,0,0,3.0,Aeronautical Engineering
+383,50,1,1,False,False,11,AE79,Mr.,S Harish,harish.s.aero@rajalakshmi.edu.in,1949,MC23112,Environmental Science and Engineering,T,3,0,0,0.0,Aeronautical Engineering
+384,51,4,7,False,False,11,AE79,Mr.,S Harish,harish.s.aero@rajalakshmi.edu.in,1970,AE19712,Structural And Flow Simulation Laboratory,L,0,4,0,2.0,Aeronautical Engineering
+386,70,2,3,False,False,15,IT213,Mr.,Harikrishnan Ravichandran,harikrishnan.r@rajalakshmi.edu.in,1962,AE23333,Aero Engineering Thermodynamics,LoT,2,2,1,4.0,Aeronautical Engineering
+387,51,1,1,False,False,15,IT213,Mr.,Harikrishnan Ravichandran,harikrishnan.r@rajalakshmi.edu.in,1952,GE23121,Engineering Practices - Civil & Mechanical,L,0,2,0,1.0,Aeronautical Engineering
+396,63,2,3,False,False,516,ME197,Mr.,Sridharan M,sridharan.m@rajalakshmi.edu.in,1953,MT23333,Manufacturing Technology,LoT,3,2,0,4.0,Mechatronics Engineering
+397,63,2,3,False,False,493,ME231,Mr.,Nareshbabu Gajendran,nareshbabu.g@rajalakshmi.edu.in,1951,MT23331,Analog Devices and Drives,LoT,2,2,0,3.0,Mechatronics Engineering
+398,67,3,5,False,False,557,ME247,Mr.,R Saravanan,saravanan.r@rajalakshmi.edu.in,1771,RO23512,Theory of Mechanisms and Machines-II,T,3,0,1,4.0,Robotics & Automation
+401,63,2,3,False,False,563,ME213,Mr.,Ramkumar S,ramkumar.s@rajalakshmi.edu.in,1759,RO23311,Analog and Digital Electronics,T,3,0,0,3.0,Robotics & Automation
+403,67,3,5,False,False,488,ME228,Ms.,Nivethitha S B,nivethitha.sb@rajalakshmi.edu.in,1971,MT23512,Industrial Electronics,T,2,0,1,3.0,Mechatronics Engineering
+404,67,3,5,False,False,563,ME213,Mr.,Ramkumar S,ramkumar.s@rajalakshmi.edu.in,1772,RO23521,Mobile Robotics laboratory,L,0,4,0,2.0,Robotics & Automation
+406,63,2,3,False,False,483,ME235,Mr.,Prakash E,prakash.e@rajalakshmi.edu.in,1955,MT23334,Mechanics of Solids,LoT,3,2,0,4.0,Mechatronics Engineering
+408,63,2,3,False,False,572,ME248,Dr.,Senthilrajan S,senthilrajan.r@rajalakshmi.edu.in,1763,RO23332,Mechanics of Materials,LoT,3,2,0,4.0,Robotics & Automation
+410,63,2,3,False,False,570,ME244,Mr.,Venugopal K,venugopal.k@rajalakshmi.edu.in,1762,RO23331,Elements of Manufacturing Process,LoT,2,2,0,3.0,Robotics & Automation
+412,63,2,3,False,False,567,ME236,Mr.,P.Vimalanathan,vimalanathan.p@rajalakshmi.edu.in,1762,RO23331,Elements of Manufacturing Process,LoT,2,2,0,3.0,Robotics & Automation
+414,60,1,1,False,False,578,ME050,HOD,RA,hod.ra@rajalakshmi.edu.in,501,RO23111,Introduction To Mechanical Systems,T,2,0,1,3.0,Robotics & Automation
+415,67,3,5,False,False,564,ME246,Mr.,L Ganesh Babu,ganeshbabu.l@rajalakshmi.edu.in,1773,RO23522,"Industrial Automation 
+ Laboratory-II",L,0,4,0,2.0,Robotics & Automation
+416,63,2,3,False,False,578,ME050,HOD,RA,hod.ra@rajalakshmi.edu.in,1891,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Robotics & Automation
+417,67,3,5,False,False,482,ME242,Mr.,Vimalesh. A,vimalesh.a@rajalakshmi.edu.in,1972,MT23511,Semiconductor Manufacturing,T,3,0,0,3.0,Mechatronics Engineering
+418,67,3,5,False,False,495,ME256,Mr.,Dr Ramesh Shanmugam,ramesh.s@rajalakshmi.edu.in,1973,MT23513,Basic Engineering Research Methods,T,3,0,0,3.0,Mechatronics Engineering
+419,67,3,5,False,False,496,ME147,Mrs.,Uma Maheswari M,umamaheswari.m@rajalakshmi.edu.in,1984,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Mechatronics Engineering
+421,67,3,5,False,False,488,ME228,Ms.,Nivethitha S B,nivethitha.sb@rajalakshmi.edu.in,1976,MT23522,Industrial Electronics Laboratory,L,0,2,0,1.0,Mechatronics Engineering
+422,67,3,5,False,False,493,ME231,Mr.,Nareshbabu Gajendran,nareshbabu.g@rajalakshmi.edu.in,1979,GE23521,Soft Skills – II,L,0,2,0,1.0,Mechatronics Engineering
+424,63,2,3,False,False,496,ME147,Mrs.,Uma Maheswari M,umamaheswari.m@rajalakshmi.edu.in,1735,MT23332,Digital System Design,LoT,2,2,0,3.0,Mechatronics Engineering
+425,63,2,3,False,False,495,ME256,Mr.,Dr Ramesh Shanmugam,ramesh.s@rajalakshmi.edu.in,1956,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Mechatronics Engineering
+427,70,4,7,False,False,592,,HOD,FOOD TECH,hod.ft@rajalakshmi.edu.in,1982,FT19705,Innovation and Design thinking for Food Technologists,T,3,0,0,3.0,Food Technology
+428,61,4,5,False,False,592,,HOD,FOOD TECH,hod.ft@rajalakshmi.edu.in,1989,FT19713,Industry training during vacation,L,1,0,0,0.0,Food Technology
+430,67,3,5,False,False,489,ME255,Ms.,Shobana D,shobana.d@rajalakshmi.edu.in,1996,GE23311,Fundamentals of Management for Engineers,T,3,0,0,3.0,Mechatronics Engineering
+431,61,4,6,False,False,366,FT19,Mr.,Dr.V.Sudhakar,sudhakar.v@rajalakshmi.edu.in,1980,FT19703,"Food Safety, Quality and Regulation",T,3,0,0,3.0,Food Technology
+433,67,3,5,False,False,488,ME228,Ms.,Nivethitha S B,nivethitha.sb@rajalakshmi.edu.in,1977,MT23523,Internship,L,0,2,0,1.0,Mechatronics Engineering
+434,70,3,5,False,False,376,FT16,Mrs.,Dr. P. Bharathi,bharathi.p@rajalakshmi.edu.in,1640,FT23503,Heat and Mass Transfer in Food Processing,T,3,0,0,3.0,Food Technology
+435,62,2,3,False,False,376,FT16,Mrs.,Dr. P. Bharathi,bharathi.p@rajalakshmi.edu.in,1882,FT23304,Food Process Calculations,T,3,0,0,3.0,Food Technology
+437,70,4,7,False,False,369,FT09,Ms.,Dr. Niveadhitha S,niveadhitha.s@rajalakshmi.edu.in,1983,PE IV,Professional Elective IV,T,3,0,0,3.0,Food Technology
+438,61,3,5,False,False,369,FT09,Ms.,Dr. Niveadhitha S,niveadhitha.s@rajalakshmi.edu.in,1642,FT23512,Food Processing and Preservation Laboratory - II,L,0,4,0,2.0,Food Technology
+439,70,2,3,False,False,390,FT08,Mrs.,Aruthra Devi G,aruthradevi.g@rajalakshmi.edu.in,1828,FT23302,Biochemistry and Nutrition,T,3,0,0,3.0,Food Technology
+440,61,4,6,False,False,390,FT08,Mrs.,Aruthra Devi G,aruthradevi.g@rajalakshmi.edu.in,1985,PE V,Professional Elective V,T,3,0,0,3.0,Food Technology
+441,70,2,3,False,False,372,FT10,Mrs.,Kulastic Jassy A,kulasticjassy.a@rajalakshmi.edu.in,1630,FT23305,Food Additives,T,3,0,0,3.0,Food Technology
+442,61,4,5,False,False,372,FT10,Mrs.,Kulastic Jassy A,kulasticjassy.a@rajalakshmi.edu.in,1981,FT19704,Professional Ethics,T,3,0,0,3.0,Food Technology
+443,61,3,5,False,False,372,FT10,Mrs.,Kulastic Jassy A,kulasticjassy.a@rajalakshmi.edu.in,1641,FT23511,Food Analysis Laboratory,L,0,4,0,2.0,Food Technology
+444,66,4,7,False,False,567,ME236,Mr.,P.Vimalanathan,vimalanathan.p@rajalakshmi.edu.in,1987,GE19304,Fundamentals of Management for Engineers,T,3,0,0,3.0,Robotics & Automation
+445,66,4,7,False,False,558,ME185,Mr.,Eswaran A,eswaran.a@rajalakshmi.edu.in,1991,RO19702,Computer Integrated Manufacturing,T,3,0,0,3.0,Robotics & Automation
+446,70,4,6,False,False,374,FT12,Mrs.,Ms.A.Srimagal,srimagal.a@rajalakshmi.edu.in,1974,FT19701,Food Packaging Technology,T,3,0,0,3.0,Food Technology
+447,61,4,5,False,False,374,FT12,Mrs.,Ms.A.Srimagal,srimagal.a@rajalakshmi.edu.in,1986,FT19711,Food Packaging Technology Laboratory,L,0,4,0,2.0,Food Technology
+449,66,4,7,False,False,557,ME247,Mr.,R Saravanan,saravanan.r@rajalakshmi.edu.in,1993,RO19703,Material Handling system,T,3,0,0,3.0,Robotics & Automation
+450,66,4,7,False,False,570,ME244,Mr.,Venugopal K,venugopal.k@rajalakshmi.edu.in,1994,RO19D12,Advanced Manufacturing Systems,T,3,0,0,3.0,Robotics & Automation
+452,70,2,3,False,False,386,FT23,Mr.,Anand R,anand.r@rajalakshmi.edu.in,1626,FT23301,Food Microbiology,T,3,0,0,3.0,Food Technology
+454,67,3,5,False,False,572,ME248,Dr.,Senthilrajan S,senthilrajan.r@rajalakshmi.edu.in,1995,RO23C13,Farm Automation,T,3,0,0,3.0,Robotics & Automation
+456,70,4,7,False,False,367,BT159,Dr.,Priyadarshini S R,priyadarshini.sr@rajalakshmi.edu.in,1978,FT19702,Livestock and Marine Technology,T,3,0,0,3.0,Food Technology
+457,61,4,6,False,False,367,BT159,Dr.,Priyadarshini S R,priyadarshini.sr@rajalakshmi.edu.in,1988,FT19712,Livestock and Marine Technology Laboratory,L,0,4,0,2.0,Food Technology
+459,70,3,5,False,False,389,FT25,Mrs.,Nithya Bala Sundari S,nithyabalasundari.s@rajalakshmi.edu.in,1877,FT23502,Food Process Engineering,T,3,0,0,3.0,Food Technology
+461,61,3,5,False,False,389,FT25,Mrs.,Nithya Bala Sundari S,nithyabalasundari.s@rajalakshmi.edu.in,1642,FT23512,Food Processing and Preservation Laboratory - II,L,0,4,0,2.0,Food Technology
+462,70,3,5,False,False,380,FT26,Ms.,Divyashree J S,divyashree.js@rajalakshmi.edu.in,1638,FT23501,Food Analysis,T,3,0,0,3.0,Food Technology
+466,68,4,7,False,False,477,ME227,Mr.,Dr.M.Balakarthikeyan,balakarthikeyan.m@rajalakshmi.edu.in,1997,MT19701,Automotive Mechatronics,T,3,0,0,3.0,Mechatronics Engineering
+467,36,2,3,False,False,579,,HOD,AUTO,hod.auto@rajalakshmi.edu.in,1341,AT23331,Automotive Engines,LoT,3,2,0,4.0,Automobile Engineering
+468,68,4,7,False,False,480,ME239,Mr.,Dr.P.Chandramohan,chandramohan.p@rajalakshmi.edu.in,1998,MT19702,Computer Aided Design and Manufacturing,T,3,0,0,3.0,Mechatronics Engineering
+469,36,2,3,False,False,62,ME232,Mrs.,B.Mullai Sudaroli,mullaisudaroli.b@rajalakshmi.edu.in,1342,AT23332,Applied Thermodynamics,LoT,2,2,1,4.0,Automobile Engineering
+470,68,4,7,False,False,493,ME231,Mr.,Nareshbabu Gajendran,nareshbabu.g@rajalakshmi.edu.in,1999,MT19703,Industrial Automation,T,3,0,0,3.0,Mechatronics Engineering
+471,36,2,3,False,False,71,AU50,Dr.,Selvaraju P N,selvaraju.pn@rajalakshmi.edu.in,1343,AT23333,Strength of Materials for Automobile Engineers,LoT,2,2,1,4.0,Automobile Engineering
+472,68,4,7,False,False,482,ME242,Mr.,Vimalesh. A,vimalesh.a@rajalakshmi.edu.in,2000,MT19704,Machine Vision,T,3,0,0,3.0,Mechatronics Engineering
+473,36,2,3,False,False,59,AU51,Mr.,R.Karthikeyan,karthikeyan.r2@rajalakshmi.edu.in,1344,AT23334,Production Technology - II,LoT,3,2,0,4.0,Automobile Engineering
+474,68,4,7,False,False,480,ME239,Mr.,Dr.P.Chandramohan,chandramohan.p@rajalakshmi.edu.in,2001,MT19711,Computer Aided Engineering Laboratory,L,0,3,0,1.0,Mechatronics Engineering
+475,68,4,7,False,False,493,ME231,Mr.,Nareshbabu Gajendran,nareshbabu.g@rajalakshmi.edu.in,2002,MT19712,Industrial Automation Laboratory,L,0,3,0,2.0,Mechatronics Engineering
+476,68,4,7,False,False,495,ME256,Mr.,Dr Ramesh Shanmugam,ramesh.s@rajalakshmi.edu.in,2004,MT19713,"Mechatronics Problem Solving using AI, ML & DL",L,0,4,0,2.0,Mechatronics Engineering
+477,66,4,7,False,False,557,ME247,Mr.,R Saravanan,saravanan.r@rajalakshmi.edu.in,2008,RO19711,Innovation and Design thinking for Robotics and Automation,L,0,4,0,2.0,Robotics & Automation
+478,68,4,7,False,False,479,ME35,Mr.,Santhanam V,santhanam.v@rajalakshmi.edu.in,2006,MT19721,Project Work Phase - I,L,0,2,0,1.0,Mechatronics Engineering
+479,70,3,5,False,False,366,FT19,Mr.,Dr.V.Sudhakar,sudhakar.v@rajalakshmi.edu.in,2007,PE I,Professional Elective I,T,3,0,0,3.0,Food Technology
+480,70,3,5,False,False,369,FT09,Ms.,Dr. Niveadhitha S,niveadhitha.s@rajalakshmi.edu.in,2005,PE II,Professional Elective II,T,3,0,0,3.0,Food Technology
+481,70,3,5,False,False,367,BT159,Dr.,Priyadarshini S R,priyadarshini.sr@rajalakshmi.edu.in,2005,PE II,Professional Elective II,T,3,0,0,3.0,Food Technology
+482,36,2,3,False,False,65,AU46,Mr.,Zahir Hussain M,zahirhussain.m@rajalakshmi.edu.in,1340,AT23321,Computer Aided Machine Drawing Laboratory,L,0,4,0,2.0,Automobile Engineering
+483,70,3,5,False,False,112,BT156,Mrs.,Dr. G. Carlin Geor Malar,carlingeormalar.g@rajalakshmi.edu.in,1417,BT23512,Bioinformatics,T,3,0,0,3.0,Biotechnology
+487,70,1,1,False,False,512,ME183,Mr.,Santhanakrishnan Mamallan,santhanakrishnan.m@rajalakshmi.edu.in,376,GE23121,Engineering Practices – Civil and Mechanical,L,0,2,0,1.0,Mechanical Engineering
+490,45,4,7,False,False,512,ME183,Mr.,Santhanakrishnan Mamallan,santhanakrishnan.m@rajalakshmi.edu.in,529,ME19701,Automobile Engineering,T,3,0,0,3.0,Mechanical Engineering
+491,70,4,7,False,False,577,CS295,HOD,AIML,hod.aiml@rajalakshmi.edu.in,2014,AI19741,Big Data Technology,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+492,70,4,7,False,False,577,CS295,HOD,AIML,hod.aiml@rajalakshmi.edu.in,2015,AI19711,Project-I,L,0,6,0,3.0,Artificial Intelligence & Machine Learning
+493,70,4,7,False,False,31,CS09,Mrs.,Dr. S. Poonkuzhali,poonkuzhali.s@rajalakshmi.edu.in,2011,AI19P71,Data Visualization using Python,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+495,70,4,7,False,False,47,IT236,Dr.,N M Balamurugan,balamurugan.mn@rajalakshmi.edu.in,2012,AI19701,Secure Systems Engineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+497,70,3,5,False,False,63,IT246,Dr.,Rajasekaran Annamalai,rajasekaran.a@rajalakshmi.edu.in,2016,AI23A37,Computer Vision and Applications,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+498,70,2,3,False,False,57,AU35,Mr.,Magesh M P,magesh.mp@rajalakshmi.edu.in,1328,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+500,70,3,5,False,False,67,IT250,Dr.,Raju K,raju.k@rajalakshmi.edu.in,1331,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+502,70,4,7,False,False,40,IT178,Mrs.,Sowmia K R,sowmia.kr@rajalakshmi.edu.in,2015,AI19711,Project-I,L,0,6,0,3.0,Artificial Intelligence & Machine Learning
+503,70,4,7,False,False,36,IT227,Mrs.,Sree Subha S,sreesubha.s@rajalakshmi.edu.in,2015,AI19711,Project-I,L,0,6,0,3.0,Artificial Intelligence & Machine Learning
+504,70,4,7,False,False,38,CS175,Mr.,Vijay K,vijay.k@rajalakshmi.edu.in,2011,AI19P71,Data Visualization using Python,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+505,70,4,7,False,False,37,IT232,Mr.,Kumaran U,kumaran.u@rajalakshmi.edu.in,2009,AI19P75,Information Retrieval,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+506,70,3,5,False,False,39,IT195,Mrs.,Sangeetha K,sangeetha.k@rajalakshmi.edu.in,2016,AI23A37,Computer Vision and Applications,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+508,70,3,5,False,False,33,IT212,Ms.,V Akshaya,akshaya.v@rajalakshmi.edu.in,1331,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+510,70,3,5,False,False,53,IT225,Mrs.,Divya S,divya.s@rajalakshmi.edu.in,1331,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+511,70,4,7,False,False,35,IT215,Ms.,R.Anitha,anitha.r@rajalakshmi.edu.in,2012,AI19701,Secure Systems Engineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+512,70,2,3,False,False,54,IT242,Mrs.,Priya M,priya.m@rajalakshmi.edu.in,1328,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+513,70,2,3,False,False,50,IT252,Mrs.,J Jasmine Gabriel,jasminegabriel.j@rajalakshmi.edu.in,1328,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+514,70,3,5,False,False,46,CS266,Ms.,Saranya S,saranya.s@rajalakshmi.edu.in,1330,AI23521,Build and Deploy Machine Learning Applications,L,0,2,0,1.0,Artificial Intelligence & Machine Learning
+515,70,3,5,False,False,47,IT236,Dr.,N M Balamurugan,balamurugan.mn@rajalakshmi.edu.in,2017,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Machine Learning
+517,70,3,5,False,False,38,CS175,Mr.,Vijay K,vijay.k@rajalakshmi.edu.in,2017,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Machine Learning
+518,70,2,3,False,False,48,IT264,Dr.,Raja Ramamoorthi,raja.r@rajalakshmi.edu.in,2019,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+520,70,2,3,False,False,53,IT225,Mrs.,Divya S,divya.s@rajalakshmi.edu.in,2019,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+522,70,2,3,False,False,37,IT232,Mr.,Kumaran U,kumaran.u@rajalakshmi.edu.in,2020,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Machine Learning
+523,70,2,3,False,False,35,IT215,Ms.,R.Anitha,anitha.r@rajalakshmi.edu.in,2020,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Machine Learning
+524,70,2,3,False,False,46,CS266,Ms.,Saranya S,saranya.s@rajalakshmi.edu.in,2020,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Machine Learning
+525,60,3,5,False,False,105,BT118,Mrs.,Dr. Sujata Roy,sujataroy@rajalakshmi.edu.in,1417,BT23512,Bioinformatics,T,3,0,0,3.0,Biotechnology
+526,60,3,5,False,False,105,BT118,Mrs.,Dr. Sujata Roy,sujataroy@rajalakshmi.edu.in,1417,BT23512,Bioinformatics,T,3,0,0,3.0,Biotechnology
+528,70,3,5,False,False,1749,BT NS-3,,,,1416,BT23511,Bioprocess Principles,T,3,0,0,3.0,Biotechnology
+529,70,4,7,False,False,99,BT114,Mrs.,Dr.B.Vijaya Geetha,vijayageetha.b@rajalakshmi.edu.in,1824,BT19P74,Cancer Biology,T,3,0,0,3.0,Biotechnology
+530,70,4,7,False,False,113,BT171,Mrs.,Sangeetha Gandhi S,sangeethagandhi.s@rajalakshmi.edu.in,1811,BT19701,DOWNSTREAM PROCESSING,T,3,0,0,3.0,Biotechnology
+531,70,4,7,False,False,1747,BT NS-1,,,,1811,BT19701,DOWNSTREAM PROCESSING,T,3,0,0,3.0,Biotechnology
+540,70,2,3,False,False,133,BT182,Dr.,Shanthi M,shanthi.m@rajalakshmi.edu.in,1409,BT23331,Analytical Techniques in Biotechnology,LoT,2,2,0,3.0,Biotechnology
+541,70,2,3,False,False,121,BT173,Mrs.,S.R.Saranya Arunkumar,saranya.sr@rajalakshmi.edu.in,1409,BT23331,Analytical Techniques in Biotechnology,LoT,2,2,0,3.0,Biotechnology
+544,70,4,7,False,False,106,BT107,Mrs.,Dr.M.Millicent Mabel,millicentmable.m@rajalakshmi.edu.in,1825,BT19P76,Animal Biotechnology,T,3,0,0,3.0,Biotechnology
+552,60,4,7,False,False,124,BT168,Mr.,A. Arun,arun.a@rajalakshmi.edu.in,1815,BT19702,Bioinformatics,T,3,0,0,3.0,Biotechnology
+556,70,3,5,False,False,113,BT171,Mrs.,Sangeetha Gandhi S,sangeethagandhi.s@rajalakshmi.edu.in,1418,BT23513,Separation Process Principles,T,3,0,1,3.0,Biotechnology
+558,60,1,1,False,False,86,BT119,Mr.,Dr. T. A. Selvakumar,selvakumar.ta@rajalakshmi.edu.in,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+560,60,1,1,False,False,1748,BT NS-2,,,,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+561,30,1,1,False,False,1748,BT NS-2,,,,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+562,70,3,5,False,False,1747,BT NS-1,,,,1418,BT23513,Separation Process Principles,T,3,0,1,3.0,Biotechnology
+563,70,2,3,False,False,111,BT169,Mrs.,N.Premalatha,premalatha.n@rajalakshmi.edu.in,1405,BT23312,Stoichiometry and Fluid Mechanics,T,3,0,1,3.0,Biotechnology
+564,70,2,3,False,False,107,BT170,Mrs.,Divya Lakshmi. S,divyalakshmi.s@rajalakshmi.edu.in,1405,BT23312,Stoichiometry and Fluid Mechanics,T,3,0,1,3.0,Biotechnology
+567,36,3,5,False,False,66,AU49,Mr.,R. Edwin Joseph,edwinjoseph.r@rajalakshmi.edu.in,2035,AT23511,Design of Machine Elements,T,2,0,1,3.0,Automobile Engineering
+575,70,2,3,False,False,48,IT264,Dr.,Raja Ramamoorthi,raja.r@rajalakshmi.edu.in,2019,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+576,70,4,7,False,False,39,IT195,Mrs.,Sangeetha K,sangeetha.k@rajalakshmi.edu.in,2014,AI19741,Big Data Technology,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+577,70,4,7,False,False,33,IT212,Ms.,V Akshaya,akshaya.v@rajalakshmi.edu.in,2014,AI19741,Big Data Technology,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+578,70,4,7,False,False,31,CS09,Mrs.,Dr. S. Poonkuzhali,poonkuzhali.s@rajalakshmi.edu.in,2011,AI19P71,Data Visualization using Python,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+579,70,4,7,False,False,57,AU35,Mr.,Magesh M P,magesh.mp@rajalakshmi.edu.in,2009,AI19P75,Information Retrieval,LoT,2,2,0,3.0,Artificial Intelligence & Machine Learning
+580,70,4,7,False,False,67,IT250,Dr.,Raju K,raju.k@rajalakshmi.edu.in,2010,AI19P76,Supply Chain Analytics,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+581,65,3,5,False,False,217,CS256,Mrs.,Dr.R.Sabitha,sabitha.r@rajalakshmi.edu.in,1556,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering
+582,70,4,7,False,False,267,EC121,Mrs.,Shaik Thasleem Bhanu,shaikthasleembanu@rajalakshmi.edu.in,1813,EC19712,Advanced Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+585,140,4,7,False,False,292,EC175,Mrs.,Sasirekha D,sasirekha.d@rajalakshmi.edu.in,1813,EC19712,Advanced Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+586,70,4,7,False,False,290,EC212,Mrs.,Nirmala D,nirmala.d@rajalakshmi.edu.in,1813,EC19712,Advanced Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+587,70,2,3,False,False,276,EC149,Mrs.,Anitha Mary M,anithamary.m@rajalakshmi.edu.in,1572,EC23321,Analog and Digital Circuits Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+588,135,2,3,False,False,282,EC163,Mr.,Karthi J,karthi.j@rajalakshmi.edu.in,1572,EC23321,Analog and Digital Circuits Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+589,70,2,3,False,False,277,EC167,Mr.,Asokan V,asokan.v@rajalakshmi.edu.in,1572,EC23321,Analog and Digital Circuits Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+591,70,2,3,False,False,293,EC177,Mrs.,Tamilarasi M,tamilarasi.m@rajalakshmi.edu.in,1572,EC23321,Analog and Digital Circuits Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+593,70,2,3,False,False,297,EC207,Mr.,G Loganathan,loganathan.g@rajalakshmi.edu.in,1572,EC23321,Analog and Digital Circuits Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+597,35,4,7,False,False,113,BT171,Mrs.,Sangeetha Gandhi S,sangeethagandhi.s@rajalakshmi.edu.in,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+601,35,4,7,False,False,98,BT124,Mrs.,Dr. K. Sathya,sathya.k@rajalakshmi.edu.in,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+602,30,1,1,False,False,97,BT109,Dr.,S.Thiruvengadam,thiruvengadam.s@rajalakshmi.edu.in,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+603,35,3,5,False,False,93,BT122,Mrs.,Dr.T.Anitha,anitha.t@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+604,35,3,5,False,False,93,BT122,Mrs.,Dr.T.Anitha,anitha.t@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+606,35,1,1,False,False,95,BT30,Mr.,Dr.D.Sridhar,sridhar.d@rajalakshmi.edu.in,111,BT23131,Microbiology,LoT,2,4,0,4.0,Biotechnology
+607,70,2,3,False,False,272,EC143,Mr.,Gururaj D,gururaj.d@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+609,70,2,3,False,False,288,EC186,Mrs.,Yogalakshmi.V,yogalakshmi.v@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+610,70,2,3,False,False,264,EC162,Mrs.,Benazir Begam R,benazirbegam.r@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+611,70,2,3,False,False,301,EC179,Mrs.,Sushma S Jagtap,sushmasjagtap@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+612,70,2,3,False,False,270,EC185,Mr.,Murali Krishna K,muralikrishna.k@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+614,70,2,3,False,False,279,EC197,Mrs.,Ms. Indhumathi G,indhumathi.g@rajalakshmi.edu.in,2046,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electronics & Communication Engineering
+618,70,2,3,False,False,287,EC205,Mr.,Ganesamoorthy R,ganesamoorthy.r@rajalakshmi.edu.in,1571,EC23314,Analog and Digital Communication,T,3,0,0,3.0,Information Technology
+619,70,2,3,False,False,263,EC147,Mrs.,R Bharathy,bharathy.r@rajalakshmi.edu.in,1571,EC23314,Analog and Digital Communication,T,3,0,0,3.0,Information Technology
+620,70,2,3,False,False,282,EC163,Mr.,Karthi J,karthi.j@rajalakshmi.edu.in,1571,EC23314,Analog and Digital Communication,T,3,0,0,3.0,Information Technology
+621,70,2,3,False,False,293,EC177,Mrs.,Tamilarasi M,tamilarasi.m@rajalakshmi.edu.in,1571,EC23314,Analog and Digital Communication,T,3,0,0,3.0,Information Technology
+622,70,2,3,False,False,296,EC200,Ms.,M.Brenda,brenda.m@rajalakshmi.edu.in,1571,EC23314,Analog and Digital Communication,T,3,0,0,3.0,Information Technology
+623,64,4,7,False,False,307,EE77,Mrs.,Jayashree K,jayasree.k@rajalakshmi.edu.in,2024,EE19742,Power System Operation and Control,LoT,2,2,1,4.0,Electrical & Electronics Engineering
+626,24,1,1,False,False,86,BT119,Mr.,Dr. T. A. Selvakumar,selvakumar.ta@rajalakshmi.edu.in,2048,BY23P14,Bionanotechnology,T,3,0,0,3.0,Biotechnology
+627,34,3,5,False,False,303,EE48,Mrs.,V Devi Maheswaran,devimaheswaran.v@rajalakshmi.edu.in,1609,EE23521,Control and Instrumentation Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+628,34,3,5,False,False,303,EE48,Mrs.,V Devi Maheswaran,devimaheswaran.v@rajalakshmi.edu.in,1609,EE23521,Control and Instrumentation Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+629,34,3,5,False,False,338,EE138,Dr.,Dhandayuthapani S,dhandayuthapani.s@rajalakshmi.edu.in,1609,EE23521,Control and Instrumentation Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+630,35,3,5,False,False,328,EE102,Mr.,Ron Carter Sb,roncarter.sb@rajalakshmi.edu.in,1609,EE23521,Control and Instrumentation Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+631,69,3,5,False,False,308,EE05,Mrs.,Dr. J. Kavitha,kavitha.j@rajalakshmi.edu.in,1608,EE23513,Control Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+632,68,3,5,False,False,298,EE43,Mr.,Dr.R. Essaki Raj,essakiraj.r@rajalakshmi.edu.in,1608,EE23513,Control Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+633,10,1,1,False,False,313,EE11,Mrs.,Dr.R.Kalaivani,kalaivani.r@rajalakshmi.edu.in,2030,ET23113,Design of Microcontroller Based Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+634,69,2,3,False,False,316,EE56,Mrs.,Dr A Rajalakshmi,rajalakshmi.a@rajalakshmi.edu.in,1596,EE23312,Electrical Machines – I,T,3,0,0,3.0,Electrical & Electronics Engineering
+635,68,2,3,False,False,347,EE52,Dr.,A.Sangari,sangari.a@rajalakshmi.edu.in,1596,EE23312,Electrical Machines – I,T,3,0,0,3.0,Electrical & Electronics Engineering
+636,10,1,1,False,False,303,EE48,Mrs.,V Devi Maheswaran,devimaheswaran.v@rajalakshmi.edu.in,2028,ET23111,Design of Embedded Systems,T,3,0,1,4.0,Electrical & Electronics Engineering
+637,69,2,3,False,False,294,EE03,Mrs.,Dr. V. Geetha Priya,geethapriya.v@rajalakshmi.edu.in,1595,EE23311,Electromagnetic Theory,T,3,0,0,3.0,Electrical & Electronics Engineering
+638,68,2,3,False,False,309,EE78,Mrs.,Anto Sheeba J,antosheeba.j@rajalakshmi.edu.in,1595,EE23311,Electromagnetic Theory,T,3,0,0,3.0,Electrical & Electronics Engineering
+639,35,3,5,False,False,300,EE40,Mrs.,Padmavathi R,padmavathi.r@rajalakshmi.edu.in,1610,GE23627,Design Thinking and Innovation,L,0,4,0,2.0,Electrical & Electronics Engineering
+640,34,3,5,False,False,351,EE134,Dr.,Kandaswamy K V,kandaswamy.kv@rajalakshmi.edu.in,1610,GE23627,Design Thinking and Innovation,L,0,4,0,2.0,Electrical & Electronics Engineering
+641,34,3,5,False,False,319,EE82,Mr.,Dr. P. R. Sivaraman,sivaraman.pr@rajalakshmi.edu.in,1610,GE23627,Design Thinking and Innovation,L,0,4,0,2.0,Electrical & Electronics Engineering
+642,34,3,5,False,False,306,EE23,Mr.,Santhanakrishnan T,santhanakrishnan.t@rajalakshmi.edu.in,1610,GE23627,Design Thinking and Innovation,L,0,4,0,2.0,Electrical & Electronics Engineering
+643,69,2,3,False,False,310,EE10,Mrs.,Dr.Alice Hepzibah.A,alicehepzibah.a@rajalakshmi.edu.in,1598,EE23314,Electronic Devices and Circuits,T,3,0,0,3.0,Electrical & Electronics Engineering
+644,68,2,3,False,False,358,EE133,Mrs.,Dr Sridevi M,sridevi.m@rajalakshmi.edu.in,1598,EE23314,Electronic Devices and Circuits,T,3,0,0,3.0,Electrical & Electronics Engineering
+645,35,2,3,False,False,310,EE10,Mrs.,Dr.Alice Hepzibah.A,alicehepzibah.a@rajalakshmi.edu.in,1600,EE23321,Electronic Devices and Circuits Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+646,34,2,3,False,False,347,EE52,Dr.,A.Sangari,sangari.a@rajalakshmi.edu.in,1600,EE23321,Electronic Devices and Circuits Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+647,34,2,3,False,False,358,EE133,Mrs.,Dr Sridevi M,sridevi.m@rajalakshmi.edu.in,1600,EE23321,Electronic Devices and Circuits Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+648,34,2,3,False,False,309,EE78,Mrs.,Anto Sheeba J,antosheeba.j@rajalakshmi.edu.in,1600,EE23321,Electronic Devices and Circuits Laboratory,L,0,2,0,1.0,Electrical & Electronics Engineering
+649,10,2,3,False,False,308,EE05,Mrs.,Dr. J. Kavitha,kavitha.j@rajalakshmi.edu.in,2037,ET23D11,Embedded System Development,T,3,0,0,3.0,Electrical & Electronics Engineering
+650,64,4,7,False,False,312,EE54,Mr.,Dr. A. Selvaraj,selvaraj.a@rajalakshmi.edu.in,2022,EE19701,Hybrid Electric Vehicles,T,3,0,0,3.0,Electrical & Electronics Engineering
+652,64,4,7,False,False,303,EE48,Mrs.,V Devi Maheswaran,devimaheswaran.v@rajalakshmi.edu.in,2022,EE19701,Hybrid Electric Vehicles,T,3,0,0,3.0,Electrical & Electronics Engineering
+653,10,2,3,False,False,294,EE03,Mrs.,Dr. V. Geetha Priya,geethapriya.v@rajalakshmi.edu.in,2036,ET23311,Introduction to Machine Learning,T,3,0,0,3.0,Electrical & Electronics Engineering
+654,69,2,3,False,False,328,EE102,Mr.,Ron Carter Sb,roncarter.sb@rajalakshmi.edu.in,1597,EE23313,Measurements and Instrumentation,T,3,0,0,3.0,Electrical & Electronics Engineering
+655,68,2,3,False,False,338,EE138,Dr.,Dhandayuthapani S,dhandayuthapani.s@rajalakshmi.edu.in,1597,EE23313,Measurements and Instrumentation,T,3,0,0,3.0,Electrical & Electronics Engineering
+656,69,3,5,False,False,331,EE99,Mrs.,Amutha C,amutha.c@rajalakshmi.edu.in,1611,EE23531,"Microprocessors, Microcontrollers and Applications",LoT,3,2,0,4.0,Electrical & Electronics Engineering
+657,68,3,5,False,False,329,EE96,Mr.,D Shyam,shyam.d@rajalakshmi.edu.in,1611,EE23531,"Microprocessors, Microcontrollers and Applications",LoT,3,2,0,4.0,Electrical & Electronics Engineering
+661,68,3,5,False,False,339,EE139,Mrs.,Brindhu Kumari,brindhukumari.a@rajalakshmi.edu.in,2047,GE23521,Soft Skills – II,L,0,2,0,1.0,Electrical & Electronics Engineering
+662,10,1,1,False,False,329,EE96,Mr.,D Shyam,shyam.d@rajalakshmi.edu.in,2032,ET23121,Embedded System Laboratory I,L,0,4,0,2.0,Electrical & Electronics Engineering
+663,10,2,3,False,False,331,EE99,Mrs.,Amutha C,amutha.c@rajalakshmi.edu.in,2051,ET23322,IOT for Embedded Applications Laboratory,L,0,4,0,2.0,Electrical & Electronics Engineering
+664,70,3,5,False,False,506,ME31,Mr.,Venkateshwaran N,venkateshwaran.n@rajalakshmi.edu.in,1715,ME23511,Machine Design,T,3,0,0,3.0,Mechanical Engineering
+665,70,2,3,False,False,526,ME226,Mr.,Dr. S. Sekar,sekar.s@rajalakshmi.edu.in,1703,ME23311,Engineering Thermodynamics,T,3,0,1,4.0,Mechanical Engineering
+666,69,2,3,False,False,365,EE60,Mrs.,Sivamani.D,sivamani.d@rajalakshmi.edu.in,1843,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electrical & Electronics Engineering
+667,68,2,3,False,False,333,EE135,Mrs.,Aswini A,aswini.a@rajalakshmi.edu.in,1843,CS23336,Introduction to Python Programming,LoT,1,4,0,3.0,Electrical & Electronics Engineering
+668,69,3,5,False,False,332,EE126,Mr.,Dr. S.Rama Reddy,ramareddy.s@rajalakshmi.edu.in,1607,EE23512,Power Electronics,T,3,0,0,3.0,Electrical & Electronics Engineering
+669,68,3,5,False,False,326,EE125,Mr.,A.Nazar Ali,nazarali.a@rajalakshmi.edu.in,1607,EE23512,Power Electronics,T,3,0,0,3.0,Electrical & Electronics Engineering
+671,69,2,3,False,False,300,EE40,Mrs.,Padmavathi R,padmavathi.r@rajalakshmi.edu.in,1599,EE23315,Power Plant Engineering,T,3,0,0,3.0,Electrical & Electronics Engineering
+672,68,2,3,False,False,312,EE54,Mr.,Dr. A. Selvaraj,selvaraj.a@rajalakshmi.edu.in,1599,EE23315,Power Plant Engineering,T,3,0,0,3.0,Electrical & Electronics Engineering
+674,69,3,5,False,False,307,EE77,Mrs.,Jayashree K,jayasree.k@rajalakshmi.edu.in,1606,EE23511,Power System Analysis,T,3,0,0,3.0,Electrical & Electronics Engineering
+675,68,3,5,False,False,339,EE139,Mrs.,Brindhu Kumari,brindhukumari.a@rajalakshmi.edu.in,1606,EE23511,Power System Analysis,T,3,0,0,3.0,Electrical & Electronics Engineering
+677,10,1,1,False,False,324,EE112,Mr.,Sivakumar P,sivakumar.p@rajalakshmi.edu.in,2031,ET23114,Real Time Operating Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+678,69,3,5,False,False,322,EE128,Ms.,A Sowmiya,sowmiya.a@rajalakshmi.edu.in,2047,GE23521,Soft Skills – II,L,0,2,0,1.0,Electrical & Electronics Engineering
+679,10,1,1,False,False,329,EE96,Mr.,D Shyam,shyam.d@rajalakshmi.edu.in,2029,ET23112,Software for Embedded Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+680,70,3,5,False,False,25,IT237,Dr.,Saravana Kumar V,saravanakumar.v@rajalakshmi.edu.in,1838,AD23532,Principles of Data Science,LoT,2,4,0,4.0,Artificial Intelligence & Data Science
+681,64,3,5,False,False,171,CS296,Mrs.,Kalpana D,kalpana.d@rajalakshmi.edu.in,2052,GE23627,Design Thinking and Innovation,L,0,4,0,2.0,Computer Science & Design
+682,70,1,1,False,False,18,IT245,Mrs.,Selvarani K,selvarani.k@rajalakshmi.edu.in,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+683,70,1,1,False,False,22,IT217,Mr.,Thiyagarajan G,thiyagarajan.g@rajalakshmi.edu.in,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+684,70,1,1,False,False,25,IT237,Dr.,Saravana Kumar V,saravanakumar.v@rajalakshmi.edu.in,2056,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+685,70,1,1,False,False,12,CS66,Mrs.,Sorna Shanthi D,sornashanthi.d@rajalakshmi.edu.in,2058,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+689,70,1,1,False,False,16,IT228,Mrs.,Nirmala Anandhi Y,nirmalaanandhi.y@rajalakshmi.edu.in,2056,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+691,70,1,1,False,False,23,IT253,Ms.,Ponnila P,ponnila.p@rajalakshmi.edu.in,2058,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+692,70,1,1,False,False,14,IT216,Ms.,S Renuka Devi,renukadevi.s@rajalakshmi.edu.in,2061,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Data Science
+693,70,1,1,False,False,20,IT243,Mr.,Preejith P,preejith.p@rajalakshmi.edu.in,2058,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+694,70,1,1,False,False,20,IT243,Mr.,Preejith P,preejith.p@rajalakshmi.edu.in,2056,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+695,70,1,1,False,False,27,IT255,Mrs.,Mariya Monica Celestina,mariyamonicacelestina.a@rajalakshmi.edu.in,2056,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+696,70,1,1,False,False,27,IT255,Mrs.,Mariya Monica Celestina,mariyamonicacelestina.a@rajalakshmi.edu.in,2058,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+697,70,1,1,False,False,28,IT265,Mr.,Aswin Jeba Mahir A,aswinjabamahir@rajalakshmi.edu.in,2057,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Data Science
+700,45,4,7,False,False,521,ME147,Mr.,Dr. Chandrasekar P,chandrasekar.p@rajalakshmi.edu.in,529,ME19701,Automobile Engineering,T,3,0,0,3.0,Mechanical Engineering
+701,45,4,7,False,False,538,ME259,Dr.,Ramkumar S,ramkumar.s.aiml@rajalakshmi.edu.in,529,ME19701,Automobile Engineering,T,3,0,0,3.0,Mechanical Engineering
+702,45,4,7,False,False,540,ME249,Mr.,S Venkat Prasat,venkataprasat.s@rajalakshmi.edu.in,1931,ME19702,Automation in Manufacturing,T,3,0,0,3.0,Mechanical Engineering
+703,45,4,7,False,False,510,ME220,Mr.,R.Dhanaraj,dhanaraj.r@rajalakshmi.edu.in,1931,ME19702,Automation in Manufacturing,T,3,0,0,3.0,Mechanical Engineering
+704,45,4,7,False,False,505,ME102,Mr.,S. Panneer Selvan,panneerselvan.s@rajalakshmi.edu.in,1931,ME19702,Automation in Manufacturing,T,3,0,0,3.0,Mechanical Engineering
+705,45,4,7,False,False,511,ME209,Mr.,Dr.A.Paramasivam,paramasivam.a@rajalakshmi.edu.in,1932,ME19741,Mechatronics,LoT,3,2,0,5.0,Mechanical Engineering
+706,45,4,7,False,False,531,ME203,Mrs.,Aruna R,aruna.r@rajalakshmi.edu.in,1932,ME19741,Mechatronics,LoT,3,2,0,5.0,Mechanical Engineering
+707,45,4,7,False,False,532,ME157,Mr.,Arun Prakash N,arunprakash.n@rajalakshmi.edu.in,1932,ME19741,Mechatronics,LoT,3,2,0,5.0,Mechanical Engineering
+708,70,4,7,False,False,511,ME209,Mr.,Dr.A.Paramasivam,paramasivam.a@rajalakshmi.edu.in,1933,ME19B18,Supply Chain and Logistics Management,T,3,0,0,3.0,Mechanical Engineering
+709,70,2,3,False,False,502,ME186,Mr.,P T Dineshkumar,dineshkumar.pt@rajalakshmi.edu.in,1703,ME23311,Engineering Thermodynamics,T,3,0,1,4.0,Mechanical Engineering
+710,70,3,5,False,False,543,ME253,Mr.,Dr S Baskar,baskar.s@rajalakshmi.edu.in,1715,ME23511,Machine Design,T,3,0,0,3.0,Mechanical Engineering
+711,70,4,7,False,False,518,ME199,Mr.,Dr.S.Dhandapani,dhandapani.s@rajalakshmi.edu.in,2064,ME19E19,Non-Destructive Testing and Evaluation,T,3,0,0,3.0,Mechanical Engineering
+712,70,4,7,False,False,527,ME234,Mr.,Dr. S Senthil Murugan,senthilmurugan.s@rajalakshmi.edu.in,2065,ME19D17,Product Life Cycle Management,T,3,0,0,3.0,Mechanical Engineering
+717,70,4,7,False,False,543,ME253,Mr.,Dr S Baskar,baskar.s@rajalakshmi.edu.in,2066,ME19711,PROJECT PHASE-1,T,0,2,0,1.0,Mechanical Engineering
+718,70,4,7,False,False,533,ME188,Mr.,C. Devanathan,devanathan.c@rajalakshmi.edu.in,2066,ME19711,PROJECT PHASE-1,T,0,2,0,1.0,Mechanical Engineering
+719,70,4,7,False,False,510,ME220,Mr.,R.Dhanaraj,dhanaraj.r@rajalakshmi.edu.in,2066,ME19711,PROJECT PHASE-1,T,0,2,0,1.0,Mechanical Engineering
+723,70,3,5,False,False,520,ME221,Dr.,Rajesh Kumar B,rajeshkumar.b@rajalakshmi.edu.in,1662,GE23511,Economics for Engineers,T,3,0,0,3.0,Mechanical Engineering
+724,70,3,5,False,False,540,ME249,Mr.,S Venkat Prasat,venkataprasat.s@rajalakshmi.edu.in,1662,GE23511,Economics for Engineers,T,3,0,0,3.0,Mechanical Engineering
+726,50,3,5,False,False,528,ME241,Mr.,Ragavendiran. R,ragavendiran.r@rajalakshmi.edu.in,2068,ME23G12,Industrial Safety,T,0,0,0,0.0,Mechanical Engineering
+735,70,3,5,False,False,521,ME147,Mr.,Dr. Chandrasekar P,chandrasekar.p@rajalakshmi.edu.in,1717,ME23531,Heat and Mass Transfer,LoT,3,2,0,4.0,Mechanical Engineering
+736,70,3,5,False,False,522,ME210,Mr.,Dr.S.Kumar,kumar.s@rajalakshmi.edu.in,1717,ME23531,Heat and Mass Transfer,LoT,3,2,0,4.0,Mechanical Engineering
+737,70,3,5,False,False,533,ME188,Mr.,C. Devanathan,devanathan.c@rajalakshmi.edu.in,1718,ME23532,Metrology and Measurements,LoT,3,2,0,4.0,Mechanical Engineering
+738,70,3,5,False,False,514,ME214,Dr.,K.Vigneshwaran,vigneswaran.k@rajalakshmi.edu.in,1718,ME23532,Metrology and Measurements,LoT,3,2,0,4.0,Mechanical Engineering
+739,70,3,5,False,False,503,ME184,Mr.,Loganathan.K,Loganathan.k@rajalakshmi.edu.in,1716,ME23521,Component Modeling Laboratory,L,0,4,0,2.0,Mechanical Engineering
+740,70,3,5,False,False,524,ME150,Mr.,Dr.S.Arulmurugan,arulmurugan.s@rajalakshmi.edu.in,1716,ME23521,Component Modeling Laboratory,L,0,4,0,2.0,Mechanical Engineering
+741,70,2,3,False,False,499,ME32,Mr.,Dr. A. Rajkumar,rajkumar.a@rajalakshmi.edu.in,1704,ME23312,Manufacturing Technology I,T,3,0,0,3.0,Mechanical Engineering
+742,70,2,3,False,False,530,ME215,Mr.,M.S.Natarajan,natarajan.s@rajalakshmi.edu.in,1704,ME23312,Manufacturing Technology I,T,3,0,0,3.0,Mechanical Engineering
+743,70,2,3,False,False,524,ME150,Mr.,Dr.S.Arulmurugan,arulmurugan.s@rajalakshmi.edu.in,1705,ME23313,Kinematics of Machinery,T,3,0,0,3.0,Mechanical Engineering
+744,70,2,3,False,False,503,ME184,Mr.,Loganathan.K,Loganathan.k@rajalakshmi.edu.in,1705,ME23313,Kinematics of Machinery,T,3,0,0,3.0,Mechanical Engineering
+745,70,2,3,False,False,536,ME163,Mr.,Hariram S,hariram.s@rajalakshmi.edu.in,1707,ME23331,Strength of Materials,LoT,3,2,0,4.0,Mechanical Engineering
+746,70,2,3,False,False,498,ME171,Mr.,P.Arumugam,arumugam.p@rajalakshmi.edu.in,1707,ME23331,Strength of Materials,LoT,3,2,0,4.0,Mechanical Engineering
+747,70,2,3,False,False,518,ME199,Mr.,Dr.S.Dhandapani,dhandapani.s@rajalakshmi.edu.in,1706,ME23321,Manufacturing Technology Laboratory I,L,0,2,0,1.0,Mechanical Engineering
+748,70,2,3,False,False,505,ME102,Mr.,S. Panneer Selvan,panneerselvan.s@rajalakshmi.edu.in,1706,ME23321,Manufacturing Technology Laboratory I,L,0,2,0,1.0,Mechanical Engineering
+749,70,4,7,False,False,526,ME226,Mr.,Dr. S. Sekar,sekar.s@rajalakshmi.edu.in,2070,ME19712,COMPREHENSION,T,0,2,0,1.0,Mechanical Engineering
+750,70,4,7,False,False,527,ME234,Mr.,Dr. S Senthil Murugan,senthilmurugan.s@rajalakshmi.edu.in,2070,ME19712,COMPREHENSION,T,0,2,0,1.0,Mechanical Engineering
+751,70,4,7,False,False,542,ME260,Dr.,Ramesh G,ramesh.g@rajalakshmi.edu.in,2070,ME19712,COMPREHENSION,T,0,2,0,1.0,Mechanical Engineering
+752,64,4,7,False,False,334,EE121,Mrs.,Dr.M.G.Umamaheswari,umamaheswari.mg@rajalakshmi.edu.in,2023,EE19741,Renewable Energy Systems,LoT,3,2,0,4.0,Electrical & Electronics Engineering
+753,32,4,7,False,False,298,EE43,Mr.,Dr.R. Essaki Raj,essakiraj.r@rajalakshmi.edu.in,2023,EE19741,Renewable Energy Systems,LoT,3,2,0,4.0,Electrical & Electronics Engineering
+755,32,4,7,False,False,298,EE43,Mr.,Dr.R. Essaki Raj,essakiraj.r@rajalakshmi.edu.in,2023,EE19741,Renewable Energy Systems,LoT,3,2,0,4.0,Electrical & Electronics Engineering
+758,39,4,7,False,False,331,EE99,Mrs.,Amutha C,amutha.c@rajalakshmi.edu.in,2025,EE19P72,Fundamentals of Embedded Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+759,39,4,7,False,False,324,EE112,Mr.,Sivakumar P,sivakumar.p@rajalakshmi.edu.in,2025,EE19P72,Fundamentals of Embedded Systems,T,3,0,0,3.0,Electrical & Electronics Engineering
+760,50,4,7,False,False,300,EE40,Mrs.,Padmavathi R,padmavathi.r@rajalakshmi.edu.in,2026,EE19P73,High Voltage Engineering,T,3,0,0,3.0,Electrical & Electronics Engineering
+761,70,1,1,False,False,318,EE108,Mrs.,V.Sivagami,sivagami.v@rajalakshmi.edu.in,311,EE23131,Principles of Electrical Engineering,LoT,2,2,0,3.0,Computer Science & Business Systems
+762,70,1,1,False,False,365,EE60,Mrs.,Sivamani.D,sivamani.d@rajalakshmi.edu.in,311,EE23131,Principles of Electrical Engineering,LoT,2,2,0,3.0,Computer Science & Business Systems
+763,70,2,3,False,False,118,CL03,Mrs.,Ambigadevi J,ambigadevi.j@rajalakshmi.edu.in,1500,CH23313,Chemical Process Industries,T,3,0,0,3.0,Chemical Engineering
+764,70,2,3,False,False,141,CL18,Ms.,Mangaleswari S,mangaleswari.s@rajalakshmi.edu.in,1501,CH23331,Fluid Mechanics for Chemical Engineers,LoT,3,2,1,4.0,Chemical Engineering
+765,70,2,3,False,False,118,CL03,Mrs.,Ambigadevi J,ambigadevi.j@rajalakshmi.edu.in,1501,CH23331,Fluid Mechanics for Chemical Engineers,LoT,3,2,1,4.0,Chemical Engineering
+766,70,3,5,False,False,130,CL02,Mr.,G Vijayaraghavan,vijayaraghavan.g@rajalakshmi.edu.in,1506,CH23511,Process Plant Utilities,T,3,0,0,3.0,Chemical Engineering
+767,70,2,4,False,False,120,CL12,Mr.,Dr. Seelam Narasimha Reddy,narasimhareddy.s@rajalakshmi.edu.in,1502,CH23411,Thermodynamics,T,3,0,0,3.0,Chemical Engineering
+768,70,3,5,False,False,135,CL11,Mrs.,N Kalaiarasi,kalaiarasi.n@rajalakshmi.edu.in,1508,CH23513,Mass Transfer I,T,3,0,0,3.0,Chemical Engineering
+769,70,3,5,False,False,140,CL05,Mrs.,Dr. Mary Rosana Nt,maryrosana.nt@rajalakshmi.edu.in,1509,CH23514,Chemical Reaction Engineering I,T,3,0,0,3.0,Chemical Engineering
+770,70,3,5,False,False,123,CL15,Mr.,Dr. S. Sivamani,sivamani.s@rajalakshmi.edu.in,1798,CH23A11,Petroleum chemistry and Refining Fundamemtals,T,3,0,0,3.0,Chemical Engineering
+771,70,3,5,False,False,135,CL11,Mrs.,N Kalaiarasi,kalaiarasi.n@rajalakshmi.edu.in,1510,CH23521,Heat Transfer Lab,L,0,4,0,2.0,Chemical Engineering
+772,58,4,7,False,False,140,CL05,Mrs.,Dr. Mary Rosana Nt,maryrosana.nt@rajalakshmi.edu.in,1521,CH23721,Chemical Reaction Engineering lab,L,0,4,0,2.0,Chemical Engineering
+774,58,4,7,False,False,123,CL15,Mr.,Dr. S. Sivamani,sivamani.s@rajalakshmi.edu.in,1522,CH23722,Process Control Lab,L,0,4,0,2.0,Chemical Engineering
+777,50,3,5,False,False,517,ME177,Mr.,Ct.Muthiah,muthiah.ct@rajalakshmi.edu.in,2067,ME23G11,Automobile Engineering,T,0,0,0,0.0,Mechanical Engineering
+778,50,3,5,False,False,529,ME223,Mr.,Parthiban.N,parthiban.n@rajalakshmi.edu.in,2067,ME23G11,Automobile Engineering,T,0,0,0,0.0,Mechanical Engineering
+779,70,1,1,False,False,502,ME186,Mr.,P T Dineshkumar,dineshkumar.pt@rajalakshmi.edu.in,2044,GE23111,Engineering Graphics,T,2,0,4,4.0,Biotechnology
+780,70,1,1,False,False,525,ME146,Mr.,Vinoth Babu N,vinothbabu.n@rajalakshmi.edu.in,374,GE23111,Engineering Graphics,T,2,0,4,4.0,Mechanical Engineering
+781,70,1,1,False,False,560,ME201,Mr.,Abraham Anthony D,abrahamantony@rajalakshmi.edu.in,374,GE23111,Engineering Graphics,T,2,0,4,4.0,Mechanical Engineering
+782,70,1,1,False,False,529,ME223,Mr.,Parthiban.N,parthiban.n@rajalakshmi.edu.in,2044,GE23111,Engineering Graphics,T,2,0,4,4.0,Biotechnology
+783,138,4,7,False,False,416,IT240,Dr.,Valarmathie Dinakaran,valarmathie.dinakaran@rajalakshmi.edu.in,1924,IT19P78,Software Testing,T,3,0,0,3.0,Information Technology
+785,68,4,7,False,False,423,IT205,Mrs.,K Indumathi,indumathik@rajalakshmi.edu.in,1924,IT19P78,Software Testing,T,3,0,0,3.0,Information Technology
+786,69,4,7,False,False,410,IT186,Mrs.,Dr. Nalini Subramanian,nalini.s@rajalakshmi.edu.in,1816,IT19741,Cloud and Big Data Analytics,LoT,3,4,0,5.0,Information Technology
+787,69,4,7,False,False,382,IT173,Mrs.,M.Madhu Rani,madhurani.m@rajalakshmi.edu.in,1816,IT19741,Cloud and Big Data Analytics,LoT,3,4,0,5.0,Information Technology
+789,68,4,7,False,False,387,IT192,Mrs.,Bhalashri Sethuraman,bhalashri.sethuraman@rajalakshmi.edu.in,1816,IT19741,Cloud and Big Data Analytics,LoT,3,4,0,5.0,Information Technology
+790,69,4,7,False,False,391,IT200,Mrs.,Dr.P.Neelaveni,neelaveni.p@rajalakshmi.edu.in,1925,IT19712,Project Phase I,L,0,8,0,4.0,Information Technology
+791,69,4,7,False,False,398,IT201,Mr.,Dr.M.Babu,babu.m@rajalakshmi.edu.in,1925,IT19712,Project Phase I,L,0,8,0,4.0,Information Technology
+792,68,4,7,False,False,382,IT173,Mrs.,M.Madhu Rani,madhurani.m@rajalakshmi.edu.in,1925,IT19712,Project Phase I,L,0,8,0,4.0,Information Technology
+793,69,4,7,False,False,415,MA103,Ms.,Janani M,janani.m@rajalakshmi.edu.in,1926,IT19711,Industry Practices Lab,L,0,4,0,2.0,Information Technology
+794,69,4,7,False,False,402,IT251,Mr.,Suresh Kumar K,sureshkumar.k@rajalakshmi.edu.in,1926,IT19711,Industry Practices Lab,L,0,4,0,2.0,Information Technology
+795,68,4,7,False,False,421,IT260,Mr.,Vimalan M,vimalan.m@rajalakshmi.edu.in,1926,IT19711,Industry Practices Lab,L,0,4,0,2.0,Information Technology
+798,68,4,7,False,False,402,IT251,Mr.,Suresh Kumar K,sureshkumar.k@rajalakshmi.edu.in,2081,Professional Elective-II,Professional Elective-II - NPTEL,T,3,0,0,3.0,Information Technology
+802,140,3,5,False,False,399,MC55,Mrs.,Dr.V.Prasannakumari,prasannakumari.v@rajalakshmi.edu.in,1927,IT23511,Automata Theory & Compiler Design,T,3,0,0,3.0,Information Technology
+803,70,3,5,False,False,391,IT200,Mrs.,Dr.P.Neelaveni,neelaveni.p@rajalakshmi.edu.in,1927,IT23511,Automata Theory & Compiler Design,T,3,0,0,3.0,Information Technology
+804,70,3,5,False,False,382,IT173,Mrs.,M.Madhu Rani,madhurani.m@rajalakshmi.edu.in,1927,IT23511,Automata Theory & Compiler Design,T,3,0,0,3.0,Information Technology
+805,70,3,5,False,False,394,IT199,Mrs.,Dr.A.Kalaivani,kalaivani.a@rajalakshmi.edu.in,1677,IT23531,Computer Vision,LoT,3,2,0,4.0,Information Technology
+806,70,3,5,False,False,393,IT203,Mrs.,L.Leena Jenifer,leenajeniferl@rajalakshmi.edu.in,1677,IT23531,Computer Vision,LoT,3,2,0,4.0,Information Technology
+807,70,3,5,False,False,429,IT249,Ms.,Priyanka D,priyanka.d@rajalakshmi.edu.in,1677,IT23531,Computer Vision,LoT,3,2,0,4.0,Information Technology
+809,70,3,5,False,False,388,IT189,Mrs.,M.Sandhiya,sandhiya.m@rajalakshmi.edu.in,2082,CS23531,Web Programming,LoT,1,6,0,4.0,Information Technology
+810,70,3,5,False,False,384,CS200,Mr.,Narayana K E,narayana.ke@rajalakshmi.edu.in,2082,CS23531,Web Programming,LoT,1,6,0,4.0,Information Technology
+811,70,3,5,False,False,400,IT230,Mr.,Dr B Muthu Kumar,muthukumar.b@rajalakshmi.edu.in,2082,CS23531,Web Programming,LoT,1,6,0,4.0,Information Technology
+813,70,2,3,False,False,408,CS325,Dr.,Shunmuganathan K L,shunmuganathan.kl@rajalakshmi.edu.in,2083,CS23332,Database Management Systems,LoT,3,4,0,5.0,Information Technology
+814,70,2,3,False,False,405,IT259,Mrs.,Premalatha Anand,premalatha.pn@rajalakshmi.edu.in,2083,CS23332,Database Management Systems,LoT,3,4,0,5.0,Information Technology
+815,70,2,3,False,False,404,IT187,Mrs.,A.P.Aruna Jameela,arunajameela.ap@rajalakshmi.edu.in,2083,CS23332,Database Management Systems,LoT,3,4,0,5.0,Information Technology
+816,70,2,3,False,False,421,IT260,Mr.,Vimalan M,vimalan.m@rajalakshmi.edu.in,2083,CS23332,Database Management Systems,LoT,3,4,0,5.0,Information Technology
+819,70,2,3,False,False,393,IT203,Mrs.,L.Leena Jenifer,leenajeniferl@rajalakshmi.edu.in,1961,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+820,70,2,3,False,False,415,MA103,Ms.,Janani M,janani.m@rajalakshmi.edu.in,1961,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+821,70,2,3,False,False,429,IT249,Ms.,Priyanka D,priyanka.d@rajalakshmi.edu.in,1961,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+822,70,2,3,False,False,391,IT200,Mrs.,Dr.P.Neelaveni,neelaveni.p@rajalakshmi.edu.in,1961,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+823,70,2,3,False,False,400,IT230,Mr.,Dr B Muthu Kumar,muthukumar.b@rajalakshmi.edu.in,1961,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Information Technology
+824,32,3,5,False,False,65,AU46,Mr.,Zahir Hussain M,zahirhussain.m@rajalakshmi.edu.in,1353,AT23531,Automotive Electrical and Electronics,LoT,3,2,0,4.0,Automobile Engineering
+825,21,4,7,False,False,56,AU11,Mr.,R.Anbalagan,anbalagan.r@rajalakshmi.edu.in,1916,AT19P73,Automotive Safety,T,3,0,0,3.0,Automobile Engineering
+826,68,3,5,False,False,531,ME203,Mrs.,Aruna R,aruna.r@rajalakshmi.edu.in,2091,GE23521,Soft Skills – II,L,0,2,0,1.0,Mechanical Engineering
+827,65,3,5,False,False,528,ME241,Mr.,Ragavendiran. R,ragavendiran.r@rajalakshmi.edu.in,2091,GE23521,Soft Skills – II,L,0,2,0,1.0,Mechanical Engineering
+829,68,2,3,False,False,525,ME146,Mr.,Vinoth Babu N,vinothbabu.n@rajalakshmi.edu.in,2102,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Mechanical Engineering
+832,61,2,3,False,False,502,ME186,Mr.,P T Dineshkumar,dineshkumar.pt@rajalakshmi.edu.in,2102,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Mechanical Engineering
+833,10,1,1,False,False,507,ME212,Mr.,Rajkumar.M,rajkumar.m@rajalakshmi.edu.in,2106,ED23112,Advanced Mechanisms in Design,T,3,0,0,3.0,Mechanical Engineering
+834,10,1,1,False,False,531,ME203,Mrs.,Aruna R,aruna.r@rajalakshmi.edu.in,2108,ED23113,Design with Advanced Materials,T,3,0,0,3.0,Mechanical Engineering
+835,10,1,1,False,False,524,ME150,Mr.,Dr.S.Arulmurugan,arulmurugan.s@rajalakshmi.edu.in,2109,ED23131,Vibration Analysis and Control,T,3,2,0,4.0,Mechanical Engineering
+836,10,1,1,False,False,512,ME183,Mr.,Santhanakrishnan Mamallan,santhanakrishnan.m@rajalakshmi.edu.in,2110,ED23P12,Composite Materials and Mechanics,T,3,0,0,3.0,Mechanical Engineering
+837,10,1,1,False,False,507,ME212,Mr.,Rajkumar.M,rajkumar.m@rajalakshmi.edu.in,2111,ED23121,Mechanism Design Laboratory,L,0,4,0,2.0,Mechanical Engineering
+839,70,1,1,False,False,66,AU49,Mr.,R. Edwin Joseph,edwinjoseph.r@rajalakshmi.edu.in,48,AT23111,Production Technology - I,T,3,0,0,3.0,Automobile Engineering
+840,70,1,1,False,False,62,ME232,Mrs.,B.Mullai Sudaroli,mullaisudaroli.b@rajalakshmi.edu.in,1939,GE23111,Engineering Graphics,T,2,0,4,4.0,Automobile Engineering
+841,10,1,1,False,False,536,ME163,Mr.,Hariram S,hariram.s@rajalakshmi.edu.in,2105,ED23111,Advanced Mechanics of Materials,T,3,0,1,4.0,Mechanical Engineering
+842,66,3,5,False,False,395,IT198,Mr.,Dr.S.Subbiah,subbiah.s@rajalakshmi.edu.in,2112,CS23532,Computer Networks,LoT,3,2,0,5.0,Information Technology
+843,66,3,5,False,False,387,IT192,Mrs.,Bhalashri Sethuraman,bhalashri.sethuraman@rajalakshmi.edu.in,2112,CS23532,Computer Networks,LoT,3,2,0,5.0,Information Technology
+844,67,3,5,False,False,401,IT223,Mrs.,Padmini S,padmini.s@rajalakshmi.edu.in,2112,CS23532,Computer Networks,LoT,3,2,0,5.0,Information Technology
+846,67,3,5,False,False,410,IT186,Mrs.,Dr. Nalini Subramanian,nalini.s@rajalakshmi.edu.in,2112,CS23532,Computer Networks,LoT,3,2,0,5.0,Information Technology
+854,58,4,7,False,False,123,CL15,Mr.,Dr. S. Sivamani,sivamani.s@rajalakshmi.edu.in,2118,CH19701,Transport Phenomena,T,3,0,1,4.0,Chemical Engineering
+855,58,4,7,False,False,120,CL12,Mr.,Dr. Seelam Narasimha Reddy,narasimhareddy.s@rajalakshmi.edu.in,2119,CH19702,Comprehensive Chemical  Engineering,T,3,0,0,3.0,Chemical Engineering
+856,58,4,7,False,False,140,CL05,Mrs.,Dr. Mary Rosana Nt,maryrosana.nt@rajalakshmi.edu.in,2121,CH19711,Chemical Reaction Engineering  lab,L,0,3,0,2.0,Chemical Engineering
+857,58,4,7,False,False,125,CL16,Ms.,Abhilasha Krishnamurthy,abhilasha.krishnamurthy@rajalakshmi.edu.in,2123,CH19713,Computer Applications In  Chemical Engineering Lab,L,0,3,0,2.0,Chemical Engineering
+858,58,4,7,False,False,132,CL14,Mr.,Dr. Vincent Joseph Kl,vincentjoseph.kl@rajalakshmi.edu.in,2124,CH19P71,Environmental Technology,T,3,0,0,3.0,Chemical Engineering
+859,70,4,6,False,False,216,CS281,Mr.,V Karthick,karthick.v@rajalakshmi.edu.in,2125,CS19P18,DEEP LEARNING CONCEPTS,LoT,2,2,0,3.0,Computer Science & Engineering
+860,70,4,6,False,False,235,CS321,Dr.,Bhuvaneswari R,bhuvaneswari.r@rajalakshmi.edu.in,2125,CS19P18,DEEP LEARNING CONCEPTS,LoT,2,2,0,3.0,Computer Science & Engineering
+861,70,4,6,False,False,229,CS238,Mrs.,Sathiyavathi S,sathiyavathi.s@rajalakshmi.edu.in,2125,CS19P18,DEEP LEARNING CONCEPTS,LoT,2,2,0,3.0,Computer Science & Engineering
+862,70,4,6,False,False,227,CS279,Dr.,M.Rakesh Kumar,rakeshkumar.m@rajalakshmi.edu.in,2125,CS19P18,DEEP LEARNING CONCEPTS,LoT,2,2,0,3.0,Computer Science & Engineering
+863,70,4,6,False,False,248,CS333,Mrs.,Suba Malai Rajasekar,subamalai.r@rajalakshmi.edu.in,2125,CS19P18,DEEP LEARNING CONCEPTS,LoT,2,2,0,3.0,Computer Science & Engineering
+864,60,4,7,False,False,74,BM61,Mr.,Dr.S.Rajkumar,rajkumar.s@rajalakshmi.edu.in,1898,BM19741,Digital Image Processing Techniques,LoT,2,2,1,4.0,Biomedical Engineering
+866,70,4,7,False,False,199,CS221,Mrs.,J.Jinu Sophia,jinusophia.j@rajalakshmi.edu.in,2126,CS19P14,INFORMATION SECURITY AND MANAGEMENT,LoT,2,2,0,3.0,Computer Science & Engineering
+867,70,4,7,False,False,1766,New Staff-14,,,,2126,CS19P14,INFORMATION SECURITY AND MANAGEMENT,LoT,2,2,0,3.0,Computer Science & Engineering
+868,60,4,7,False,False,74,BM61,Mr.,Dr.S.Rajkumar,rajkumar.s@rajalakshmi.edu.in,1901,BM19711,Project Phase-I,L,0,6,0,3.0,Biomedical Engineering
+869,70,2025,1,False,False,205,CS226,Mrs.,Santhiya M,santhiya.m@rajalakshmi.edu.in,2131,CS19741,Cloud Computing,LoT,2,2,0,3.0,Computer Science & Engineering
+870,70,4,7,False,False,227,CS279,Dr.,M.Rakesh Kumar,rakeshkumar.m@rajalakshmi.edu.in,2132,CS19741,Cloud Computing,LoT,2,2,0,3.0,Computer Science & Engineering
+871,70,4,7,False,False,1764,New Staff-12,,,,2132,CS19741,Cloud Computing,LoT,2,2,0,3.0,Computer Science & Engineering
+872,70,4,7,False,False,1765,New Staff-13,,,,2132,CS19741,Cloud Computing,LoT,2,2,0,3.0,Computer Science & Engineering
+873,70,4,7,False,False,1765,New Staff-13,,,,2132,CS19741,Cloud Computing,LoT,2,2,0,3.0,Computer Science & Engineering
+875,70,4,7,False,False,204,CS77,Mr.,Bhuvaneswaran B,bhuvaneswaran@rajalakshmi.edu.in,2128,CS19P23,Advanced Application Development with Oracle APEX,L,0,6,0,3.0,Computer Science & Engineering
+876,70,4,7,False,False,202,CS208,Mr.,Dr. N. Duraimurugan,duraimurugan.n@rajalakshmi.edu.in,2127,CS19P21,Advanced Robotic Process Automation,L,0,6,0,3.0,Computer Science & Engineering
+877,70,4,7,False,False,204,CS77,Mr.,Bhuvaneswaran B,bhuvaneswaran@rajalakshmi.edu.in,2127,CS19P21,Advanced Robotic Process Automation,L,0,6,0,3.0,Computer Science & Engineering
+878,60,2,3,False,False,85,BM83,Ms.,Revathy P,revathy.p.bme@rajalakshmi.edu.in,1373,BM23311,Human Anatomy and Physiology,T,3,0,0,3.0,Biomedical Engineering
+879,61,2,3,False,False,68,BM60,Ms.,Karuppathal E,karuppathal.e@rajalakshmi.edu.in,1373,BM23311,Human Anatomy and Physiology,T,3,0,0,3.0,Biomedical Engineering
+880,60,2,3,False,False,77,BM70,Mrs.,Subathra Y,subathra.y@rajalakshmi.edu.in,1374,BM23312,Biomedical Instrumentation,T,3,0,0,3.0,Biomedical Engineering
+881,61,2,3,False,False,85,BM83,Ms.,Revathy P,revathy.p.bme@rajalakshmi.edu.in,1374,BM23312,Biomedical Instrumentation,T,3,0,0,3.0,Biomedical Engineering
+882,60,2,3,False,False,69,BM22,Ms.,S. Sudha,sudha.singaram@rajalakshmi.edu.in,1375,BM23313,Biochemical Science,T,3,0,0,3.0,Biomedical Engineering
+883,61,2,3,False,False,69,BM22,Ms.,S. Sudha,sudha.singaram@rajalakshmi.edu.in,1375,BM23313,Biochemical Science,T,3,0,0,3.0,Biomedical Engineering
+885,60,2,3,False,False,72,BM66,Mr.,Krishnakumar S,krishnakumar.s@rajalakshmi.edu.in,1378,BM23331,Electronic Devices & Circuits,LoT,3,2,0,4.0,Biomedical Engineering
+886,60,2,3,False,False,70,BM71,Mr.,Sankar K,sankar.k@rajalakshmi.edu.in,1379,BM23332,Sensors and Measurements,LoT,2,2,0,3.0,Biomedical Engineering
+887,61,2,3,False,False,101,BM82,Mrs.,Nithyakalyani Krishnan,nithyakalyanikrishnan@rajalakshmi.edu.in,1379,BM23332,Sensors and Measurements,LoT,2,2,0,3.0,Biomedical Engineering
+888,60,2,3,False,False,83,BM73,Mrs.,S.Abiramy,abiramy.s@rajalakshmi.edu.in,1376,BM23321,Biochemistry and Physiology Laboratory,L,0,4,0,2.0,Biomedical Engineering
+889,61,2,3,False,False,69,BM22,Ms.,S. Sudha,sudha.singaram@rajalakshmi.edu.in,1376,BM23321,Biochemistry and Physiology Laboratory,L,0,4,0,2.0,Biomedical Engineering
+890,60,2,3,False,False,77,BM70,Mrs.,Subathra Y,subathra.y@rajalakshmi.edu.in,1377,BM23322,Biomedical Instrumentation Laboratory,L,0,4,0,2.0,Biomedical Engineering
+891,61,2,3,False,False,85,BM83,Ms.,Revathy P,revathy.p.bme@rajalakshmi.edu.in,1377,BM23322,Biomedical Instrumentation Laboratory,L,0,4,0,2.0,Biomedical Engineering
+892,57,3,5,False,False,79,BM78,Mrs.,Jemina Asnoth Sylvia J,jeminaasnothsylvia.j@rajalakshmi.edu.in,1385,BM23511,Biocontrol systems,T,3,0,0,3.0,Biomedical Engineering
+893,57,3,5,False,False,75,BM23,Mr.,R.Premkumar,premkumar.r@rajalakshmi.edu.in,1385,BM23511,Biocontrol systems,T,3,0,0,3.0,Biomedical Engineering
+895,57,3,5,False,False,89,BM86,Mrs.,Shanthipriya A,shanthipriya.a@rajalakshmi.edu.in,1386,BM23512,Diagnostic and Therapeutic Equipment,T,3,0,0,3.0,Biomedical Engineering
+896,57,3,5,False,False,110,BM72,Mrs.,Prathisha M,prathisha.m@rajalakshmi.edu.in,1894,24NCS08,Introduction to Internet of Things,T,1,0,0,3.0,Biomedical Engineering
+897,55,3,5,False,False,101,BM82,Mrs.,Nithyakalyani Krishnan,nithyakalyanikrishnan@rajalakshmi.edu.in,1894,24NCS08,Introduction to Internet of Things,T,1,0,0,3.0,Biomedical Engineering
+898,57,2025,1,False,False,83,BM73,Mrs.,S.Abiramy,abiramy.s@rajalakshmi.edu.in,1892,BM23B14,Biomaterials and Applications,T,3,0,0,3.0,Biomedical Engineering
+899,57,2025,1,False,False,110,BM72,Mrs.,Prathisha M,prathisha.m@rajalakshmi.edu.in,1892,BM23B14,Biomaterials and Applications,T,3,0,0,3.0,Biomedical Engineering
+902,57,3,5,False,False,91,BM79,Mr.,Senthilkumar P,senthilkumar.p@rajalakshmi.edu.in,1388,BM23531,Signals and Systems Analysis,LoT,1,2,1,3.0,Biomedical Engineering
+903,57,3,5,False,False,82,BM28,Mrs.,Dr. R. Kalpana,kalpana.r@rajalakshmi.edu.in,1388,BM23531,Signals and Systems Analysis,LoT,1,2,1,3.0,Biomedical Engineering
+904,57,3,5,False,False,61,BM26,Mr.,Muralidharan C,muralidharan.c@rajalakshmi.edu.in,1389,BM23532,Microcontroller and Embedded System Design,LoT,3,2,0,4.0,Biomedical Engineering
+905,57,3,5,False,False,87,BM78,Mr.,Ramachandran.R,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,1795,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Biomedical Engineering
+906,57,3,5,False,False,89,BM86,Mrs.,Shanthipriya A,shanthipriya.a@rajalakshmi.edu.in,1795,CS23422,Python Programming for Machine Learning,L,0,4,0,2.0,Biomedical Engineering
+907,57,3,5,False,False,68,BM60,Ms.,Karuppathal E,karuppathal.e@rajalakshmi.edu.in,1387,BM23521,Diagnostic and Therapeutic Equipment Laboratory,L,0,4,0,2.0,Biomedical Engineering
+908,57,3,5,False,False,89,BM86,Mrs.,Shanthipriya A,shanthipriya.a@rajalakshmi.edu.in,1387,BM23521,Diagnostic and Therapeutic Equipment Laboratory,L,0,4,0,2.0,Biomedical Engineering
+909,57,3,5,False,False,72,BM66,Mr.,Krishnakumar S,krishnakumar.s@rajalakshmi.edu.in,1895,GE23521,Soft Skills – II,L,0,2,0,1.0,Biomedical Engineering
+910,57,3,5,False,False,61,BM26,Mr.,Muralidharan C,muralidharan.c@rajalakshmi.edu.in,1895,GE23521,Soft Skills – II,L,0,2,0,1.0,Biomedical Engineering
+911,57,3,5,False,False,87,BM78,Mr.,Ramachandran.R,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,1389,BM23532,Microcontroller and Embedded System Design,LoT,3,2,0,4.0,Biomedical Engineering
+912,60,4,7,False,False,84,BM81,Dr.,Glory Precious J,gloryprecious.j@rajalakshmi.edu.in,1896,BM19701,Hospital Engineering and Management,T,3,0,0,3.0,Biomedical Engineering
+913,59,4,7,False,False,81,BM59,Mr.,Dr.M.C.Jobin Christ,jobinchrist.mc@rajalakshmi.edu.in,1896,BM19701,Hospital Engineering and Management,T,3,0,0,3.0,Biomedical Engineering
+914,59,4,7,False,False,73,BM35,Mrs.,Dr. N.Padmasini,padmasini.n@rajalakshmi.edu.in,1898,BM19741,Digital Image Processing Techniques,LoT,2,2,1,4.0,Biomedical Engineering
+915,59,4,7,False,False,110,BM72,Mrs.,Prathisha M,prathisha.m@rajalakshmi.edu.in,1905,BM19P72,Rehabilitation Engineering,T,3,0,0,3.0,Biomedical Engineering
+916,60,4,7,False,False,72,BM66,Mr.,Krishnakumar S,krishnakumar.s@rajalakshmi.edu.in,1905,BM19P72,Rehabilitation Engineering,T,3,0,0,3.0,Biomedical Engineering
+917,59,2025,1,False,False,85,BM83,Ms.,Revathy P,revathy.p.bme@rajalakshmi.edu.in,1906,24NBM01,Research Methods in Health Promotion,T,1,0,0,3.0,Biomedical Engineering
+918,60,4,7,False,False,83,BM73,Mrs.,S.Abiramy,abiramy.s@rajalakshmi.edu.in,1906,24NBM01,Research Methods in Health Promotion,T,1,0,0,3.0,Biomedical Engineering
+919,59,4,7,False,False,81,BM59,Mr.,Dr.M.C.Jobin Christ,jobinchrist.mc@rajalakshmi.edu.in,1901,BM19711,Project Phase-I,L,0,6,0,3.0,Biomedical Engineering
+920,59,4,7,False,False,75,BM23,Mr.,R.Premkumar,premkumar.r@rajalakshmi.edu.in,1902,BM19712,Hospital Training,L,0,2,0,1.0,Biomedical Engineering
+921,60,4,7,False,False,69,BM22,Ms.,S. Sudha,sudha.singaram@rajalakshmi.edu.in,1902,BM19712,Hospital Training,L,0,2,0,1.0,Biomedical Engineering
+922,59,4,7,False,False,101,BM82,Mrs.,Nithyakalyani Krishnan,nithyakalyanikrishnan@rajalakshmi.edu.in,1903,BM19713,AI-ML-DL in Healthcare,L,0,6,0,3.0,Biomedical Engineering
+923,60,4,7,False,False,84,BM81,Dr.,Glory Precious J,gloryprecious.j@rajalakshmi.edu.in,1903,BM19713,AI-ML-DL in Healthcare,L,0,6,0,3.0,Biomedical Engineering
+924,59,4,7,False,False,101,BM82,Mrs.,Nithyakalyani Krishnan,nithyakalyanikrishnan@rajalakshmi.edu.in,1904,BM19721,Comprehension In Biomedical Engineering,T,1,0,0,1.0,Biomedical Engineering
+925,60,4,7,False,False,70,BM71,Mr.,Sankar K,sankar.k@rajalakshmi.edu.in,1904,BM19721,Comprehension In Biomedical Engineering,T,1,0,0,1.0,Biomedical Engineering
+926,10,2025,1,False,False,88,BM84,Dr.,Vigneswaran Narayanamurthy,vigneswaran.narayanamurthy@rajalakshmi.edu.in,2147,MX23A11,Nanotechnology and Applications,T,3,0,0,3.0,Biomedical Engineering
+927,10,1,1,False,False,68,BM60,Ms.,Karuppathal E,karuppathal.e@rajalakshmi.edu.in,2134,MX23111,Anatomy & Physiology of Human Body,T,3,0,0,3.0,Biomedical Engineering
+928,10,1,1,False,False,75,BM23,Mr.,R.Premkumar,premkumar.r@rajalakshmi.edu.in,2135,MX23112,Research and Patenting Methodology  for Bioengineers,T,3,0,0,3.0,Biomedical Engineering
+929,9,1,1,False,False,77,BM70,Mrs.,Subathra Y,subathra.y@rajalakshmi.edu.in,2136,MX23113,Advanced Biomedical Equipment,T,3,0,0,3.0,Biomedical Engineering
+930,10,1,1,False,False,82,BM28,Mrs.,Dr. R. Kalpana,kalpana.r@rajalakshmi.edu.in,2139,MX23131,Biosignal Acquisition and Processing,LoT,2,2,1,4.0,Biomedical Engineering
+931,8,1,1,False,False,79,BM78,Mrs.,Jemina Asnoth Sylvia J,jeminaasnothsylvia.j@rajalakshmi.edu.in,2141,MX23121,Biomedical Instrumentation Lab,L,0,4,0,2.0,Biomedical Engineering
+932,8,2025,1,False,False,74,BM61,Mr.,Dr.S.Rajkumar,rajkumar.s@rajalakshmi.edu.in,2143,MX23D14,Ethics and Standards in Healthcare,T,1,0,0,1.0,Biomedical Engineering
+933,10,2025,1,False,False,74,BM61,Mr.,Dr.S.Rajkumar,rajkumar.s@rajalakshmi.edu.in,2144,MX23D31,Medical Textiles,T,1,2,0,2.0,Biomedical Engineering
+934,10,2025,1,False,False,82,BM28,Mrs.,Dr. R. Kalpana,kalpana.r@rajalakshmi.edu.in,2145,MX23321,Project Work – Phase I,L,0,12,0,6.0,Biomedical Engineering
+935,10,1,1,False,False,75,BM23,Mr.,R.Premkumar,premkumar.r@rajalakshmi.edu.in,2146,MX23322,Training in Healthcare Sector,L,0,4,0,2.0,Biomedical Engineering
+936,70,1,1,False,False,398,IT201,Mr.,Dr.M.Babu,babu.m@rajalakshmi.edu.in,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+937,63,2,3,False,False,395,IT198,Mr.,Dr.S.Subbiah,subbiah.s@rajalakshmi.edu.in,2116,IT23331,Digital Logic and Computer Architecture,T,3,2,0,4.0,Information Technology
+938,63,2,3,False,False,401,IT223,Mrs.,Padmini S,padmini.s@rajalakshmi.edu.in,2116,IT23331,Digital Logic and Computer Architecture,T,3,2,0,4.0,Information Technology
+940,70,2,3,False,False,36,IT227,Mrs.,Sree Subha S,sreesubha.s@rajalakshmi.edu.in,2018,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+941,70,2,3,False,False,40,IT178,Mrs.,Sowmia K R,sowmia.kr@rajalakshmi.edu.in,2018,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+943,70,2,3,False,False,265,EC160,Mrs.,Jhanani Shree U,jananishree.u@rajalakshmi.edu.in,1573,EC23331,Microprocessors and Microcontrollers,LoT,3,2,0,4.0,Electronics & Communication Engineering
+944,70,1,1,False,False,261,EC171,Mrs.,T. Helan Vidhya,helanvidhya.t@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+945,70,3,5,False,False,261,EC171,Mrs.,T. Helan Vidhya,helanvidhya.t@rajalakshmi.edu.in,1579,EC23512,Modern Digital Communication,T,3,0,0,3.0,Electronics & Communication Engineering
+946,140,4,7,False,False,271,EC190,Dr.,Saranya G,saranya.g@rajalakshmi.edu.in,1812,EC19711,Embedded Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+947,70,4,7,False,False,274,EC135,Mrs.,Dr. Saranya J,saranya.j@rajalakshmi.edu.in,1812,EC19711,Embedded Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+948,70,4,7,False,False,289,EC210,Mr.,Senthilraja B,senthilraja.b@rajalakshmi.edu.in,1812,EC19711,Embedded Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+949,70,3,5,False,False,279,EC197,Mrs.,Ms. Indhumathi G,indhumathi.g@rajalakshmi.edu.in,1580,EC23521,Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+950,70,3,5,False,False,270,EC185,Mr.,Murali Krishna K,muralikrishna.k@rajalakshmi.edu.in,1580,EC23521,Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+951,70,3,5,False,False,276,EC149,Mrs.,Anitha Mary M,anithamary.m@rajalakshmi.edu.in,1580,EC23521,Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+952,70,3,5,False,False,264,EC162,Mrs.,Benazir Begam R,benazirbegam.r@rajalakshmi.edu.in,1580,EC23521,Communication Systems Laboratory,L,0,4,0,2.0,Electronics & Communication Engineering
+953,70,3,5,False,False,301,EC179,Mrs.,Sushma S Jagtap,sushmasjagtap@rajalakshmi.edu.in,2160,GE23521,Soft Skills – II,L,0,2,0,1.0,Electronics & Communication Engineering
+954,70,3,5,False,False,272,EC143,Mr.,Gururaj D,gururaj.d@rajalakshmi.edu.in,2160,GE23521,Soft Skills – II,L,0,2,0,1.0,Electronics & Communication Engineering
+955,70,3,5,False,False,265,EC160,Mrs.,Jhanani Shree U,jananishree.u@rajalakshmi.edu.in,2160,GE23521,Soft Skills – II,L,0,2,0,1.0,Electronics & Communication Engineering
+956,70,3,5,False,False,269,EC172,Mrs.,Shanmuga Priya P,shanmugapriya.p@rajalakshmi.edu.in,2160,GE23521,Soft Skills – II,L,0,2,0,1.0,Electronics & Communication Engineering
+957,70,3,5,False,False,289,EC210,Mr.,Senthilraja B,senthilraja.b@rajalakshmi.edu.in,1581,EC23522,Industrial Internship,L,0,2,0,1.0,Electronics & Communication Engineering
+958,70,3,5,False,False,282,EC163,Mr.,Karthi J,karthi.j@rajalakshmi.edu.in,1581,EC23522,Industrial Internship,L,0,2,0,1.0,Electronics & Communication Engineering
+959,70,3,5,False,False,302,EC217,Mrs.,Indhu Bala B,indhubala.b@rajalakshmi.edu.in,1581,EC23522,Industrial Internship,L,0,2,0,1.0,Electronics & Communication Engineering
+960,70,3,5,False,False,297,EC207,Mr.,G Loganathan,loganathan.g@rajalakshmi.edu.in,1581,EC23522,Industrial Internship,L,0,2,0,1.0,Electronics & Communication Engineering
+961,70,2,3,False,False,386,FT23,Mr.,Anand R,anand.r@rajalakshmi.edu.in,1631,FT23311,Food Microbiology Laboratory,L,0,4,0,2.0,Food Technology
+962,70,4,7,False,False,386,FT23,Mr.,Anand R,anand.r@rajalakshmi.edu.in,1990,FT19714,Problem solving using Artificial Intelligence and Machine Learning for Food Technologist,L,0,4,0,2.0,Food Technology
+965,70,4,7,False,False,30,IT254,Mr.,Srinivasan Thaigarajan,srinivasan.thiagarajan@rajalakshmi.edu.in,1853,AD19P72,Predictive Analytics,LoT,2,2,0,3.0,Artificial Intelligence & Data Science
+966,70,2025,1,False,False,12,CS66,Mrs.,Sorna Shanthi D,sornashanthi.d@rajalakshmi.edu.in,2058,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+967,70,3,5,False,False,50,IT252,Mrs.,J Jasmine Gabriel,jasminegabriel.j@rajalakshmi.edu.in,2177,AD23532,Framework for Data and Visual Analytics,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+968,70,3,5,False,False,63,IT246,Dr.,Rajasekaran Annamalai,rajasekaran.a@rajalakshmi.edu.in,2177,AD23532,Framework for Data and Visual Analytics,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+969,70,2,3,False,False,10,AE78,Mr.,B Kathiravan,kathiravan.b@rajalakshmi.edu.in,2174,AV23321,PROJECT WORK (PHASE I),L,0,20,0,8.0,Aeronautical Engineering
+970,70,3,5,False,False,54,IT242,Mrs.,Priya M,priya.m@rajalakshmi.edu.in,2177,AD23532,Framework for Data and Visual Analytics,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+971,70,2,3,False,False,7,AE75,Mr.,Nithiyanantham K K,nithiyanantham.kk@rajalakshmi.edu.in,2171,AV23311,NAVIGATION SYSTEMS,T,3,0,0,3.0,Aeronautical Engineering
+972,70,1,1,False,False,7,AE75,Mr.,Nithiyanantham K K,nithiyanantham.kk@rajalakshmi.edu.in,2168,AV23121,AVIONICS INTEGRATION LABORATORY,L,0,3,0,2.0,Aeronautical Engineering
+973,70,1,1,False,False,3,AE67,Mr.,Shebaz Ahmed J P,shebazahamed.jp@rajalakshmi.edu.in,2162,AV23111,AEROSPACE ENGINEERING (FOR NON - AERO GRADUATES),T,3,0,0,3.0,Aeronautical Engineering
+974,70,2025,1,False,False,1782,AIML-NS1,,,,2148,AI23A35,Recommendation Systems,T,2,2,0,3.0,Artificial Intelligence & Machine Learning
+975,70,1,1,False,False,8,AE73,Mr.,Prem Anand T P,premanand.tp@rajalakshmi.edu.in,2161,AV23113,DIGITAL AVIONICS,T,3,0,0,3.0,Aeronautical Engineering
+976,70,2025,1,False,False,13,AE76,Mr.,Pradesh S,pradesh.s@rajalakshmi.edu.in,2165,AV23A11,FLIGHT INSTRUMENTATION,T,3,0,0,3.0,Aeronautical Engineering
+979,70,3,5,False,False,52,IT261,Ms.,Soundarya M,soundarya.m@rajalakshmi.edu.in,2017,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Machine Learning
+980,66,3,5,False,False,238,CS315,Dr.,Balasubramanian V,balasubramanian.v@rajalakshmi.edu.in,1529,CR23531,Ethical Hacking,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+983,70,4,7,False,False,52,IT261,Ms.,Soundarya M,soundarya.m@rajalakshmi.edu.in,2012,AI19701,Secure Systems Engineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+986,70,3,5,False,False,394,IT199,Mrs.,Dr.A.Kalaivani,kalaivani.a@rajalakshmi.edu.in,1677,IT23531,Computer Vision,LoT,3,2,0,4.0,Information Technology
+987,70,2,3,False,False,29,IT257,Dr.,Beulah A,beulah.a@rajalakshmi.edu.in,2178,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+988,70,2,3,False,False,16,IT228,Mrs.,Nirmala Anandhi Y,nirmalaanandhi.y@rajalakshmi.edu.in,2178,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+989,70,3,5,False,False,388,IT189,Mrs.,M.Sandhiya,sandhiya.m@rajalakshmi.edu.in,2082,CS23531,Web Programming,LoT,1,6,0,4.0,Information Technology
+990,70,2,3,False,False,522,ME210,Mr.,Dr.S.Kumar,kumar.s@rajalakshmi.edu.in,1881,FT23303,Thermodynamics for Food Technologists,T,3,0,0,3.0,Food Technology
+991,70,2,3,False,False,193,CS195,Mrs.,Dr. K Devaki,devaki.k@rajalakshmi.edu.in,1439,CB23332,Software Engineering,LoT,3,2,0,4.0,Computer Science & Business Systems
+992,70,4,7,False,False,14,IT216,Ms.,S Renuka Devi,renukadevi.s@rajalakshmi.edu.in,1851,AD19P74,ETHICS OF ARTIFICIAL INTELLIGENCE,T,3,0,0,3.0,Artificial Intelligence & Data Science
+994,70,2,3,False,False,165,CS316,Dr.,Manikandan Thirumalaisamy,manikandan.thirumalaisamy@rajalakshmi.edu.in,1439,CB23332,Software Engineering,LoT,3,2,0,4.0,Computer Science & Business Systems
+995,70,2,3,False,False,28,IT265,Mr.,Aswin Jeba Mahir A,aswinjabamahir@rajalakshmi.edu.in,2178,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+996,70,2025,1,False,False,413,IT259,Ms.,Bhuvaneshwari Muthukumaran,bhuvaneshwari.m@rajalakshmi.edu.in,2191,AI23231,Principles of Artificial Intelligence,LoT,3,2,0,4.0,Information Technology
+997,70,2025,1,False,False,413,IT259,Ms.,Bhuvaneshwari Muthukumaran,bhuvaneshwari.m@rajalakshmi.edu.in,2191,AI23231,Principles of Artificial Intelligence,LoT,3,2,0,4.0,Information Technology
+998,70,2025,1,False,False,417,IT263,Mr.,Sathish M,sathish.m1@rajalakshmi.edu.in,2191,AI23231,Principles of Artificial Intelligence,LoT,3,2,0,4.0,Information Technology
+999,70,2025,1,False,False,423,IT205,Mrs.,K Indumathi,indumathik@rajalakshmi.edu.in,2191,AI23231,Principles of Artificial Intelligence,LoT,3,2,0,4.0,Information Technology
+1000,70,1,1,False,False,163,CV70,Mrs.,Yugasini S,yugasini.s@rajalakshmi.edu.in,182,CE23111,Building Materials,T,3,0,0,3.0,Civil Engineering
+1001,30,1,1,False,False,152,CV19,Mr.,Mahamood Ul Hasan N,mahamoodulhasan.n@rajalakshmi.edu.in,183,CE23112,Engineering Drawing for Civil Engineers,T,2,4,0,4.0,Civil Engineering
+1002,30,1,1,False,False,157,CV65,Dr.,M.Manoharan,manoharan.m@rajalakshmi.edu.in,183,CE23112,Engineering Drawing for Civil Engineers,T,2,4,0,4.0,Civil Engineering
+1003,30,1,1,False,False,152,CV19,Mr.,Mahamood Ul Hasan N,mahamoodulhasan.n@rajalakshmi.edu.in,1827,GE23121,Engineering Practices – Civil and Mechanical,L,0,2,0,1.0,Civil Engineering
+1004,30,1,1,False,False,183,CV72,Mr.,R Madhava Perumal,madhavaperumal.r@rajalakshmi.edu.in,1827,GE23121,Engineering Practices – Civil and Mechanical,L,0,2,0,1.0,Civil Engineering
+1005,70,4,7,False,False,165,CS316,Dr.,Manikandan Thirumalaisamy,manikandan.thirumalaisamy@rajalakshmi.edu.in,2192,CB19711,Project Evaluation I,L,0,2,0,0.0,Computer Science & Business Systems
+1006,70,2,3,False,False,408,CS325,Dr.,Shunmuganathan K L,shunmuganathan.kl@rajalakshmi.edu.in,2083,CS23332,Database Management Systems,LoT,3,4,0,5.0,Information Technology
+1007,70,3,5,False,False,170,CS270,Mrs.,Dr. P. Tamil Selvi,tamilselvi.p@rajalakshmi.edu.in,2199,CB23D31,Data Mining and Analytics,LoT,3,2,0,4.0,Computer Science & Business Systems
+1008,70,4,7,False,False,170,CS270,Mrs.,Dr. P. Tamil Selvi,tamilselvi.p@rajalakshmi.edu.in,2200,CB19P45,Modern Web Applications,LoT,3,2,0,4.0,Computer Science & Business Systems
+1009,70,2,3,False,False,383,CS47,Mrs.,Priya Vijay,Priya.vijay@rajalakshmi.edu.in,2115,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Information Technology
+1010,70,3,5,False,False,172,CS323,Ms.,Janani U,janani.u@rajalakshmi.edu.in,1445,CB23521,Design Thinking for Innovation in Computer Science and Business Systems,LoT,1,2,0,2.0,Computer Science & Business Systems
+1011,70,3,5,False,False,172,CS323,Ms.,Janani U,janani.u@rajalakshmi.edu.in,1445,CB23521,Design Thinking for Innovation in Computer Science and Business Systems,LoT,1,2,0,2.0,Computer Science & Business Systems
+1012,70,2,3,False,False,383,CS47,Mrs.,Priya Vijay,Priya.vijay@rajalakshmi.edu.in,2115,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Information Technology
+1013,70,2,3,False,False,384,CS200,Mr.,Narayana K E,narayana.ke@rajalakshmi.edu.in,2115,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Information Technology
+1014,70,3,5,False,False,173,CS287,Dr.,Vishnu Kumar A,vishnukumar.a@rajalakshmi.edu.in,1446,CB23531,Computer Network Technology,LoT,3,2,0,4.0,Computer Science & Business Systems
+1015,70,2,3,False,False,173,CS287,Dr.,Vishnu Kumar A,vishnukumar.a@rajalakshmi.edu.in,1436,CB23311,Formal Language and Automata Theory,T,3,0,0,3.0,Computer Science & Business Systems
+1016,70,2,3,False,False,378,IT30,Mrs.,Usha S,usha.s@rajalakshmi.edu.in,2115,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Information Technology
+1017,70,2,3,False,False,402,IT251,Mr.,Suresh Kumar K,sureshkumar.k@rajalakshmi.edu.in,2115,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Information Technology
+1018,70,4,7,False,False,164,IT116,Mrs.,K Poornimathi,poornimathi.k@rajalakshmi.edu.in,2193,CB19742,IT Workshop,LoT,2,2,0,2.0,Computer Science & Business Systems
+1019,70,4,7,False,False,164,IT116,Mrs.,K Poornimathi,poornimathi.k@rajalakshmi.edu.in,2192,CB19711,Project Evaluation I,L,0,2,0,0.0,Computer Science & Business Systems
+1020,70,2025,1,False,False,1798,IT268,Subramanian,E.K,subramanian.ek@rajalakshmi.edu.in,2057,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Data Science
+1021,70,2,3,False,False,1782,AIML-NS1,,,,2019,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+1022,70,4,7,False,False,156,IT172,Mrs.,Nisha R S,nisha.rs@rajalakshmi.edu.in,2194,CB19741,Usability Design of Software  Applications,LoT,3,2,0,4.0,Computer Science & Business Systems
+1023,70,2,3,False,False,156,IT172,Mrs.,Nisha R S,nisha.rs@rajalakshmi.edu.in,1440,CB23333,Database Technology,LoT,3,2,0,4.0,Computer Science & Business Systems
+1024,70,1,1,False,False,1787,,AIML ,NS2,1234@rajalakshmi.edu.in,2100,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1025,66,3,5,False,False,241,CS324,Ms.,R Rupmala,rupmala.r@rajalakshmi.edu.in,2202,CS23531,Web Programming,LoT,1,6,0,4.0,Computer Science & Engineering (Cyber Security)
+1027,70,2,3,False,False,1801,IT270,Kapilamithran ,S,kapilamithran.s@rajalakshmi.edu.in,2178,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1028,70,3,5,False,False,180,CS250,Mrs.,S.Bakiyalakshmi,bakiyalakshmis@rajalakshmi.edu.in,1446,CB23531,Computer Network Technology,LoT,3,2,0,4.0,Computer Science & Business Systems
+1029,70,1,1,False,False,1793,,AIML ,NS3,12345@rajalakshmi.edu.in,2100,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1030,70,2025,1,False,False,180,CS250,Mrs.,S.Bakiyalakshmi,bakiyalakshmis@rajalakshmi.edu.in,2199,CB23D31,Data Mining and Analytics,LoT,3,2,0,4.0,Computer Science & Business Systems
+1031,70,2,3,False,False,1802,IT271,surendar,A,surendar.a@rajalakshmi.edu.in,2178,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1033,70,1,1,False,False,567,ME236,Mr.,P.Vimalanathan,vimalanathan.p@rajalakshmi.edu.in,2204,GE23111,Engineering Graphics,T,2,0,4,4.0,Robotics & Automation
+1034,70,2,3,False,False,1787,,AIML ,NS2,1234@rajalakshmi.edu.in,2020,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Machine Learning
+1035,66,3,5,False,False,1790,NS3,New Staff 3,N,ns3@rec.edu,2206,CS23533,Foundations of Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1036,70,2,3,False,False,175,CS299,Mrs.,Jayanthi M,jayanthi.m@rajalakshmi.edu.in,1437,CB23312,Computer Organization and Architecture,T,3,0,0,3.0,Computer Science & Business Systems
+1037,70,1,1,False,False,175,CS299,Mrs.,Jayanthi M,jayanthi.m@rajalakshmi.edu.in,145,CB23131,Fundamentals of Computer Science,LoT,2,4,0,4.0,Computer Science & Business Systems
+1038,70,4,7,False,False,167,CS327,Mrs.,Rajammal K,rajammal.k@rajalakshmi.edu.in,2194,CB19741,Usability Design of Software  Applications,LoT,3,2,0,4.0,Computer Science & Business Systems
+1039,66,3,5,False,False,1791,NS4,New Staff 4,N,ns4@rec.edu,1530,CR23532,Cyber and Digital Forensics,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1040,70,2,3,False,False,167,CS327,Mrs.,Rajammal K,rajammal.k@rajalakshmi.edu.in,1440,CB23333,Database Technology,LoT,3,2,0,4.0,Computer Science & Business Systems
+1041,70,2025,1,False,False,1800,IT269,Dhivya Bhavani,V,dhivyabhavani.v@rajalakshmi.edu.in,2061,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Data Science
+1042,70,3,5,False,False,1793,,AIML ,NS3,12345@rajalakshmi.edu.in,1330,AI23521,Build and Deploy Machine Learning Applications,L,0,2,0,1.0,Artificial Intelligence & Machine Learning
+1043,66,2025,1,False,False,246,IT258,Mrs.,Subashri Meenakshi G,subashrimeenakshi.g@rajalakshmi.edu.in,2209,CS23432,Software Construction,L,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1044,70,2,3,False,False,1794,,AIML ,NS4,12346@rajalakshmi.edu.in,2018,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1045,70,3,5,False,False,1794,,AIML ,NS4,12346@rajalakshmi.edu.in,1330,AI23521,Build and Deploy Machine Learning Applications,L,0,2,0,1.0,Artificial Intelligence & Machine Learning
+1046,64,2,3,False,False,1789,NS2,New Staff 2,N,ns2@rec.edu,2210,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering (Cyber Security)
+1047,64,2,3,False,False,1791,NS4,New Staff 4,N,ns4@rec.edu,2210,CS23332,Database Management Systems,LoT,3,4,0,5.0,Computer Science & Engineering (Cyber Security)
+1048,135,2025,1,False,False,317,EC216,Dr.,R Jeevani,jeevani.r@rajalakshmi.edu.in,2212,GE23117,தமிழர் மரபு /Heritage of Tamils,T,1,0,0,1.0,Electronics & Communication Engineering
+1049,64,2025,1,False,False,1792,NS5,New Staff 5,N,ns5@rec.edu,2213,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering (Cyber Security)
+1050,64,2025,1,False,False,1790,NS3,New Staff 3,N,ns3@rec.edu,2213,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Engineering (Cyber Security)
+1051,135,1,1,False,False,305,EC194,Mr.,A.E. Prabhu,prabhu.ae@rajalakshmi.edu.in,2212,GE23117,தமிழர் மரபு /Heritage of Tamils,T,1,0,0,1.0,Electronics & Communication Engineering
+1052,135,1,1,False,False,286,EC198,Ms.,Dr.S.V.Vinodhini,vinodhini.sv@rajalakshmi.edu.in,2212,GE23117,தமிழர் மரபு /Heritage of Tamils,T,1,0,0,1.0,Electronics & Communication Engineering
+1053,70,3,5,False,False,395,IT198,Mr.,Dr.S.Subbiah,subbiah.s@rajalakshmi.edu.in,2215,GE23521,Soft Skills – II,L,0,2,0,1.0,Information Technology
+1054,70,1,1,False,False,302,EC217,Mrs.,Indhu Bala B,indhubala.b@rajalakshmi.edu.in,2212,GE23117,தமிழர் மரபு /Heritage of Tamils,T,1,0,0,1.0,Electronics & Communication Engineering
+1055,64,2025,1,False,False,591,CS40,HOD,CSE(CS),hod.csecs@rajalakshmi.edu.in,2216,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering (Cyber Security)
+1056,64,2025,1,False,False,246,IT258,Mrs.,Subashri Meenakshi G,subashrimeenakshi.g@rajalakshmi.edu.in,2216,CS23532,Computer Networks,LoT,3,2,0,5.0,Computer Science & Engineering (Cyber Security)
+1058,70,3,5,False,False,400,IT230,Mr.,Dr B Muthu Kumar,muthukumar.b@rajalakshmi.edu.in,2215,GE23521,Soft Skills – II,L,0,2,0,1.0,Information Technology
+1059,70,3,5,False,False,394,IT199,Mrs.,Dr.A.Kalaivani,kalaivani.a@rajalakshmi.edu.in,2215,GE23521,Soft Skills – II,L,0,2,0,1.0,Information Technology
+1060,70,3,5,False,False,1795,NS6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2215,GE23521,Soft Skills – II,L,0,2,0,1.0,Information Technology
+1061,70,2,3,False,False,305,EC194,Mr.,A.E. Prabhu,prabhu.ae@rajalakshmi.edu.in,2220,IT23231,Digital Logic and Computer Architecture,LoT,3,2,0,4.0,Electronics & Communication Engineering
+1062,70,2025,1,False,False,269,EC172,Mrs.,Shanmuga Priya P,shanmugapriya.p@rajalakshmi.edu.in,2220,IT23231,Digital Logic and Computer Architecture,LoT,3,2,0,4.0,Electronics & Communication Engineering
+1063,70,2025,1,False,False,315,EC214,Dr.,S R Balaji,balaji.sr@rajalakshmi.edu.in,2220,IT23231,Digital Logic and Computer Architecture,LoT,3,2,0,4.0,Electronics & Communication Engineering
+1064,70,1,1,False,False,1788,NS1,New Staff 1,N,ns1@rec.edu,1793,GE23131,Programming using C,LoT,1,6,0,4.0,Computer Science & Engineering (Cyber Security)
+1065,70,1,1,False,False,1804,NF-1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,145,CB23131,Fundamentals of Computer Science,LoT,2,4,0,4.0,Computer Science & Business Systems
+1066,70,3,5,False,False,1804,NF-1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1447,CB23532,Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Business Systems
+1067,70,3,5,False,False,1805,NF-2,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1447,CB23532,Artificial Intelligence,LoT,3,2,0,4.0,Computer Science & Business Systems
+1068,70,2,3,False,False,1805,NF-2,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1437,CB23312,Computer Organization and Architecture,T,3,0,0,3.0,Computer Science & Business Systems
+1069,70,4,7,False,False,1806,NF-3,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2200,CB19P45,Modern Web Applications,LoT,3,2,0,4.0,Computer Science & Business Systems
+1070,70,4,7,False,False,1807,NF-4,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2193,CB19742,IT Workshop,LoT,2,2,0,2.0,Computer Science & Business Systems
+1071,70,2,3,False,False,1807,NF-4,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1436,CB23311,Formal Language and Automata Theory,T,3,0,0,3.0,Computer Science & Business Systems
+1072,66,3,5,False,False,1789,NS2,New Staff 2,N,ns2@rec.edu,2221,GE23521,Soft Skills – II,L,0,2,0,1.0,Computer Science & Engineering (Cyber Security)
+1073,70,2,3,False,False,1808,NF-5,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2222,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Business Systems
+1074,70,2,3,False,False,1809,NF-6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2222,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Computer Science & Business Systems
+1075,70,3,5,False,False,29,IT257,Dr.,Beulah A,beulah.a@rajalakshmi.edu.in,2179,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1076,70,3,5,False,False,21,IT224,Mrs.,Jayasri Archana Devi P,jayasriarchanadevi.p@rajalakshmi.edu.in,2179,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1079,64,4,7,False,False,313,EE11,Mrs.,Dr.R.Kalaivani,kalaivani.r@rajalakshmi.edu.in,2024,EE19742,Power System Operation and Control,LoT,2,2,1,4.0,Electrical & Electronics Engineering
+1080,70,2025,1,False,False,1800,IT269,Dhivya Bhavani,V,dhivyabhavani.v@rajalakshmi.edu.in,2056,CS23331,Design and Analysis of Algorithms,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1081,70,2025,1,False,False,1811,NF1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2057,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Data Science
+1083,70,3,5,False,False,1812,NF2,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2179,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1084,70,1,1,False,False,1812,NF2,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+1085,70,1,1,False,False,1798,IT268,Subramanian,E.K,subramanian.ek@rajalakshmi.edu.in,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+1086,70,3,5,False,False,1801,IT270,Kapilamithran ,S,kapilamithran.s@rajalakshmi.edu.in,2179,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1087,70,1,1,False,False,1813,NF3,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+1089,70,1,1,False,False,1814,NF4,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2053,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Data Science
+1091,70,3,5,False,False,1815,NF5,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1834,AD23531,Big Data Architecture,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1092,70,1,1,False,False,518,ME199,Mr.,Dr.S.Dhandapani,dhandapani.s@rajalakshmi.edu.in,2086,GE23117,தமிழர் மரபு /Heritage of Tamils,T,1,0,0,1.0,Mechanical Engineering
+1094,70,2,3,False,False,477,ME227,Mr.,Dr.M.Balakarthikeyan,balakarthikeyan.m@rajalakshmi.edu.in,2172,AV23312,INTRODUCTION TO ROBOTICS AND SENSORS,T,3,0,0,3.0,Aeronautical Engineering
+1098,70,1,1,False,False,322,EE128,Ms.,A Sowmiya,sowmiya.a@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1099,70,1,1,False,False,1818,NF3,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1100,70,2025,1,False,False,22,IT217,Mr.,Thiyagarajan G,thiyagarajan.g@rajalakshmi.edu.in,2235,AI19741,Big Data Technology,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1101,70,1,1,False,False,321,EE57,Mr.,T. S. Saravanan,saravanan.ts@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1102,70,1,1,False,False,337,EE129,Ms.,J C Vinitha,vinitha.jc@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1103,70,1,1,False,False,335,EE136,Mr.,Srinivasan C,srinivasan.c@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1104,70,1,1,False,False,1816,NF1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1105,70,1,1,False,False,318,EE108,Mrs.,V.Sivagami,sivagami.v@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1106,70,1,1,False,False,306,EE23,Mr.,Santhanakrishnan T,santhanakrishnan.t@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1107,70,1,1,False,False,338,EE138,Dr.,Dhandayuthapani S,dhandayuthapani.s@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1108,70,1,1,False,False,351,EE134,Dr.,Kandaswamy K V,kandaswamy.kv@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1110,70,1,1,False,False,351,EE134,Dr.,Kandaswamy K V,kandaswamy.kv@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1111,70,1,1,False,False,333,EE135,Mrs.,Aswini A,aswini.a@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1112,70,1,1,False,False,326,EE125,Mr.,A.Nazar Ali,nazarali.a@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1113,70,1,1,False,False,339,EE139,Mrs.,Brindhu Kumari,brindhukumari.a@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1114,70,2025,1,False,False,576,IT239,HOD,AIDS,hod.aids@rajalakshmi.edu.in,2237,IT23C12,SOFTWARE PROJECT MANAGEMENT,T,3,0,0,3.0,Artificial Intelligence & Data Science
+1115,70,1,1,False,False,347,EE52,Dr.,A.Sangari,sangari.a@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1116,70,1,1,False,False,314,EE59,Mr.,Dr. P. Thirusenthil Kumaran,thirusenthilkumaran.p@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1117,70,2025,1,False,False,41,IT256,Dr.,Sampath Kumar V,sampathkumar.v@rajalakshmi.edu.in,2238,IT23A11,INTERNET OF THINGS,T,3,0,0,3.0,Artificial Intelligence & Data Science
+1118,70,1,1,False,False,306,EE23,Mr.,Santhanakrishnan T,santhanakrishnan.t@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1119,70,1,1,False,False,320,EE90,Mr.,Ragupathy P,ragupathy.p@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1120,70,1,1,False,False,328,EE102,Mr.,Ron Carter Sb,roncarter.sb@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1121,70,1,1,False,False,354,EE130,Ms.,D Manimegalai,manimegalai.d@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1122,70,1,1,False,False,341,EE132,Ms.,K M Vijayalakshmi,vijayalakshmi.km@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1123,70,1,1,False,False,337,EE129,Ms.,J C Vinitha,vinitha.jc@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1124,70,1,1,False,False,1816,NF1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1125,70,1,1,False,False,335,EE136,Mr.,Srinivasan C,srinivasan.c@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1126,70,1,1,False,False,319,EE82,Mr.,Dr. P. R. Sivaraman,sivaraman.pr@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1127,70,1,1,False,False,321,EE57,Mr.,T. S. Saravanan,saravanan.ts@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1128,70,1,1,False,False,1817,NF2,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1129,70,1,1,False,False,314,EE59,Mr.,Dr. P. Thirusenthil Kumaran,thirusenthilkumaran.p@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1130,70,1,1,False,False,320,EE90,Mr.,Ragupathy P,ragupathy.p@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1131,70,1,1,False,False,309,EE78,Mrs.,Anto Sheeba J,antosheeba.j@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1132,70,1,1,False,False,341,EE132,Ms.,K M Vijayalakshmi,vijayalakshmi.km@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1133,70,1,1,False,False,354,EE130,Ms.,D Manimegalai,manimegalai.d@rajalakshmi.edu.in,2197,EE23133,Basic Electrical and Electronics Engineering,LoT,3,2,0,4.0,Computer Science & Engineering (Cyber Security)
+1136,70,2025,1,False,False,211,CS253,Mr.,Dr.K.Anand,anand.k@rajalakshmi.edu.in,2240,CS19711,Project-1,L,0,6,0,3.0,Computer Science & Engineering
+1137,70,4,7,False,False,202,CS208,Mr.,Dr. N. Duraimurugan,duraimurugan.n@rajalakshmi.edu.in,2240,CS19711,Project-1,L,0,6,0,3.0,Computer Science & Engineering
+1139,70,4,7,False,False,235,CS321,Dr.,Bhuvaneswari R,bhuvaneswari.r@rajalakshmi.edu.in,2240,CS19711,Project-1,L,0,6,0,3.0,Computer Science & Engineering
+1140,70,2025,1,False,False,222,CS255,Mr.,Dr.K.Ananthajothi,ananthajothi.k@rajalakshmi.edu.in,2129,CS19711,Project-1,L,0,6,0,3.0,Computer Science & Engineering
+1141,70,2025,1,False,False,227,CS279,Dr.,M.Rakesh Kumar,rakeshkumar.m@rajalakshmi.edu.in,2129,CS19711,Project-1,L,0,6,0,3.0,Computer Science & Engineering
+1142,46,3,5,False,False,314,EE59,Mr.,Dr. P. Thirusenthil Kumaran,thirusenthilkumaran.p@rajalakshmi.edu.in,2049,EE23B21,Wiring Harness Design Engineering,L,0,6,0,3.0,Electrical & Electronics Engineering
+1143,46,3,5,False,False,306,EE23,Mr.,Santhanakrishnan T,santhanakrishnan.t@rajalakshmi.edu.in,2049,EE23B21,Wiring Harness Design Engineering,L,0,6,0,3.0,Electrical & Electronics Engineering
+1144,45,3,5,False,False,320,EE90,Mr.,Ragupathy P,ragupathy.p@rajalakshmi.edu.in,2049,EE23B21,Wiring Harness Design Engineering,L,0,6,0,3.0,Electrical & Electronics Engineering
+1145,70,2025,1,False,False,1820,NF6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2057,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Data Science
+1147,70,2025,1,False,False,1821,NF7,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2057,CS23332,Database Management Systems,LoT,3,4,0,5.0,Artificial Intelligence & Data Science
+1148,70,2025,1,False,False,1821,NF7,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2238,IT23A11,INTERNET OF THINGS,T,3,0,0,3.0,Artificial Intelligence & Data Science
+1149,70,2025,1,False,False,1822,NF8,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2061,CS23532,Computer Networks,LoT,3,2,0,5.0,Artificial Intelligence & Data Science
+1154,60,2025,1,False,False,107,BT170,Mrs.,Divya Lakshmi. S,divyalakshmi.s@rajalakshmi.edu.in,1408,BT23321,Basic Food and Enzyme Technology Laboratory,L,0,2,0,1.0,Biotechnology
+1155,60,2025,1,False,False,1749,BT NS-3,,,,1408,BT23321,Basic Food and Enzyme Technology Laboratory,L,0,2,0,1.0,Biotechnology
+1156,60,4,7,False,False,133,BT182,Dr.,Shanthi M,shanthi.m@rajalakshmi.edu.in,1815,BT19702,Bioinformatics,T,3,0,0,3.0,Biotechnology
+1157,60,4,7,False,False,1751,BT NS-5,,,,1815,BT19702,Bioinformatics,T,3,0,0,3.0,Biotechnology
+1158,30,3,5,False,False,106,BT107,Mrs.,Dr.M.Millicent Mabel,millicentmable.m@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+1159,30,3,5,False,False,100,BT85,Mrs.,Dr.R.Anila,anila.r@rajalakshmi.edu.in,1419,BT23521,Bioprocess Laboratory- I,L,0,4,0,2.0,Biotechnology
+1160,30,4,7,False,False,113,BT171,Mrs.,Sangeetha Gandhi S,sangeethagandhi.s@rajalakshmi.edu.in,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+1161,30,4,7,False,False,111,BT169,Mrs.,N.Premalatha,premalatha.n@rajalakshmi.edu.in,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+1162,35,4,7,False,False,111,BT169,Mrs.,N.Premalatha,premalatha.n@rajalakshmi.edu.in,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+1163,30,4,7,False,False,1747,BT NS-1,,,,2045,BT19711,Downstream processing lab,L,0,3,0,1.5,Biotechnology
+1164,70,1,1,False,False,304,EC209,Dr.,Kumaran N,kumaran.n@rajalakshmi.edu.in,1845,EC23131,Electron Devices,LoT,3,2,0,4.0,Electronics & Communication Engineering
+1165,70,1,1,False,False,1823,IT NS10,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1166,70,1,1,False,False,1795,NS6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1167,70,1,1,False,False,1823,IT NS10,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1168,70,1,1,False,False,1824,IT NS11,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1169,70,1,1,False,False,1796,NS8,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1170,70,1,1,False,False,1825,IT NS12,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2114,GE23131,Programming using C,LoT,1,6,0,4.0,Information Technology
+1171,16,2025,1,False,False,398,IT201,Mr.,Dr.M.Babu,babu.m@rajalakshmi.edu.in,2155,DS24A11,Professional Elective - I -Generative Adversarial Networks,T,2,0,1,3.0,Information Technology
+1172,16,2025,1,False,False,378,IT30,Mrs.,Usha S,usha.s@rajalakshmi.edu.in,2151,DS24111,Data Science with Python,T,2,0,1,3.0,Information Technology
+1173,16,2025,1,False,False,404,IT187,Mrs.,A.P.Aruna Jameela,arunajameela.ap@rajalakshmi.edu.in,2153,DS24112,Machine Learning Practices,T,2,0,1,3.0,Information Technology
+1174,16,2025,1,False,False,417,IT263,Mr.,Sathish M,sathish.m1@rajalakshmi.edu.in,2154,DS24113,Data Engineering,T,3,0,0,3.0,Information Technology
+1175,16,2025,1,False,False,1785,IT NS4,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2157,DS24121,Applied Machine Learning  Lab,L,0,4,0,2.0,Information Technology
+1176,14,2025,1,False,False,1786,IT NS5,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2158,DS24122,Data Science Lab,L,0,4,0,2.0,Information Technology
+1177,70,2,3,False,False,122,BT180,Mrs.,Sinduja M E,sinduja.me@rajalakshmi.edu.in,2250,BT23313,Molecular Genetics,T,3,0,0,3.0,Biotechnology
+1178,70,2,3,False,False,122,BT180,Mrs.,Sinduja M E,sinduja.me@rajalakshmi.edu.in,2250,BT23313,Molecular Genetics,T,3,0,0,3.0,Biotechnology
+1179,70,4,7,False,False,119,BT181,Dr.,Preethy K R,preethy.kr@rajalakshmi.edu.in,1823,BT19P71,Comprehensive Course for Biotechnologists,T,3,0,0,3.0,Biotechnology
+1181,70,3,5,False,False,1811,NF1,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1842,AD19751,Basics of Computer Vision,T,3,0,0,3.0,Artificial Intelligence & Data Science
+1182,70,3,5,False,False,1820,NF6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2179,AI23531,Deep Learning,LoT,3,2,0,4.0,Artificial Intelligence & Data Science
+1183,70,2025,1,False,False,41,IT256,Dr.,Sampath Kumar V,sampathkumar.v@rajalakshmi.edu.in,2238,IT23A11,INTERNET OF THINGS,T,3,0,0,3.0,Artificial Intelligence & Data Science
+1184,70,2025,1,False,False,84,BM81,Dr.,Glory Precious J,gloryprecious.j@rajalakshmi.edu.in,1893,BM23C11,Pattern Recognition and Neural Networks,T,3,0,0,3.0,Biomedical Engineering
+1185,60,2,3,False,False,80,BM74,Dr.,Rubesh Kumar T,rubeshkumar.t@rajalakshmi.edu.in,1378,BM23331,Electronic Devices & Circuits,LoT,3,2,0,4.0,Biomedical Engineering
+1186,57,3,5,False,False,79,BM78,Mrs.,Jemina Asnoth Sylvia J,jeminaasnothsylvia.j@rajalakshmi.edu.in,1386,BM23512,Diagnostic and Therapeutic Equipment,T,3,0,0,3.0,Biomedical Engineering
+1187,66,4,7,False,False,570,ME244,Mr.,Venugopal K,venugopal.k@rajalakshmi.edu.in,2269,RO19721,Project Work - Phase 1,L,0,2,0,1.0,Robotics & Automation
+1188,66,4,7,False,False,563,ME213,Mr.,Ramkumar S,ramkumar.s@rajalakshmi.edu.in,2270,RO19712,"Robotics and Automation Problem Solving using AI, ML and DL",L,0,6,0,3.0,Robotics & Automation
+1189,67,3,5,False,False,567,ME236,Mr.,P.Vimalanathan,vimalanathan.p@rajalakshmi.edu.in,1774,RO23523,Internship,L,0,2,0,1.0,Robotics & Automation
+1193,70,3,5,False,False,1826,AIML-NS5,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2148,AI23A35,Recommendation Systems,T,2,2,0,3.0,Artificial Intelligence & Machine Learning
+1194,70,2,3,False,False,1826,AIML-NS5,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2018,CS23333,Object Oriented Programming Using JAVA,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1195,70,3,5,False,False,1827,AIML-NS6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2103,AI23512,DataEngineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+1196,70,4,7,False,False,1827,AIML-NS6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2013,AI19702,Social and Ethical Issues in AI,T,1,0,0,1.0,Artificial Intelligence & Machine Learning
+1197,70,2,3,False,False,1827,AIML-NS6,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,1328,AI23331,Fundamentals of Machine Learning,LoT,3,2,0,4.0,Artificial Intelligence & Machine Learning
+1198,70,4,7,False,False,1828,AIML-NS7,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2013,AI19702,Social and Ethical Issues in AI,T,1,0,0,1.0,Artificial Intelligence & Machine Learning
+1199,70,1,1,False,False,1828,AIML-NS7,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2100,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1200,70,4,7,False,False,1829,AIML-NS8,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2013,AI19702,Social and Ethical Issues in AI,T,1,0,0,1.0,Artificial Intelligence & Machine Learning
+1201,70,1,1,False,False,1829,AIML-NS8,New Faculty,Artificial Intelligence & Machine Learning (PLACEHOLDER),placeholder.placeholder@university.edu,2100,GE23131,Programming using C,LoT,1,6,0,4.0,Artificial Intelligence & Machine Learning
+1202,70,3,5,False,False,40,IT178,Mrs.,Sowmia K R,sowmia.kr@rajalakshmi.edu.in,2103,AI23512,DataEngineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+1203,70,3,5,False,False,36,IT227,Mrs.,Sree Subha S,sreesubha.s@rajalakshmi.edu.in,2103,AI23512,DataEngineering,T,3,0,0,3.0,Artificial Intelligence & Machine Learning
+1204,70,2,3,False,False,444,MA143,Dr.,Santhiya S,santhiya.s@rajalakshmi.edu.in,1826,MA23311,Transforms and Applied Partial Differential Equations,T,3,0,1,4.0,Aeronautical Engineering
+1205,20,1,1,False,False,409,MA72,Mrs.,Ms. D. Rajalakshmy,rajalakshmy.d@rajalakshmi.edu.in,2140,MH23132,Applied Mathematics for Electronics  Engineers,LoT,3,2,0,4.0,Biomedical Engineering
+1206,70,2,3,False,False,431,MA112,Mr.,Rajkumar V,rajkumar.v@rajalakshmi.edu.in,1936,MA23331,Transforms and Statistics,LoT,3,2,0,4.0,Automobile Engineering
+1207,65,2,3,False,False,424,MA08,Mrs.,Dr.V.Lakshmi,lakshmi.v@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1208,65,2,3,False,False,441,MA134,Dr.,Ponmana Selvan Arumugam,pomanaselvan.a@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1209,65,2,3,False,False,432,MA136,Mr.,Sathiragavan M,sathiragavan.m@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1210,65,2,3,False,False,449,MA148,Dr.,Vinod Kumar R,vinodkumar.r@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1211,65,2,3,False,False,447,MA118,Mrs.,C.Shanthini,shanthini.c@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1212,70,2,3,False,False,485,MA144,Dr.,Ramalakshmi K,ramalakshmi.k.maths@rajalakshmi.edu.in,2201,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electronics & Communication Engineering
+1213,70,2,3,False,False,430,MA125,Mrs.,Dr. Priya Nair,priyanair@rajalakshmi.edu.in,1794,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electrical & Electronics Engineering
+1214,70,2,3,False,False,414,MA21,Mr.,V James,james.v@rajalakshmi.edu.in,1794,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Electrical & Electronics Engineering
+1215,70,2,3,False,False,443,MA150,Dr.,Chitra Rameshbabu,chitra.r@rajalakshmi.edu.in,2175,MA23311,Transforms and Applied Partial Differential Equations,T,3,0,1,4.0,Food Technology
+1216,65,2,3,False,False,485,MA144,Dr.,Ramalakshmi K,ramalakshmi.k.maths@rajalakshmi.edu.in,2252,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Information Technology
+1217,65,2,3,False,False,448,MA135,Mr.,Charles Sagayaraj A C,chalressagayaraj.ac@rajalakshmi.edu.in,2252,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Information Technology
+1218,64,2,3,False,False,418,MA87,Mr.,Venkatesan J,venkatesan.j@rajalakshmi.edu.in,2252,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Information Technology
+1219,65,2,3,False,False,426,MA111,Mr.,A. Azhagarasu,azhagarasu.a@rajalakshmi.edu.in,2252,MA23312,Fourier series and Number theory,T,3,0,1,4.0,Information Technology
+1220,70,2,3,False,False,465,MA137,Dr.,Vikram S T,vikram.st@rajalakshmi.edu.in,1785,MA23331,Transforms and Statistics,LoT,3,2,0,4.0,Mechanical Engineering
+1221,70,2,3,False,False,428,MA131,Mr.,Dr.V.Bharathi,bharathi.v@rajalakshmi.edu.in,1785,MA23331,Transforms and Statistics,LoT,3,2,0,4.0,Mechanical Engineering

@@ -1,0 +1,5659 @@
+[
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "AEROSPACE ENGINEERING (FOR NON - AERO GRADUATES)",
+    "course_code": "AV23111",
+    "required": 0,
+    "staff": [
+      "AE67"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "DIGITAL AVIONICS",
+    "course_code": "AV23113",
+    "required": 0,
+    "staff": [
+      "AE73"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "AVIONICS INTEGRATION LABORATORY",
+    "course_code": "AV23121",
+    "required": 3,
+    "staff": [
+      "AE75"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "Engineering Graphics",
+    "course_code": "GE23111",
+    "required": 0,
+    "staff": [
+      "AE72"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "Heritage Of Tamils",
+    "course_code": "GE23117",
+    "required": 0,
+    "staff": [
+      "AE73"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "Engineering Practices - Civil & Mechanical",
+    "course_code": "GE23121",
+    "required": 2,
+    "staff": [
+      "IT213"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 1,
+    "subject": "Environmental Science and Engineering",
+    "course_code": "MC23112",
+    "required": 0,
+    "staff": [
+      "AE79"
+    ],
+    "total_students": 50,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Computer Aided Modelling Laboratory",
+    "course_code": "AE23321",
+    "required": 4,
+    "staff": [
+      "AE72"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Solid Mechanics",
+    "course_code": "AE23331",
+    "required": 2,
+    "staff": [
+      "AE67"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Fluid Mechanics and Fluid Machinery",
+    "course_code": "AE23332",
+    "required": 2,
+    "staff": [
+      "AE76"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Aero Engineering Thermodynamics",
+    "course_code": "AE23333",
+    "required": 2,
+    "staff": [
+      "IT213"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Aircraft Structures - II",
+    "course_code": "AE23531",
+    "required": 2,
+    "staff": [
+      "AE60"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "NAVIGATION SYSTEMS",
+    "course_code": "AV23311",
+    "required": 0,
+    "staff": [
+      "AE75"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "INTRODUCTION TO ROBOTICS AND SENSORS",
+    "course_code": "AV23312",
+    "required": 0,
+    "staff": [
+      "ME227"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "PROJECT WORK (PHASE I)",
+    "course_code": "AV23321",
+    "required": 20,
+    "staff": [
+      "AE78"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "Transforms and Applied Partial Differential Equations",
+    "course_code": "MA23311",
+    "required": 0,
+    "staff": [
+      "MA143"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2,
+    "subject": "NPTEL",
+    "course_code": "NPTEL",
+    "required": 0,
+    "staff": [
+      "AE60"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Aircraft Propulsion",
+    "course_code": "AE23511",
+    "required": 0,
+    "staff": [],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Compressible Aerodynamics",
+    "course_code": "AE23512",
+    "required": 0,
+    "staff": [
+      "AE49"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Flight Dynamics",
+    "course_code": "AE23513",
+    "required": 0,
+    "staff": [
+      "AE78"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Computational Simulation Laboratory",
+    "course_code": "AE23521",
+    "required": 4,
+    "staff": [
+      "AE72"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Fundamentals of UAV Systems and Design",
+    "course_code": "AE23D11",
+    "required": 0,
+    "staff": [
+      "AE73"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 2,
+    "staff": [
+      "AE67"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 3,
+    "subject": "Nptel",
+    "course_code": "Nptel",
+    "required": 0,
+    "staff": [
+      "AE67"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Computational Fluid Dynamics",
+    "course_code": "AE19701",
+    "required": 0,
+    "staff": [
+      "AE79"
+    ],
+    "total_students": 50,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Project Work (Phase - I)",
+    "course_code": "AE19711",
+    "required": 4,
+    "staff": [
+      "AE49"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Structural And Flow Simulation Laboratory",
+    "course_code": "AE19712",
+    "required": 4,
+    "staff": [
+      "AE79"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Artificial Intelligence And Machine Learning For Aeronautical Engineering",
+    "course_code": "AE19713",
+    "required": 4,
+    "staff": [
+      "AE73"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Avionics",
+    "course_code": "AE19741",
+    "required": 2,
+    "staff": [
+      "AE75"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Experimental Aerodynamics",
+    "course_code": "AE19A11",
+    "required": 0,
+    "staff": [
+      "AE49"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Fatigue and Fracture",
+    "course_code": "AE19P72",
+    "required": 0,
+    "staff": [
+      "AE60"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 4,
+    "subject": "Combustion and Flames",
+    "course_code": "AE19P74",
+    "required": 0,
+    "staff": [
+      "AE78"
+    ],
+    "total_students": 51,
+    "groups": 2
+  },
+  {
+    "dept": "Aeronautical Engineering",
+    "year": 2025,
+    "subject": "FLIGHT INSTRUMENTATION",
+    "course_code": "AV23A11",
+    "required": 0,
+    "staff": [
+      "AE76"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 1,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 8,
+    "staff": [
+      "IT237",
+      "IT228",
+      "IT243",
+      "IT255"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 1,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 4,
+    "staff": [
+      "IT265"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 1,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 24,
+    "staff": [
+      "CS66",
+      "IT253",
+      "IT243",
+      "IT255"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 1,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 2,
+    "staff": [
+      "IT216"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 36,
+    "staff": [
+      "IT245",
+      "IT217",
+      "NF2",
+      "IT268",
+      "NF3",
+      "NF4"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2,
+    "subject": "Fundamentals of Machine Learning",
+    "course_code": "AI23331",
+    "required": 10,
+    "staff": [
+      "IT257",
+      "IT228",
+      "IT265",
+      "IT270",
+      "IT271"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 3,
+    "subject": "Basics of Computer Vision",
+    "course_code": "AD19751",
+    "required": 0,
+    "staff": [
+      "NF1"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 3,
+    "subject": "Big Data Architecture",
+    "course_code": "AD23531",
+    "required": 6,
+    "staff": [
+      "CS49",
+      "IT245",
+      "NF5"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 3,
+    "subject": "Principles of Data Science",
+    "course_code": "AD23532",
+    "required": 12,
+    "staff": [
+      "IT257",
+      "IT224",
+      "IT237"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 3,
+    "subject": "Deep Learning",
+    "course_code": "AI23531",
+    "required": 10,
+    "staff": [
+      "IT257",
+      "IT224",
+      "NF2",
+      "IT270",
+      "NF6"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 4,
+    "subject": "Project Phase-I",
+    "course_code": "AD19711",
+    "required": 6,
+    "staff": [
+      "CS49"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 4,
+    "subject": "Predictive Analytics",
+    "course_code": "AD19P72",
+    "required": 2,
+    "staff": [
+      "IT254"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 4,
+    "subject": "ETHICS OF ARTIFICIAL INTELLIGENCE",
+    "course_code": "AD19P74",
+    "required": 0,
+    "staff": [
+      "IT216"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "Big Data Technology",
+    "course_code": "AI19741",
+    "required": 2,
+    "staff": [
+      "IT217"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 2,
+    "staff": [
+      "IT269"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 16,
+    "staff": [
+      "IT268",
+      "NF1",
+      "NF6",
+      "NF7"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 6,
+    "staff": [
+      "CS66"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 4,
+    "staff": [
+      "IT269",
+      "NF8"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "INTERNET OF THINGS",
+    "course_code": "IT23A11",
+    "required": 0,
+    "staff": [
+      "IT256",
+      "NF7"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Data Science",
+    "year": 2025,
+    "subject": "SOFTWARE PROJECT MANAGEMENT",
+    "course_code": "IT23C12",
+    "required": 0,
+    "staff": [
+      "IT239"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 24,
+    "staff": [
+      "AIML-NS7",
+      "AIML-NS8"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 2,
+    "subject": "Fundamentals of Machine Learning",
+    "course_code": "AI23331",
+    "required": 8,
+    "staff": [
+      "AU35",
+      "IT242",
+      "IT252",
+      "AIML-NS6"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 2,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 8,
+    "staff": [
+      "IT264",
+      "IT225",
+      "AIML-NS1"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 2,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 16,
+    "staff": [
+      "IT232",
+      "IT215",
+      "CS266"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 2,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 24,
+    "staff": [
+      "IT227",
+      "IT178",
+      "AIML-NS5"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Framework for Data and Visual Analytics",
+    "course_code": "AD23532",
+    "required": 6,
+    "staff": [
+      "IT252",
+      "IT246",
+      "IT242"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "DataEngineering",
+    "course_code": "AI23512",
+    "required": 0,
+    "staff": [
+      "AIML-NS6",
+      "IT178",
+      "IT227"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Build and Deploy Machine Learning Applications",
+    "course_code": "AI23521",
+    "required": 6,
+    "staff": [
+      "CS266"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Deep Learning",
+    "course_code": "AI23531",
+    "required": 6,
+    "staff": [
+      "IT250",
+      "IT212",
+      "IT225"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Recommendation Systems",
+    "course_code": "AI23A35",
+    "required": 2,
+    "staff": [
+      "AIML-NS5"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Computer Vision and Applications",
+    "course_code": "AI23A37",
+    "required": 4,
+    "staff": [
+      "IT246",
+      "IT195"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 3,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 6,
+    "staff": [
+      "IT236",
+      "CS175",
+      "IT261"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Secure Systems Engineering",
+    "course_code": "AI19701",
+    "required": 0,
+    "staff": [
+      "IT236",
+      "IT215",
+      "IT261"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Social and Ethical Issues in AI",
+    "course_code": "AI19702",
+    "required": 0,
+    "staff": [
+      "AIML-NS6",
+      "AIML-NS7",
+      "AIML-NS8"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Project-I",
+    "course_code": "AI19711",
+    "required": 18,
+    "staff": [
+      "CS295",
+      "IT178",
+      "IT227"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Big Data Technology",
+    "course_code": "AI19741",
+    "required": 6,
+    "staff": [
+      "CS295",
+      "IT195",
+      "IT212"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Data Visualization using Python",
+    "course_code": "AI19P71",
+    "required": 6,
+    "staff": [
+      "CS09",
+      "CS175"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Information Retrieval",
+    "course_code": "AI19P75",
+    "required": 4,
+    "staff": [
+      "IT232",
+      "AU35"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 4,
+    "subject": "Supply Chain Analytics",
+    "course_code": "AI19P76",
+    "required": 0,
+    "staff": [
+      "IT250"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Artificial Intelligence & Machine Learning",
+    "year": 2025,
+    "subject": "Recommendation Systems",
+    "course_code": "AI23A35",
+    "required": 2,
+    "staff": [
+      "AIML-NS1"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 1,
+    "subject": "Production Technology - I",
+    "course_code": "AT23111",
+    "required": 0,
+    "staff": [
+      "AU49"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 1,
+    "subject": "Engineering Graphics",
+    "course_code": "GE23111",
+    "required": 0,
+    "staff": [
+      "ME232"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Computer Aided Machine Drawing Laboratory",
+    "course_code": "AT23321",
+    "required": 4,
+    "staff": [
+      "AU46"
+    ],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Automotive Engines",
+    "course_code": "AT23331",
+    "required": 2,
+    "staff": [],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Applied Thermodynamics",
+    "course_code": "AT23332",
+    "required": 2,
+    "staff": [
+      "ME232"
+    ],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Strength of Materials for Automobile Engineers",
+    "course_code": "AT23333",
+    "required": 2,
+    "staff": [
+      "AU50"
+    ],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Production Technology - II",
+    "course_code": "AT23334",
+    "required": 2,
+    "staff": [
+      "AU51"
+    ],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 2,
+    "subject": "Transforms and Statistics",
+    "course_code": "MA23331",
+    "required": 2,
+    "staff": [
+      "MA112"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Design of Machine Elements",
+    "course_code": "AT23511",
+    "required": 0,
+    "staff": [
+      "AU49"
+    ],
+    "total_students": 36,
+    "groups": 2
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Two and Three wheelers Laboratory",
+    "course_code": "AT23521",
+    "required": 2,
+    "staff": [
+      "AU20"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Computer Aided Vehicle Design Data Characteristics Laboratory",
+    "course_code": "AT23522",
+    "required": 2,
+    "staff": [
+      "AU46"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Automotive Electrical and Electronics",
+    "course_code": "AT23531",
+    "required": 2,
+    "staff": [
+      "AU46"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Electric and Hybrid Vehicles - II",
+    "course_code": "AT23532",
+    "required": 2,
+    "staff": [
+      "AU35"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Two and Three Wheelers",
+    "course_code": "AT23G12",
+    "required": 0,
+    "staff": [
+      "AU20"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 3,
+    "subject": "Fundamentals of Management for Engineers",
+    "course_code": "GE23311",
+    "required": 0,
+    "staff": [
+      "AU51"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Vehicle Mangement System",
+    "course_code": "AT19701",
+    "required": 0,
+    "staff": [
+      "AU20"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Intelligent Vehicle System",
+    "course_code": "AT19702",
+    "required": 0,
+    "staff": [
+      "AU46"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "AI and ML for Automobile  Engineers",
+    "course_code": "AT19711",
+    "required": 6,
+    "staff": [
+      "AU35"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Project Phase I",
+    "course_code": "AT19713",
+    "required": 4,
+    "staff": [
+      "AU20"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Vehicle Maintenance Laboratory",
+    "course_code": "AT19721",
+    "required": 2,
+    "staff": [
+      "AU11"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Computer Aided Analysis Laboratory",
+    "course_code": "AT19722",
+    "required": 2,
+    "staff": [
+      "AU49"
+    ],
+    "total_students": 22,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Comprehension",
+    "course_code": "AT19723",
+    "required": 2,
+    "staff": [
+      "AU11"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Automobile Engineering",
+    "year": 4,
+    "subject": "Automotive Safety",
+    "course_code": "AT19P73",
+    "required": 0,
+    "staff": [
+      "AU11"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Applied Mathematics for Electronics  Engineers",
+    "course_code": "MH23132",
+    "required": 2,
+    "staff": [
+      "MA72"
+    ],
+    "total_students": 20,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Anatomy & Physiology of Human Body",
+    "course_code": "MX23111",
+    "required": 0,
+    "staff": [
+      "BM60"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Research and Patenting Methodology  for Bioengineers",
+    "course_code": "MX23112",
+    "required": 0,
+    "staff": [
+      "BM23"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Advanced Biomedical Equipment",
+    "course_code": "MX23113",
+    "required": 0,
+    "staff": [
+      "BM70"
+    ],
+    "total_students": 9,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Biomedical Instrumentation Lab",
+    "course_code": "MX23121",
+    "required": 4,
+    "staff": [
+      "BM78"
+    ],
+    "total_students": 8,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Biosignal Acquisition and Processing",
+    "course_code": "MX23131",
+    "required": 2,
+    "staff": [
+      "BM28"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 1,
+    "subject": "Training in Healthcare Sector",
+    "course_code": "MX23322",
+    "required": 4,
+    "staff": [
+      "BM23"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Human Anatomy and Physiology",
+    "course_code": "BM23311",
+    "required": 0,
+    "staff": [
+      "BM83",
+      "BM60"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Biomedical Instrumentation",
+    "course_code": "BM23312",
+    "required": 0,
+    "staff": [
+      "BM70",
+      "BM83"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Biochemical Science",
+    "course_code": "BM23313",
+    "required": 0,
+    "staff": [
+      "BM22"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Biochemistry and Physiology Laboratory",
+    "course_code": "BM23321",
+    "required": 8,
+    "staff": [
+      "BM73",
+      "BM22"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Biomedical Instrumentation Laboratory",
+    "course_code": "BM23322",
+    "required": 8,
+    "staff": [
+      "BM70",
+      "BM83"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Electronic Devices & Circuits",
+    "course_code": "BM23331",
+    "required": 4,
+    "staff": [
+      "BM66",
+      "BM74"
+    ],
+    "total_students": 120,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2,
+    "subject": "Sensors and Measurements",
+    "course_code": "BM23332",
+    "required": 4,
+    "staff": [
+      "BM71",
+      "BM82"
+    ],
+    "total_students": 121,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Introduction to Internet of Things",
+    "course_code": "24NCS08",
+    "required": 0,
+    "staff": [
+      "BM72",
+      "BM82"
+    ],
+    "total_students": 112,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Biocontrol systems",
+    "course_code": "BM23511",
+    "required": 0,
+    "staff": [
+      "BM78",
+      "BM23"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Diagnostic and Therapeutic Equipment",
+    "course_code": "BM23512",
+    "required": 0,
+    "staff": [
+      "BM86",
+      "BM78"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Diagnostic and Therapeutic Equipment Laboratory",
+    "course_code": "BM23521",
+    "required": 8,
+    "staff": [
+      "BM60",
+      "BM86"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Signals and Systems Analysis",
+    "course_code": "BM23531",
+    "required": 4,
+    "staff": [
+      "BM79",
+      "BM28"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Microcontroller and Embedded System Design",
+    "course_code": "BM23532",
+    "required": 4,
+    "staff": [
+      "BM26",
+      "BM78"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Python Programming for Machine Learning",
+    "course_code": "CS23422",
+    "required": 8,
+    "staff": [
+      "BM78",
+      "BM86"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 4,
+    "staff": [
+      "BM66",
+      "BM26"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Research Methods in Health Promotion",
+    "course_code": "24NBM01",
+    "required": 0,
+    "staff": [
+      "BM73"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Hospital Engineering and Management",
+    "course_code": "BM19701",
+    "required": 0,
+    "staff": [
+      "BM81",
+      "BM59"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Project Phase-I",
+    "course_code": "BM19711",
+    "required": 12,
+    "staff": [
+      "BM61",
+      "BM59"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Hospital Training",
+    "course_code": "BM19712",
+    "required": 4,
+    "staff": [
+      "BM23",
+      "BM22"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "AI-ML-DL in Healthcare",
+    "course_code": "BM19713",
+    "required": 12,
+    "staff": [
+      "BM82",
+      "BM81"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Comprehension In Biomedical Engineering",
+    "course_code": "BM19721",
+    "required": 0,
+    "staff": [
+      "BM82",
+      "BM71"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Digital Image Processing Techniques",
+    "course_code": "BM19741",
+    "required": 4,
+    "staff": [
+      "BM61",
+      "BM35"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 4,
+    "subject": "Rehabilitation Engineering",
+    "course_code": "BM19P72",
+    "required": 0,
+    "staff": [
+      "BM72",
+      "BM66"
+    ],
+    "total_students": 119,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Research Methods in Health Promotion",
+    "course_code": "24NBM01",
+    "required": 0,
+    "staff": [
+      "BM83"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Biomaterials and Applications",
+    "course_code": "BM23B14",
+    "required": 0,
+    "staff": [
+      "BM73",
+      "BM72"
+    ],
+    "total_students": 114,
+    "groups": 4
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Pattern Recognition and Neural Networks",
+    "course_code": "BM23C11",
+    "required": 0,
+    "staff": [
+      "BM81"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Project Work \u2013 Phase I",
+    "course_code": "MX23321",
+    "required": 12,
+    "staff": [
+      "BM28"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Nanotechnology and Applications",
+    "course_code": "MX23A11",
+    "required": 0,
+    "staff": [
+      "BM84"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Ethics and Standards in Healthcare",
+    "course_code": "MX23D14",
+    "required": 0,
+    "staff": [
+      "BM61"
+    ],
+    "total_students": 8,
+    "groups": 1
+  },
+  {
+    "dept": "Biomedical Engineering",
+    "year": 2025,
+    "subject": "Medical Textiles",
+    "course_code": "MX23D31",
+    "required": 2,
+    "staff": [
+      "BM61"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 1,
+    "subject": "Microbiology",
+    "course_code": "BT23131",
+    "required": 28,
+    "staff": [
+      "BT109",
+      "BT30",
+      "BT119",
+      "BT NS-2"
+    ],
+    "total_students": 305,
+    "groups": 9
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 1,
+    "subject": "Gene Manipulation and DNA analysis",
+    "course_code": "BY23111",
+    "required": 0,
+    "staff": [
+      "BT177"
+    ],
+    "total_students": 24,
+    "groups": 1
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 1,
+    "subject": "Bionanotechnology",
+    "course_code": "BY23P14",
+    "required": 0,
+    "staff": [
+      "BT119"
+    ],
+    "total_students": 24,
+    "groups": 1
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 1,
+    "subject": "Engineering Graphics",
+    "course_code": "GE23111",
+    "required": 0,
+    "staff": [
+      "ME186",
+      "ME223"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 2,
+    "subject": "Stoichiometry and Fluid Mechanics",
+    "course_code": "BT23312",
+    "required": 0,
+    "staff": [
+      "BT179",
+      "BT169",
+      "BT170"
+    ],
+    "total_students": 200,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 2,
+    "subject": "Molecular Genetics",
+    "course_code": "BT23313",
+    "required": 0,
+    "staff": [
+      "BT180"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 2,
+    "subject": "Basic Food and Enzyme Technology Laboratory",
+    "course_code": "BT23321",
+    "required": 2,
+    "staff": [
+      "BT103"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 2,
+    "subject": "Analytical Techniques in Biotechnology",
+    "course_code": "BT23331",
+    "required": 6,
+    "staff": [
+      "BT179",
+      "BT182",
+      "BT173"
+    ],
+    "total_students": 200,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 3,
+    "subject": "Bioprocess Principles",
+    "course_code": "BT23511",
+    "required": 0,
+    "staff": [
+      "BT85",
+      "BT122",
+      "BT NS-3"
+    ],
+    "total_students": 200,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 3,
+    "subject": "Bioinformatics",
+    "course_code": "BT23512",
+    "required": 0,
+    "staff": [
+      "BT156",
+      "BT118"
+    ],
+    "total_students": 190,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 3,
+    "subject": "Separation Process Principles",
+    "course_code": "BT23513",
+    "required": 0,
+    "staff": [
+      "BT169",
+      "BT171",
+      "BT NS-1"
+    ],
+    "total_students": 200,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 3,
+    "subject": "Bioprocess Laboratory- I",
+    "course_code": "BT23521",
+    "required": 24,
+    "staff": [
+      "BT85",
+      "BT107",
+      "BT122"
+    ],
+    "total_students": 190,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "DOWNSTREAM PROCESSING",
+    "course_code": "BT19701",
+    "required": 0,
+    "staff": [
+      "BT124",
+      "BT171",
+      "BT NS-1"
+    ],
+    "total_students": 200,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "Bioinformatics",
+    "course_code": "BT19702",
+    "required": 0,
+    "staff": [
+      "BT168",
+      "BT182",
+      "BT NS-5"
+    ],
+    "total_students": 180,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "PROTEIN ENGINEERING TECHNIQUES",
+    "course_code": "BT19705",
+    "required": 0,
+    "staff": [
+      "BT123"
+    ],
+    "total_students": 120,
+    "groups": 4
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "Downstream processing lab",
+    "course_code": "BT19711",
+    "required": 18,
+    "staff": [
+      "BT171",
+      "BT124",
+      "BT169",
+      "BT NS-1"
+    ],
+    "total_students": 195,
+    "groups": 6
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "Comprehensive Course for Biotechnologists",
+    "course_code": "BT19P71",
+    "required": 0,
+    "staff": [
+      "BT181"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "Cancer Biology",
+    "course_code": "BT19P74",
+    "required": 0,
+    "staff": [
+      "BT01",
+      "BT114"
+    ],
+    "total_students": 126,
+    "groups": 4
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 4,
+    "subject": "Animal Biotechnology",
+    "course_code": "BT19P76",
+    "required": 0,
+    "staff": [
+      "BT103",
+      "BT107"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Biotechnology",
+    "year": 2025,
+    "subject": "Basic Food and Enzyme Technology Laboratory",
+    "course_code": "BT23321",
+    "required": 4,
+    "staff": [
+      "BT170",
+      "BT NS-3"
+    ],
+    "total_students": 120,
+    "groups": 4
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 2,
+    "subject": "Solid Mechanics",
+    "course_code": "CH23311",
+    "required": 0,
+    "staff": [
+      "CL02"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 2,
+    "subject": "Chemical Process Calculations",
+    "course_code": "CH23312",
+    "required": 0,
+    "staff": [
+      "BT115"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 2,
+    "subject": "Chemical Process Industries",
+    "course_code": "CH23313",
+    "required": 0,
+    "staff": [
+      "CL03"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 2,
+    "subject": "Fluid Mechanics for Chemical Engineers",
+    "course_code": "CH23331",
+    "required": 4,
+    "staff": [
+      "CL18",
+      "CL03"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 2,
+    "subject": "Thermodynamics",
+    "course_code": "CH23411",
+    "required": 0,
+    "staff": [
+      "CL12"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 3,
+    "subject": "Process Plant Utilities",
+    "course_code": "CH23511",
+    "required": 0,
+    "staff": [
+      "CL02"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 3,
+    "subject": "Mass Transfer I",
+    "course_code": "CH23513",
+    "required": 0,
+    "staff": [
+      "CL11"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 3,
+    "subject": "Chemical Reaction Engineering I",
+    "course_code": "CH23514",
+    "required": 0,
+    "staff": [
+      "CL05"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 3,
+    "subject": "Heat Transfer Lab",
+    "course_code": "CH23521",
+    "required": 4,
+    "staff": [
+      "CL11"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 3,
+    "subject": "Petroleum chemistry and Refining Fundamemtals",
+    "course_code": "CH23A11",
+    "required": 0,
+    "staff": [
+      "CL15"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Transport Phenomena",
+    "course_code": "CH19701",
+    "required": 0,
+    "staff": [
+      "CL15"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Comprehensive Chemical  Engineering",
+    "course_code": "CH19702",
+    "required": 0,
+    "staff": [
+      "CL12"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Chemical Reaction Engineering  lab",
+    "course_code": "CH19711",
+    "required": 3,
+    "staff": [
+      "CL05"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Computer Applications In  Chemical Engineering Lab",
+    "course_code": "CH19713",
+    "required": 3,
+    "staff": [
+      "CL16"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Environmental Technology",
+    "course_code": "CH19P71",
+    "required": 0,
+    "staff": [
+      "CL14"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Chemical Reaction Engineering lab",
+    "course_code": "CH23721",
+    "required": 4,
+    "staff": [
+      "CL05"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Chemical Engineering",
+    "year": 4,
+    "subject": "Process Control Lab",
+    "course_code": "CH23722",
+    "required": 4,
+    "staff": [
+      "CL15"
+    ],
+    "total_students": 58,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 1,
+    "subject": "Building Materials",
+    "course_code": "CE23111",
+    "required": 0,
+    "staff": [
+      "CV70"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 1,
+    "subject": "Engineering Drawing for Civil Engineers",
+    "course_code": "CE23112",
+    "required": 8,
+    "staff": [
+      "CV19",
+      "CV65"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 1,
+    "subject": "Engineering Practices \u2013 Civil and Mechanical",
+    "course_code": "GE23121",
+    "required": 4,
+    "staff": [
+      "CV19",
+      "CV72"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Strength of Materials I",
+    "course_code": "CE23311",
+    "required": 0,
+    "staff": [
+      "CV29"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Fluid Mechanics",
+    "course_code": "CE23312",
+    "required": 0,
+    "staff": [
+      "CV39"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Construction Techniques, Equipment and Practice",
+    "course_code": "CE23313",
+    "required": 0,
+    "staff": [
+      "CV67"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Construction Materials Laboratory",
+    "course_code": "CE23321",
+    "required": 8,
+    "staff": [
+      "CV39"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Surveying",
+    "course_code": "CE23331",
+    "required": 2,
+    "staff": [
+      "CV70"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Python Programming for Machine Learning",
+    "course_code": "CS23422",
+    "required": 8,
+    "staff": [
+      "CV72",
+      "CV65"
+    ],
+    "total_students": 59,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 2,
+    "subject": "Fundamentals of Management for Engineers",
+    "course_code": "GE23311",
+    "required": 0,
+    "staff": [
+      "CV19"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "Design of Reinforced Concrete Elements",
+    "course_code": "CE23511",
+    "required": 0,
+    "staff": [
+      "CV30"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "Foundation Engineering",
+    "course_code": "CE23512",
+    "required": 0,
+    "staff": [
+      "CV29"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "Waste Water Engineering",
+    "course_code": "CE23513",
+    "required": 0,
+    "staff": [
+      "CV27"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "Water and Waste Water Analysis Laboratory",
+    "course_code": "CE23521",
+    "required": 8,
+    "staff": [
+      "CV67"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "Structural Analysis",
+    "course_code": "CE23531",
+    "required": 4,
+    "staff": [
+      "CV19",
+      "CV65"
+    ],
+    "total_students": 65,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "ADVANCED CONSTRUCTION TECHNIQUES",
+    "course_code": "CE23C11",
+    "required": 0,
+    "staff": [
+      "CV083"
+    ],
+    "total_students": 32,
+    "groups": 1
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 3,
+    "subject": "URBAN PLANNING AND DEVELOPMENT",
+    "course_code": "CE23F14",
+    "required": 0,
+    "staff": [
+      "CV61"
+    ],
+    "total_students": 33,
+    "groups": 1
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "ESTIMATION AND QUANTITY SURVEYING",
+    "course_code": "CE19701",
+    "required": 0,
+    "staff": [
+      "CV083"
+    ],
+    "total_students": 45,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "WATER RESOURCES AND IRRIGATION ENGINEERING",
+    "course_code": "CE19702",
+    "required": 0,
+    "staff": [
+      "CV61"
+    ],
+    "total_students": 45,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "COMPUTER AIDED DESIGN AND DRAFTING LABORATORY",
+    "course_code": "CE19711",
+    "required": 4,
+    "staff": [
+      "CV083"
+    ],
+    "total_students": 45,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "CREATIVE AND INNOVATIVE PROJECT",
+    "course_code": "CE19712",
+    "required": 6,
+    "staff": [
+      "CV29"
+    ],
+    "total_students": 22,
+    "groups": 1
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "COMPREHENSION IN CIVIL ENGINEERING",
+    "course_code": "CE19713",
+    "required": 2,
+    "staff": [
+      "CV67"
+    ],
+    "total_students": 45,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "PROBLEM SOLVING USING MACHINE LEARNING IN CIVIL ENGINEERING",
+    "course_code": "CE19714",
+    "required": 4,
+    "staff": [
+      "CV61"
+    ],
+    "total_students": 45,
+    "groups": 2
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "PRESTRESSED CONCRETE STRUCTURES",
+    "course_code": "CE19P71",
+    "required": 0,
+    "staff": [
+      "CV81"
+    ],
+    "total_students": 21,
+    "groups": 1
+  },
+  {
+    "dept": "Civil Engineering",
+    "year": 4,
+    "subject": "GLOBAL CLIMATIC CHANGE",
+    "course_code": "CE19P75",
+    "required": 0,
+    "staff": [
+      "CV72"
+    ],
+    "total_students": 24,
+    "groups": 1
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 1,
+    "subject": "Fundamentals of Computer Science",
+    "course_code": "CB23131",
+    "required": 8,
+    "staff": [
+      "CS299",
+      "NF-1"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 1,
+    "subject": "Principles of Electrical Engineering",
+    "course_code": "EE23131",
+    "required": 4,
+    "staff": [
+      "EE108",
+      "EE60"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2,
+    "subject": "Formal Language and Automata Theory",
+    "course_code": "CB23311",
+    "required": 0,
+    "staff": [
+      "CS287",
+      "NF-4"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2,
+    "subject": "Computer Organization and Architecture",
+    "course_code": "CB23312",
+    "required": 0,
+    "staff": [
+      "CS299",
+      "NF-2"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2,
+    "subject": "Software Engineering",
+    "course_code": "CB23332",
+    "required": 4,
+    "staff": [
+      "CS195",
+      "CS316"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2,
+    "subject": "Database Technology",
+    "course_code": "CB23333",
+    "required": 4,
+    "staff": [
+      "IT172",
+      "CS327"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 12,
+    "staff": [
+      "NF-5",
+      "NF-6"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 3,
+    "subject": "Design Thinking for Innovation in Computer Science and Business Systems",
+    "course_code": "CB23521",
+    "required": 4,
+    "staff": [
+      "CS323"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 3,
+    "subject": "Computer Network Technology",
+    "course_code": "CB23531",
+    "required": 4,
+    "staff": [
+      "CS287",
+      "CS250"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 3,
+    "subject": "Artificial Intelligence",
+    "course_code": "CB23532",
+    "required": 4,
+    "staff": [
+      "NF-1",
+      "NF-2"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 3,
+    "subject": "Data Mining and Analytics",
+    "course_code": "CB23D31",
+    "required": 2,
+    "staff": [
+      "CS270"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 4,
+    "subject": "Project Evaluation I",
+    "course_code": "CB19711",
+    "required": 4,
+    "staff": [
+      "CS316",
+      "IT116"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 4,
+    "subject": "Usability Design of Software  Applications",
+    "course_code": "CB19741",
+    "required": 4,
+    "staff": [
+      "IT172",
+      "CS327"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 4,
+    "subject": "IT Workshop",
+    "course_code": "CB19742",
+    "required": 4,
+    "staff": [
+      "IT116",
+      "NF-4"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 4,
+    "subject": "Modern Web Applications",
+    "course_code": "CB19P45",
+    "required": 4,
+    "staff": [
+      "CS270",
+      "NF-3"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Business Systems",
+    "year": 2025,
+    "subject": "Data Mining and Analytics",
+    "course_code": "CB23D31",
+    "required": 2,
+    "staff": [
+      "CS250"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 1,
+    "subject": "Design Drawing and Sketching",
+    "course_code": "CD23111",
+    "required": 0,
+    "staff": [
+      "CS331"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 6,
+    "staff": [
+      "CS11"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 2,
+    "subject": "Python Programming for Design",
+    "course_code": "CD23321",
+    "required": 6,
+    "staff": [
+      "CS176"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 2,
+    "subject": "Design Processes and Perspectives",
+    "course_code": "CD23331",
+    "required": 2,
+    "staff": [
+      "CS331"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 2,
+    "subject": "UI and UX design",
+    "course_code": "CD23332",
+    "required": 4,
+    "staff": [
+      "CSD001"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 2,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 2,
+    "staff": [
+      "CS11"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 2,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 4,
+    "staff": [
+      "CS296"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 3,
+    "subject": "3D Modelling and Texturing",
+    "course_code": "CD23531",
+    "required": 2,
+    "staff": [
+      "CS289"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 3,
+    "subject": "Operating Systems",
+    "course_code": "CS23431",
+    "required": 4,
+    "staff": [
+      "CS307"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 3,
+    "subject": "Web Programming",
+    "course_code": "CS23531",
+    "required": 6,
+    "staff": [
+      "CS306"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 3,
+    "subject": "Design Thinking and Innovation",
+    "course_code": "GE23627",
+    "required": 4,
+    "staff": [
+      "CS296"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 3,
+    "subject": "Graphics and Multimedia",
+    "course_code": "IT23E31",
+    "required": 2,
+    "staff": [
+      "CS176"
+    ],
+    "total_students": 64,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 4,
+    "subject": "Fundamentals of Video for Engineers",
+    "course_code": "CD19701",
+    "required": 0,
+    "staff": [
+      "CSD001"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 4,
+    "subject": "Project-I",
+    "course_code": "CD19711",
+    "required": 6,
+    "staff": [
+      "CS331"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 4,
+    "subject": "Introduction to 3D Animation",
+    "course_code": "CD19721",
+    "required": 0,
+    "staff": [
+      "CS289"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 4,
+    "subject": "Digital Media Entrepreneurship",
+    "course_code": "CD19P11",
+    "required": 2,
+    "staff": [
+      "CS306"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Design",
+    "year": 4,
+    "subject": "Foundations of Machine Learning Concepts",
+    "course_code": "CD19P15",
+    "required": 2,
+    "staff": [
+      "CS307"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 60,
+    "staff": [
+      "CS326",
+      "New Staff-16",
+      "New Staff-17",
+      "New Satff-18",
+      "New Staff-19",
+      "New Staff-20",
+      "New Staff-21",
+      "New Staff-22",
+      "New Staff-23",
+      "CS239"
+    ],
+    "total_students": 700,
+    "groups": 20
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2,
+    "subject": "Computer Architecture",
+    "course_code": "CS23311",
+    "required": 0,
+    "staff": [
+      "CS218",
+      "IT191",
+      "CS314",
+      "CS313",
+      "New Staff-1",
+      "New Staff-2"
+    ],
+    "total_students": 630,
+    "groups": 18
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 24,
+    "staff": [
+      "CS251",
+      "CS282",
+      "CS226",
+      "New Staff-3",
+      "New Staff-4",
+      "New Staff-5",
+      "New Staff-6"
+    ],
+    "total_students": 840,
+    "groups": 24
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 28,
+    "staff": [
+      "IT191",
+      "CS291",
+      "CS182",
+      "CS321",
+      "New Staff-7",
+      "New Staff-8",
+      "New Staff-9"
+    ],
+    "total_students": 490,
+    "groups": 14
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 48,
+    "staff": [
+      "CS281",
+      "CS171",
+      "CS314",
+      "CS221",
+      "CS178",
+      "CS298",
+      "CS322",
+      "New Staff-10"
+    ],
+    "total_students": 560,
+    "groups": 16
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2,
+    "subject": "Fundamentals of Data Science",
+    "course_code": "CS23334",
+    "required": 20,
+    "staff": [
+      "CS301",
+      "CS284",
+      "CS253",
+      "CS313",
+      "CS308",
+      "CS333",
+      "New Staff-9",
+      "New Staff-11"
+    ],
+    "total_students": 700,
+    "groups": 20
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 3,
+    "subject": "Theory of Computation",
+    "course_code": "CS23511",
+    "required": 0,
+    "staff": [
+      "CS255",
+      "CS272",
+      "IT210"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 3,
+    "subject": "Fundamentals of Mobile Computing",
+    "course_code": "CS23512",
+    "required": 0,
+    "staff": [
+      "CS305",
+      "CS319",
+      "CS251",
+      "CS171",
+      "CS322",
+      "New Staff-12"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 3,
+    "subject": "Web Programming",
+    "course_code": "CS23531",
+    "required": 36,
+    "staff": [
+      "CS208",
+      "CS320",
+      "CS182",
+      "CS238",
+      "CS334"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 3,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 12,
+    "staff": [
+      "CS256",
+      "CS253",
+      "CS319",
+      "IT194",
+      "CS308"
+    ],
+    "total_students": 415,
+    "groups": 12
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 3,
+    "subject": "Foundations of Artificial Intelligence",
+    "course_code": "CS23533",
+    "required": 12,
+    "staff": [
+      "IT03",
+      "CS69",
+      "CS203",
+      "CS298"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "Project-1",
+    "course_code": "CS19711",
+    "required": 12,
+    "staff": [
+      "CS208",
+      "CS321"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "Cloud Computing",
+    "course_code": "CS19741",
+    "required": 8,
+    "staff": [
+      "CS279",
+      "New Staff-12",
+      "New Staff-13"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "INFORMATION SECURITY AND MANAGEMENT",
+    "course_code": "CS19P14",
+    "required": 4,
+    "staff": [
+      "CS221",
+      "New Staff-14"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "DEEP LEARNING CONCEPTS",
+    "course_code": "CS19P18",
+    "required": 10,
+    "staff": [
+      "CS281",
+      "CS321",
+      "CS238",
+      "CS279",
+      "CS333"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "Advanced Robotic Process Automation",
+    "course_code": "CS19P21",
+    "required": 12,
+    "staff": [
+      "CS208",
+      "CS77"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 4,
+    "subject": "Advanced Application Development with Oracle APEX",
+    "course_code": "CS19P23",
+    "required": 6,
+    "staff": [
+      "CS77"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2025,
+    "subject": "Project-1",
+    "course_code": "CS19711",
+    "required": 18,
+    "staff": [
+      "CS253",
+      "CS255",
+      "CS279"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Computer Science & Engineering",
+    "year": 2025,
+    "subject": "Cloud Computing",
+    "course_code": "CS19741",
+    "required": 2,
+    "staff": [
+      "CS226"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 1,
+    "subject": "Basic Electrical and Electronics Engineering",
+    "course_code": "EE23133",
+    "required": 64,
+    "staff": [
+      "EE128",
+      "NF3",
+      "EE57",
+      "EE129",
+      "EE136",
+      "NF1",
+      "EE108",
+      "EE23",
+      "EE138",
+      "EE134",
+      "EE135",
+      "EE125",
+      "EE139",
+      "EE52",
+      "EE59",
+      "EE90",
+      "EE102",
+      "EE130",
+      "EE132",
+      "EE82",
+      "NF2",
+      "EE78"
+    ],
+    "total_students": 2240,
+    "groups": 64
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 6,
+    "staff": [
+      "NS1"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 2,
+    "subject": "Cryptography",
+    "course_code": "CR23331",
+    "required": 4,
+    "staff": [
+      "CS315",
+      "CS40"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 2,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 8,
+    "staff": [
+      "NS2",
+      "NS4"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 3,
+    "subject": "Ethical Hacking",
+    "course_code": "CR23531",
+    "required": 2,
+    "staff": [
+      "CS315"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 3,
+    "subject": "Cyber and Digital Forensics",
+    "course_code": "CR23532",
+    "required": 2,
+    "staff": [
+      "NS4"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 3,
+    "subject": "Web Programming",
+    "course_code": "CS23531",
+    "required": 6,
+    "staff": [
+      "CS324"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 3,
+    "subject": "Foundations of Artificial Intelligence",
+    "course_code": "CS23533",
+    "required": 2,
+    "staff": [
+      "NS3"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 2,
+    "staff": [
+      "NS2"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 2025,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 12,
+    "staff": [
+      "NS5",
+      "NS3"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 2025,
+    "subject": "Software Construction",
+    "course_code": "CS23432",
+    "required": 2,
+    "staff": [
+      "IT258"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Computer Science & Engineering (Cyber Security)",
+    "year": 2025,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 4,
+    "staff": [
+      "CS40",
+      "IT258"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 1,
+    "subject": "Design of Embedded Systems",
+    "course_code": "ET23111",
+    "required": 0,
+    "staff": [
+      "EE48"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 1,
+    "subject": "Software for Embedded Systems",
+    "course_code": "ET23112",
+    "required": 0,
+    "staff": [
+      "EE96"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 1,
+    "subject": "Design of Microcontroller Based Systems",
+    "course_code": "ET23113",
+    "required": 0,
+    "staff": [
+      "EE11"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 1,
+    "subject": "Real Time Operating Systems",
+    "course_code": "ET23114",
+    "required": 0,
+    "staff": [
+      "EE112"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 1,
+    "subject": "Embedded System Laboratory I",
+    "course_code": "ET23121",
+    "required": 4,
+    "staff": [
+      "EE96"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Introduction to Python Programming",
+    "course_code": "CS23336",
+    "required": 8,
+    "staff": [
+      "EE60",
+      "EE135"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Electromagnetic Theory",
+    "course_code": "EE23311",
+    "required": 0,
+    "staff": [
+      "EE03",
+      "EE78"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Electrical Machines \u2013 I",
+    "course_code": "EE23312",
+    "required": 0,
+    "staff": [
+      "EE56",
+      "EE52"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Measurements and Instrumentation",
+    "course_code": "EE23313",
+    "required": 0,
+    "staff": [
+      "EE102",
+      "EE138"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Electronic Devices and Circuits",
+    "course_code": "EE23314",
+    "required": 0,
+    "staff": [
+      "EE10",
+      "EE133"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Power Plant Engineering",
+    "course_code": "EE23315",
+    "required": 0,
+    "staff": [
+      "EE40",
+      "EE54"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Electronic Devices and Circuits Laboratory",
+    "course_code": "EE23321",
+    "required": 8,
+    "staff": [
+      "EE10",
+      "EE52",
+      "EE133",
+      "EE78"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Introduction to Machine Learning",
+    "course_code": "ET23311",
+    "required": 0,
+    "staff": [
+      "EE03"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "IOT for Embedded Applications Laboratory",
+    "course_code": "ET23322",
+    "required": 4,
+    "staff": [
+      "EE99"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Embedded System Development",
+    "course_code": "ET23D11",
+    "required": 0,
+    "staff": [
+      "EE05"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 2,
+    "subject": "Fourier series and Number theory",
+    "course_code": "MA23312",
+    "required": 0,
+    "staff": [
+      "MA125",
+      "MA21"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Power System Analysis",
+    "course_code": "EE23511",
+    "required": 0,
+    "staff": [
+      "EE77",
+      "EE139"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Power Electronics",
+    "course_code": "EE23512",
+    "required": 0,
+    "staff": [
+      "EE126",
+      "EE125"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Control Systems",
+    "course_code": "EE23513",
+    "required": 0,
+    "staff": [
+      "EE05",
+      "EE43"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Control and Instrumentation Laboratory",
+    "course_code": "EE23521",
+    "required": 8,
+    "staff": [
+      "EE48",
+      "EE138",
+      "EE102"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Microprocessors, Microcontrollers and Applications",
+    "course_code": "EE23531",
+    "required": 4,
+    "staff": [
+      "EE99",
+      "EE96"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Wiring Harness Design Engineering",
+    "course_code": "EE23B21",
+    "required": 18,
+    "staff": [
+      "EE59",
+      "EE23",
+      "EE90"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 4,
+    "staff": [
+      "EE139",
+      "EE128"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 3,
+    "subject": "Design Thinking and Innovation",
+    "course_code": "GE23627",
+    "required": 16,
+    "staff": [
+      "EE40",
+      "EE134",
+      "EE82",
+      "EE23"
+    ],
+    "total_students": 137,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 4,
+    "subject": "Hybrid Electric Vehicles",
+    "course_code": "EE19701",
+    "required": 0,
+    "staff": [
+      "EE54",
+      "EE48"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 4,
+    "subject": "Renewable Energy Systems",
+    "course_code": "EE19741",
+    "required": 6,
+    "staff": [
+      "EE121",
+      "EE43"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 4,
+    "subject": "Power System Operation and Control",
+    "course_code": "EE19742",
+    "required": 4,
+    "staff": [
+      "EE77",
+      "EE11"
+    ],
+    "total_students": 128,
+    "groups": 4
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 4,
+    "subject": "Fundamentals of Embedded Systems",
+    "course_code": "EE19P72",
+    "required": 0,
+    "staff": [
+      "EE99",
+      "EE112"
+    ],
+    "total_students": 78,
+    "groups": 3
+  },
+  {
+    "dept": "Electrical & Electronics Engineering",
+    "year": 4,
+    "subject": "High Voltage Engineering",
+    "course_code": "EE19P73",
+    "required": 0,
+    "staff": [
+      "EE40"
+    ],
+    "total_students": 50,
+    "groups": 2
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 1,
+    "subject": "Electron Devices",
+    "course_code": "EC23131",
+    "required": 18,
+    "staff": [
+      "EC31",
+      "EC147",
+      "EC201",
+      "EC206",
+      "EC207",
+      "EC210",
+      "EC212",
+      "EC171",
+      "EC209"
+    ],
+    "total_students": 630,
+    "groups": 18
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 1,
+    "subject": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bae\u0bb0\u0baa\u0bc1 /Heritage of Tamils",
+    "course_code": "GE23117",
+    "required": 0,
+    "staff": [
+      "EC194",
+      "EC198",
+      "EC217"
+    ],
+    "total_students": 340,
+    "groups": 10
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Introduction to Python Programming",
+    "course_code": "CS23336",
+    "required": 24,
+    "staff": [
+      "EC143",
+      "EC186",
+      "EC162",
+      "EC179",
+      "EC185",
+      "EC197"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Analog Circuits \u2013I",
+    "course_code": "EC23311",
+    "required": 0,
+    "staff": [
+      "EC207",
+      "EE98",
+      "EC163",
+      "EC67",
+      "EC209",
+      "EC223"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Electromagnetic Fields",
+    "course_code": "EC23312",
+    "required": 0,
+    "staff": [
+      "EC160",
+      "EC114",
+      "EC200",
+      "EC149",
+      "EC201",
+      "EC217"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Digital Principles and System Design",
+    "course_code": "EC23313",
+    "required": 0,
+    "staff": [
+      "EC211",
+      "EC215",
+      "EC214",
+      "EC149",
+      "EC167",
+      "EC177"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Analog and Digital Circuits Laboratory",
+    "course_code": "EC23321",
+    "required": 20,
+    "staff": [
+      "EC149",
+      "EC163",
+      "EC167",
+      "EC177",
+      "EC207"
+    ],
+    "total_students": 415,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Microprocessors and Microcontrollers",
+    "course_code": "EC23331",
+    "required": 12,
+    "staff": [
+      "EC205",
+      "EC204",
+      "EC186",
+      "EC211",
+      "EC135",
+      "EC160"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Digital Logic and Computer Architecture",
+    "course_code": "IT23231",
+    "required": 2,
+    "staff": [
+      "EC194"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2,
+    "subject": "Fourier series and Number theory",
+    "course_code": "MA23312",
+    "required": 0,
+    "staff": [
+      "MA08",
+      "MA134",
+      "MA136",
+      "MA148",
+      "MA118",
+      "MA144"
+    ],
+    "total_students": 395,
+    "groups": 12
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Control System Engineering",
+    "course_code": "EC23511",
+    "required": 0,
+    "staff": [
+      "EC04",
+      "EC134",
+      "EC130",
+      "EC215"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Modern Digital Communication",
+    "course_code": "EC23512",
+    "required": 0,
+    "staff": [
+      "EC101",
+      "EC47",
+      "EC192",
+      "EC171"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Communication Systems Laboratory",
+    "course_code": "EC23521",
+    "required": 16,
+    "staff": [
+      "EC197",
+      "EC185",
+      "EC149",
+      "EC162"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Industrial Internship",
+    "course_code": "EC23522",
+    "required": 8,
+    "staff": [
+      "EC210",
+      "EC163",
+      "EC217",
+      "EC207"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Digital Signal Processing",
+    "course_code": "EC23531",
+    "required": 8,
+    "staff": [
+      "EC143",
+      "EC134",
+      "EC167",
+      "EC192"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Medical electronics",
+    "course_code": "EC23A11",
+    "required": 0,
+    "staff": [
+      "EC185",
+      "EC04"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Information theory and coding",
+    "course_code": "EC23B11",
+    "required": 0,
+    "staff": [
+      "EC34",
+      "EC101",
+      "EC204",
+      "EC197"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Introduction to MEMS",
+    "course_code": "EC23E11",
+    "required": 0,
+    "staff": [
+      "EC67",
+      "EC216"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 8,
+    "staff": [
+      "EC179",
+      "EC143",
+      "EC160",
+      "EC172"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "RF and Microwave Engineering",
+    "course_code": "EC19701",
+    "required": 0,
+    "staff": [
+      "EC121",
+      "EC175",
+      "EC212",
+      "EC114"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Embedded Systems",
+    "course_code": "EC19703",
+    "required": 0,
+    "staff": [
+      "EC130",
+      "EC210",
+      "EC135",
+      "EC175"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Embedded Laboratory",
+    "course_code": "EC19711",
+    "required": 12,
+    "staff": [
+      "EC190",
+      "EC135",
+      "EC210"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Advanced Communication Systems Laboratory",
+    "course_code": "EC19712",
+    "required": 12,
+    "staff": [
+      "EC121",
+      "EC175",
+      "EC212"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Wireless Networks",
+    "course_code": "EC19P74",
+    "required": 0,
+    "staff": [
+      "EC173",
+      "EC47"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Multimedia Compression and Networking",
+    "course_code": "EC19P76",
+    "required": 0,
+    "staff": [
+      "EC34",
+      "EC162"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 4,
+    "subject": "Optical Communication and Networks",
+    "course_code": "EC23731",
+    "required": 8,
+    "staff": [
+      "EC190",
+      "EC179",
+      "EC172",
+      "EC198"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2025,
+    "subject": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bae\u0bb0\u0baa\u0bc1 /Heritage of Tamils",
+    "course_code": "GE23117",
+    "required": 0,
+    "staff": [
+      "EC216"
+    ],
+    "total_students": 135,
+    "groups": 4
+  },
+  {
+    "dept": "Electronics & Communication Engineering",
+    "year": 2025,
+    "subject": "Digital Logic and Computer Architecture",
+    "course_code": "IT23231",
+    "required": 4,
+    "staff": [
+      "EC172",
+      "EC214"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Food Microbiology",
+    "course_code": "FT23301",
+    "required": 0,
+    "staff": [
+      "FT23"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Biochemistry and Nutrition",
+    "course_code": "FT23302",
+    "required": 0,
+    "staff": [
+      "FT08"
+    ],
+    "total_students": 132,
+    "groups": 4
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Thermodynamics for Food Technologists",
+    "course_code": "FT23303",
+    "required": 0,
+    "staff": [
+      "ME210"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Food Process Calculations",
+    "course_code": "FT23304",
+    "required": 0,
+    "staff": [
+      "FT16"
+    ],
+    "total_students": 62,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Food Additives",
+    "course_code": "FT23305",
+    "required": 0,
+    "staff": [
+      "FT10"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Food Microbiology Laboratory",
+    "course_code": "FT23311",
+    "required": 4,
+    "staff": [
+      "FT23"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Biochemistry and Nutrition Laboratory",
+    "course_code": "FT23312",
+    "required": 4,
+    "staff": [
+      "FT08"
+    ],
+    "total_students": 62,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 2,
+    "subject": "Transforms and Applied Partial Differential Equations",
+    "course_code": "MA23311",
+    "required": 0,
+    "staff": [
+      "MA150"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Food Analysis",
+    "course_code": "FT23501",
+    "required": 0,
+    "staff": [
+      "FT26"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Food Process Engineering",
+    "course_code": "FT23502",
+    "required": 0,
+    "staff": [
+      "FT25"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Heat and Mass Transfer in Food Processing",
+    "course_code": "FT23503",
+    "required": 0,
+    "staff": [
+      "FT16"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Food Analysis Laboratory",
+    "course_code": "FT23511",
+    "required": 4,
+    "staff": [
+      "FT10"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Food Processing and Preservation Laboratory - II",
+    "course_code": "FT23512",
+    "required": 8,
+    "staff": [
+      "FT09",
+      "FT25"
+    ],
+    "total_students": 122,
+    "groups": 4
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Professional Elective I",
+    "course_code": "PE I",
+    "required": 0,
+    "staff": [
+      "FT19"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 3,
+    "subject": "Professional Elective II",
+    "course_code": "PE II",
+    "required": 0,
+    "staff": [
+      "FT09",
+      "BT159"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Food Packaging Technology",
+    "course_code": "FT19701",
+    "required": 0,
+    "staff": [
+      "FT12"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Livestock and Marine Technology",
+    "course_code": "FT19702",
+    "required": 0,
+    "staff": [
+      "BT159"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Food Safety, Quality and Regulation",
+    "course_code": "FT19703",
+    "required": 0,
+    "staff": [
+      "FT19"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Professional Ethics",
+    "course_code": "FT19704",
+    "required": 0,
+    "staff": [
+      "FT10"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Innovation and Design thinking for Food Technologists",
+    "course_code": "FT19705",
+    "required": 0,
+    "staff": [],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Food Packaging Technology Laboratory",
+    "course_code": "FT19711",
+    "required": 4,
+    "staff": [
+      "FT12"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Livestock and Marine Technology Laboratory",
+    "course_code": "FT19712",
+    "required": 4,
+    "staff": [
+      "BT159"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Industry training during vacation",
+    "course_code": "FT19713",
+    "required": 0,
+    "staff": [],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Problem solving using Artificial Intelligence and Machine Learning for Food Technologist",
+    "course_code": "FT19714",
+    "required": 4,
+    "staff": [
+      "FT23"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Professional Elective IV",
+    "course_code": "PE IV",
+    "required": 0,
+    "staff": [
+      "FT09"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Food Technology",
+    "year": 4,
+    "subject": "Professional Elective V",
+    "course_code": "PE V",
+    "required": 0,
+    "staff": [
+      "FT08"
+    ],
+    "total_students": 61,
+    "groups": 2
+  },
+  {
+    "dept": "Information Technology",
+    "year": 1,
+    "subject": "Programming using C",
+    "course_code": "GE23131",
+    "required": 42,
+    "staff": [
+      "IT201",
+      "IT NS10",
+      "NS6",
+      "IT NS11",
+      "NS8",
+      "IT NS12"
+    ],
+    "total_students": 490,
+    "groups": 14
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS23331",
+    "required": 12,
+    "staff": [
+      "IT230",
+      "IT203",
+      "MA103",
+      "IT249",
+      "IT200"
+    ],
+    "total_students": 420,
+    "groups": 12
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Database Management Systems",
+    "course_code": "CS23332",
+    "required": 20,
+    "staff": [
+      "CS325",
+      "IT259",
+      "IT187",
+      "IT260"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Object Oriented Programming Using JAVA",
+    "course_code": "CS23333",
+    "required": 30,
+    "staff": [
+      "CS47",
+      "CS200",
+      "IT30",
+      "IT251"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Analog and Digital Communication",
+    "course_code": "EC23314",
+    "required": 0,
+    "staff": [
+      "EC205",
+      "EC147",
+      "EC163",
+      "EC177",
+      "EC200"
+    ],
+    "total_students": 350,
+    "groups": 10
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Digital Logic and Computer Architecture",
+    "course_code": "IT23331",
+    "required": 4,
+    "staff": [
+      "IT198",
+      "IT223"
+    ],
+    "total_students": 126,
+    "groups": 4
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2,
+    "subject": "Fourier series and Number theory",
+    "course_code": "MA23312",
+    "required": 0,
+    "staff": [
+      "MA144",
+      "MA135",
+      "MA87",
+      "MA111"
+    ],
+    "total_students": 259,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 3,
+    "subject": "Web Programming",
+    "course_code": "CS23531",
+    "required": 24,
+    "staff": [
+      "IT189",
+      "CS200",
+      "IT230"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 3,
+    "subject": "Computer Networks",
+    "course_code": "CS23532",
+    "required": 8,
+    "staff": [
+      "IT198",
+      "IT192",
+      "IT223",
+      "IT186"
+    ],
+    "total_students": 266,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 8,
+    "staff": [
+      "IT198",
+      "IT230",
+      "IT199",
+      "NS6"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 3,
+    "subject": "Automata Theory & Compiler Design",
+    "course_code": "IT23511",
+    "required": 0,
+    "staff": [
+      "MC55",
+      "IT200",
+      "IT173"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 3,
+    "subject": "Computer Vision",
+    "course_code": "IT23531",
+    "required": 8,
+    "staff": [
+      "IT199",
+      "IT203",
+      "IT249"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 4,
+    "subject": "Industry Practices Lab",
+    "course_code": "IT19711",
+    "required": 12,
+    "staff": [
+      "MA103",
+      "IT251",
+      "IT260"
+    ],
+    "total_students": 206,
+    "groups": 6
+  },
+  {
+    "dept": "Information Technology",
+    "year": 4,
+    "subject": "Project Phase I",
+    "course_code": "IT19712",
+    "required": 24,
+    "staff": [
+      "IT200",
+      "IT201",
+      "IT173"
+    ],
+    "total_students": 206,
+    "groups": 6
+  },
+  {
+    "dept": "Information Technology",
+    "year": 4,
+    "subject": "Cloud and Big Data Analytics",
+    "course_code": "IT19741",
+    "required": 12,
+    "staff": [
+      "IT186",
+      "IT173",
+      "IT192"
+    ],
+    "total_students": 206,
+    "groups": 6
+  },
+  {
+    "dept": "Information Technology",
+    "year": 4,
+    "subject": "Software Testing",
+    "course_code": "IT19P78",
+    "required": 0,
+    "staff": [
+      "IT240",
+      "IT205"
+    ],
+    "total_students": 206,
+    "groups": 6
+  },
+  {
+    "dept": "Information Technology",
+    "year": 4,
+    "subject": "Professional Elective-II - NPTEL",
+    "course_code": "Professional Elective-II",
+    "required": 0,
+    "staff": [
+      "IT251"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Principles of Artificial Intelligence",
+    "course_code": "AI23231",
+    "required": 8,
+    "staff": [
+      "IT259",
+      "IT263",
+      "IT205"
+    ],
+    "total_students": 280,
+    "groups": 8
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Data Science with Python",
+    "course_code": "DS24111",
+    "required": 0,
+    "staff": [
+      "IT30"
+    ],
+    "total_students": 16,
+    "groups": 1
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Machine Learning Practices",
+    "course_code": "DS24112",
+    "required": 0,
+    "staff": [
+      "IT187"
+    ],
+    "total_students": 16,
+    "groups": 1
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Data Engineering",
+    "course_code": "DS24113",
+    "required": 0,
+    "staff": [
+      "IT263"
+    ],
+    "total_students": 16,
+    "groups": 1
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Applied Machine Learning  Lab",
+    "course_code": "DS24121",
+    "required": 4,
+    "staff": [
+      "IT NS4"
+    ],
+    "total_students": 16,
+    "groups": 1
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Data Science Lab",
+    "course_code": "DS24122",
+    "required": 4,
+    "staff": [
+      "IT NS5"
+    ],
+    "total_students": 14,
+    "groups": 1
+  },
+  {
+    "dept": "Information Technology",
+    "year": 2025,
+    "subject": "Professional Elective - I -Generative Adversarial Networks",
+    "course_code": "DS24A11",
+    "required": 0,
+    "staff": [
+      "IT201"
+    ],
+    "total_students": 16,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Advanced Mechanics of Materials",
+    "course_code": "ED23111",
+    "required": 0,
+    "staff": [
+      "ME163"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Advanced Mechanisms in Design",
+    "course_code": "ED23112",
+    "required": 0,
+    "staff": [
+      "ME212"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Design with Advanced Materials",
+    "course_code": "ED23113",
+    "required": 0,
+    "staff": [
+      "ME203"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Mechanism Design Laboratory",
+    "course_code": "ED23121",
+    "required": 4,
+    "staff": [
+      "ME212"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Vibration Analysis and Control",
+    "course_code": "ED23131",
+    "required": 2,
+    "staff": [
+      "ME150"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Composite Materials and Mechanics",
+    "course_code": "ED23P12",
+    "required": 0,
+    "staff": [
+      "ME183"
+    ],
+    "total_students": 10,
+    "groups": 1
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Engineering Graphics",
+    "course_code": "GE23111",
+    "required": 0,
+    "staff": [
+      "ME146",
+      "ME201"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bae\u0bb0\u0baa\u0bc1 /Heritage of Tamils",
+    "course_code": "GE23117",
+    "required": 0,
+    "staff": [
+      "ME199"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 1,
+    "subject": "Engineering Practices \u2013 Civil and Mechanical",
+    "course_code": "GE23121",
+    "required": 2,
+    "staff": [
+      "ME183"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Python Programming for Machine Learning",
+    "course_code": "CS23422",
+    "required": 8,
+    "staff": [
+      "ME146",
+      "ME186"
+    ],
+    "total_students": 129,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Transforms and Statistics",
+    "course_code": "MA23331",
+    "required": 4,
+    "staff": [
+      "MA137",
+      "MA131"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Engineering Thermodynamics",
+    "course_code": "ME23311",
+    "required": 0,
+    "staff": [
+      "ME226",
+      "ME186"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Manufacturing Technology I",
+    "course_code": "ME23312",
+    "required": 0,
+    "staff": [
+      "ME32",
+      "ME215"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Kinematics of Machinery",
+    "course_code": "ME23313",
+    "required": 0,
+    "staff": [
+      "ME150",
+      "ME184"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Manufacturing Technology Laboratory I",
+    "course_code": "ME23321",
+    "required": 4,
+    "staff": [
+      "ME199",
+      "ME102"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 2,
+    "subject": "Strength of Materials",
+    "course_code": "ME23331",
+    "required": 4,
+    "staff": [
+      "ME163",
+      "ME171"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Economics for Engineers",
+    "course_code": "GE23511",
+    "required": 0,
+    "staff": [
+      "ME221",
+      "ME249"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 4,
+    "staff": [
+      "ME203",
+      "ME241"
+    ],
+    "total_students": 133,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Machine Design",
+    "course_code": "ME23511",
+    "required": 0,
+    "staff": [
+      "ME31",
+      "ME253"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Component Modeling Laboratory",
+    "course_code": "ME23521",
+    "required": 8,
+    "staff": [
+      "ME184",
+      "ME150"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Heat and Mass Transfer",
+    "course_code": "ME23531",
+    "required": 4,
+    "staff": [
+      "ME147",
+      "ME210"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Metrology and Measurements",
+    "course_code": "ME23532",
+    "required": 4,
+    "staff": [
+      "ME188",
+      "ME214"
+    ],
+    "total_students": 140,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Automobile Engineering",
+    "course_code": "ME23G11",
+    "required": 0,
+    "staff": [
+      "ME177",
+      "ME223"
+    ],
+    "total_students": 100,
+    "groups": 3
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 3,
+    "subject": "Industrial Safety",
+    "course_code": "ME23G12",
+    "required": 0,
+    "staff": [
+      "ME241"
+    ],
+    "total_students": 50,
+    "groups": 2
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Automobile Engineering",
+    "course_code": "ME19701",
+    "required": 0,
+    "staff": [
+      "ME183",
+      "ME147",
+      "ME259"
+    ],
+    "total_students": 135,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Automation in Manufacturing",
+    "course_code": "ME19702",
+    "required": 0,
+    "staff": [
+      "ME249",
+      "ME220",
+      "ME102"
+    ],
+    "total_students": 135,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "PROJECT PHASE-1",
+    "course_code": "ME19711",
+    "required": 6,
+    "staff": [
+      "ME253",
+      "ME188",
+      "ME220"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "COMPREHENSION",
+    "course_code": "ME19712",
+    "required": 6,
+    "staff": [
+      "ME226",
+      "ME234",
+      "ME260"
+    ],
+    "total_students": 210,
+    "groups": 6
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Mechatronics",
+    "course_code": "ME19741",
+    "required": 6,
+    "staff": [
+      "ME209",
+      "ME203",
+      "ME157"
+    ],
+    "total_students": 135,
+    "groups": 4
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Supply Chain and Logistics Management",
+    "course_code": "ME19B18",
+    "required": 0,
+    "staff": [
+      "ME209"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Product Life Cycle Management",
+    "course_code": "ME19D17",
+    "required": 0,
+    "staff": [
+      "ME234"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Mechanical Engineering",
+    "year": 4,
+    "subject": "Non-Destructive Testing and Evaluation",
+    "course_code": "ME19E19",
+    "required": 0,
+    "staff": [
+      "ME199"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 2,
+    "subject": "Introduction to Python Programming",
+    "course_code": "CS23336",
+    "required": 4,
+    "staff": [
+      "ME256"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 2,
+    "subject": "Analog Devices and Drives",
+    "course_code": "MT23331",
+    "required": 2,
+    "staff": [
+      "ME231"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 2,
+    "subject": "Digital System Design",
+    "course_code": "MT23332",
+    "required": 2,
+    "staff": [
+      "ME147"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 2,
+    "subject": "Manufacturing Technology",
+    "course_code": "MT23333",
+    "required": 2,
+    "staff": [
+      "ME197"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 2,
+    "subject": "Mechanics of Solids",
+    "course_code": "MT23334",
+    "required": 2,
+    "staff": [
+      "ME235"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Python Programming for Machine Learning",
+    "course_code": "CS23422",
+    "required": 4,
+    "staff": [
+      "ME147"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Fundamentals of Management for Engineers",
+    "course_code": "GE23311",
+    "required": 0,
+    "staff": [
+      "ME255"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Soft Skills \u2013 II",
+    "course_code": "GE23521",
+    "required": 2,
+    "staff": [
+      "ME231"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Semiconductor Manufacturing",
+    "course_code": "MT23511",
+    "required": 0,
+    "staff": [
+      "ME242"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Industrial Electronics",
+    "course_code": "MT23512",
+    "required": 0,
+    "staff": [
+      "ME228"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Basic Engineering Research Methods",
+    "course_code": "MT23513",
+    "required": 0,
+    "staff": [
+      "ME256"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Industrial Electronics Laboratory",
+    "course_code": "MT23522",
+    "required": 2,
+    "staff": [
+      "ME228"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 3,
+    "subject": "Internship",
+    "course_code": "MT23523",
+    "required": 2,
+    "staff": [
+      "ME228"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Automotive Mechatronics",
+    "course_code": "MT19701",
+    "required": 0,
+    "staff": [
+      "ME227"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Computer Aided Design and Manufacturing",
+    "course_code": "MT19702",
+    "required": 0,
+    "staff": [
+      "ME239"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Industrial Automation",
+    "course_code": "MT19703",
+    "required": 0,
+    "staff": [
+      "ME231"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Machine Vision",
+    "course_code": "MT19704",
+    "required": 0,
+    "staff": [
+      "ME242"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Computer Aided Engineering Laboratory",
+    "course_code": "MT19711",
+    "required": 3,
+    "staff": [
+      "ME239"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Industrial Automation Laboratory",
+    "course_code": "MT19712",
+    "required": 3,
+    "staff": [
+      "ME231"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Mechatronics Problem Solving using AI, ML & DL",
+    "course_code": "MT19713",
+    "required": 4,
+    "staff": [
+      "ME256"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Mechatronics Engineering",
+    "year": 4,
+    "subject": "Project Work Phase - I",
+    "course_code": "MT19721",
+    "required": 2,
+    "staff": [
+      "ME35"
+    ],
+    "total_students": 68,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 1,
+    "subject": "Engineering Graphics",
+    "course_code": "GE23111",
+    "required": 0,
+    "staff": [
+      "ME236"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 1,
+    "subject": "Introduction To Mechanical Systems",
+    "course_code": "RO23111",
+    "required": 0,
+    "staff": [
+      "ME050"
+    ],
+    "total_students": 60,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 2,
+    "subject": "Python Programming for Machine Learning",
+    "course_code": "CS23422",
+    "required": 4,
+    "staff": [
+      "ME050"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 2,
+    "subject": "Analog and Digital Electronics",
+    "course_code": "RO23311",
+    "required": 0,
+    "staff": [
+      "ME213"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 2,
+    "subject": "Sensors in Automation",
+    "course_code": "RO23313",
+    "required": 0,
+    "staff": [
+      "ME246"
+    ],
+    "total_students": 70,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 2,
+    "subject": "Elements of Manufacturing Process",
+    "course_code": "RO23331",
+    "required": 4,
+    "staff": [
+      "ME244",
+      "ME236"
+    ],
+    "total_students": 126,
+    "groups": 4
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 2,
+    "subject": "Mechanics of Materials",
+    "course_code": "RO23332",
+    "required": 2,
+    "staff": [
+      "ME248"
+    ],
+    "total_students": 63,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "AI for Robotics",
+    "course_code": "RO23511",
+    "required": 0,
+    "staff": [
+      "ME246"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "Theory of Mechanisms and Machines-II",
+    "course_code": "RO23512",
+    "required": 0,
+    "staff": [
+      "ME247"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "Mobile Robotics laboratory",
+    "course_code": "RO23521",
+    "required": 4,
+    "staff": [
+      "ME213"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "Industrial Automation \n Laboratory-II",
+    "course_code": "RO23522",
+    "required": 4,
+    "staff": [
+      "ME246"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "Internship",
+    "course_code": "RO23523",
+    "required": 2,
+    "staff": [
+      "ME236"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 3,
+    "subject": "Farm Automation",
+    "course_code": "RO23C13",
+    "required": 0,
+    "staff": [
+      "ME248"
+    ],
+    "total_students": 67,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Fundamentals of Management for Engineers",
+    "course_code": "GE19304",
+    "required": 0,
+    "staff": [
+      "ME236"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Computer Integrated Manufacturing",
+    "course_code": "RO19702",
+    "required": 0,
+    "staff": [
+      "ME185"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Material Handling system",
+    "course_code": "RO19703",
+    "required": 0,
+    "staff": [
+      "ME247"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Innovation and Design thinking for Robotics and Automation",
+    "course_code": "RO19711",
+    "required": 4,
+    "staff": [
+      "ME247"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Robotics and Automation Problem Solving using AI, ML and DL",
+    "course_code": "RO19712",
+    "required": 6,
+    "staff": [
+      "ME213"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Project Work - Phase 1",
+    "course_code": "RO19721",
+    "required": 2,
+    "staff": [
+      "ME244"
+    ],
+    "total_students": 66,
+    "groups": 2
+  },
+  {
+    "dept": "Robotics & Automation",
+    "year": 4,
+    "subject": "Advanced Manufacturing Systems",
+    "course_code": "RO19D12",
+    "required": 0,
+    "staff": [
+      "ME244"
+    ],
+    "total_students": 66,
+    "groups": 2
+  }
+]
