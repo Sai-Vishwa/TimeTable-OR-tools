@@ -129,6 +129,372 @@ def create_activities(dept_sem_data, course_lab_map):
     logger.info(f"  - Allocation tracking for {len(allocation_status)} courses")
     return activities, allocation_status, course_group_map
 
+
+# (Previous imports remain the same)
+
+def create_activities(dept_sem_data, course_lab_map , rooms):
+    """Generate scheduling activities with detailed logging"""
+    logger.info("\n📝 Creating scheduling activities...")
+    start_time = time.perf_counter()
+    activities = []
+    allocation_status = {}
+    course_group_map = defaultdict(list)
+    activity_id = 0
+
+    # Diagnostic counters
+    total_theory = 0
+    total_lab = 0
+    courses_with_no_lab_rooms = 0
+    courses_with_odd_hours = 0
+
+    for dept, sem_data in dept_sem_data.items():
+        for sem, courses in sem_data.items():
+            for course, staff_list in courses.items():
+                # Get requirements
+                theory_hours = staff_list[0]['lecture_hours']
+                lab_hours = staff_list[0]['practical_hours']
+                
+                # Check for odd hours
+                if theory_hours % 2 != 0:
+                    courses_with_odd_hours += 1
+                    logger.warning(f"⚠️ Odd theory hours ({theory_hours}) for {dept}-{sem}-{course}")
+                
+                # Initialize tracking
+                key = (dept, sem, course)
+                allocation_status.setdefault(key, {
+                    'theory': {'allocated': 0, 'required': (theory_hours + 1) // 2},
+                    'lab': {'allocated': 0, 'required': lab_hours}
+                })
+                
+                # Log lab room mapping
+                lab_rooms = course_lab_map.get(course, [])
+                if lab_hours > 0 and not lab_rooms:
+                    courses_with_no_lab_rooms += 1
+                    logger.warning(f"⚠️ No lab rooms mapped for {course} (has {lab_hours} lab hours)")
+                
+                # Create theory sessions
+                theory_sessions = (theory_hours + 1) // 2
+                for session in range(theory_sessions):
+                    activity_id_str = f"A{activity_id}"
+                    activity = {
+                        'id': activity_id_str,
+                        'dept': dept,
+                        'sem': sem,
+                        'course': course,
+                        'type': 'theory',
+                        'duration': 2,
+                        'batch': session,
+                        'required': True,
+                        'eligible_rooms': [r for r, (rtype, _) in rooms.items() if rtype == 'classroom']
+                    }
+                    activities.append(activity)
+                    course_group_map[key].append(activity_id_str)
+                    activity_id += 1
+                    total_theory += 1
+                
+                # Create lab sessions
+                for session in range(lab_hours):
+                    activity_id_str = f"A{activity_id}"
+                    activity = {
+                        'id': activity_id_str,
+                        'dept': dept,
+                        'sem': sem,
+                        'course': course,
+                        'type': 'lab',
+                        'lab_rooms': lab_rooms,
+                        'duration': 2,
+                        'batch': session,
+                        'required': True,
+                        'eligible_rooms': lab_rooms if lab_rooms else [r for r, (rtype, _) in rooms.items() if rtype == 'computer_lab']
+                    }
+                    activities.append(activity)
+                    course_group_map[key].append(activity_id_str)
+                    activity_id += 1
+                    total_lab += 1
+
+                # Log created activities for this course
+                logger.debug(f"   Created {theory_sessions} theory sessions")
+                logger.debug(f"   Created {lab_hours} lab sessions")
+                if lab_rooms:
+                    logger.debug(f"   Lab rooms: {', '.join(lab_rooms)}")
+
+    create_time = time.perf_counter() - start_time
+    logger.info(f"✅ Created {len(activities)} activities in {create_time:.2f}s")
+    logger.info(f"  - Theory activities: {total_theory}")
+    logger.info(f"  - Lab activities: {total_lab}")
+    logger.info(f"  - Courses with no lab rooms mapped: {courses_with_no_lab_rooms}")
+    logger.info(f"  - Courses with odd theory hours: {courses_with_odd_hours}")
+    logger.info(f"  - Allocation tracking for {len(allocation_status)} courses")
+    
+    # Log sample activities
+    if activities:
+        logger.debug("\nSample activities created:")
+        for i in range(min(3, len(activities))):
+            logger.debug(f"  {json.dumps(activities[i], indent=2)}")
+    
+    return activities, allocation_status, course_group_map
+
+def create_model(activities, allocation_status, course_group_map, rooms):
+    """Create model with detailed room eligibility logging"""
+    logger.info("\n🧩 Creating optimization model...")
+    start_time = time.perf_counter()
+    model = cp_model.CpModel()
+    
+    # Create mappings
+    room_map = {name: idx for idx, name in enumerate(rooms.keys())}
+    reverse_room_map = {idx: name for name, idx in room_map.items()}
+    
+    # Log room information
+    logger.debug("\n🏢 Room Information:")
+    for room_name, (rtype, cap) in rooms.items():
+        logger.debug(f"  {room_name}: {rtype} (capacity: {cap})")
+
+    # Create variables with eligibility logging
+    logger.info("\n🔧 Creating decision variables with room eligibility...")
+    slot_vars = {}
+    room_vars = {}
+    eligibility_stats = defaultdict(int)
+    room_eligibility_issues = 0
+    
+    for act in activities:
+        act_id = act['id']
+        slot_vars[act_id] = model.NewIntVar(0, 29, f"slot_{act_id}")
+        
+        # Use precomputed eligible rooms from activity creation
+        eligible_rooms = act['eligible_rooms']
+        eligible_room_indices = [room_map[r] for r in eligible_rooms if r in room_map]
+        
+        # Log eligibility issues
+        if not eligible_room_indices:
+            room_eligibility_issues += 1
+            logger.warning(f"⚠️ No eligible rooms for {act_id} ({act['dept']}-{act['sem']}-{act['course']})")
+            logger.warning(f"   Activity type: {act['type']}")
+            logger.warning(f"   Attempted rooms: {eligible_rooms}")
+            eligible_room_indices = [0]  # Fallback to first room
+        
+        eligibility_stats[len(eligible_room_indices)] += 1
+        room_vars[act_id] = model.NewIntVarFromDomain(
+            cp_model.Domain.FromValues(eligible_room_indices),
+            f"room_{act_id}"
+        )
+    
+    # Log eligibility statistics
+    logger.info("\n📊 Room Eligibility Statistics:")
+    for count, freq in sorted(eligibility_stats.items()):
+        logger.info(f"  {freq} activities have {count} eligible rooms")
+    if room_eligibility_issues > 0:
+        logger.warning(f"⚠️ {room_eligibility_issues} activities had no eligible rooms and were assigned fallback rooms")
+
+    # (Rest of the constraint creation code remains the same)
+    return model, slot_vars, room_vars, room_map, reverse_room_map
+
+class AllocationTracker(cp_model.CpSolverSolutionCallback):
+    """Enhanced tracker with detailed unallocation analysis"""
+    def __init__(self, activities, allocation_status, rooms, slot_vars, room_vars, room_map, reverse_room_map):
+        cp_model.CpSolverSolutionCallback.__init__(self)
+        self.activities = activities
+        self.allocation_status = allocation_status
+        self.rooms = rooms
+        self.slot_vars = slot_vars
+        self.room_vars = room_vars
+        self.room_map = room_map
+        self.reverse_room_map = reverse_room_map
+        self.slot_utilization = {slot: {
+            'classrooms_used': 0,
+            'classrooms_free': 100,
+            'computer_labs_used': 0,
+            'computer_labs_free': 42,
+            'core_labs_used': 0,
+            'core_labs_free': sum(1 for r in rooms.values() if r[0] == 'core_lab')
+        } for slot in range(30)}
+        self.unallocated_activities = []
+        self.solution_count = 0
+        self.start_time = time.perf_counter()
+        self.schedule = {slot: [] for slot in range(30)}
+        self.unallocated_reasons = {}
+        self.slot_conflicts = {slot: defaultdict(list) for slot in range(30)}
+
+    def on_solution_callback(self):
+        self.solution_count += 1
+        current_time = time.perf_counter()
+        runtime = current_time - self.start_time
+        
+        # Reset tracking
+        self.unallocated_activities = []
+        self.unallocated_reasons = {}
+        for key in self.allocation_status:
+            for act_type in ['theory', 'lab']:
+                self.allocation_status[key][act_type]['allocated'] = 0
+        
+        for slot in range(30):
+            self.slot_utilization[slot] = {
+                'classrooms_used': 0,
+                'classrooms_free': 100,
+                'computer_labs_used': 0,
+                'computer_labs_free': 42,
+                'core_labs_used': 0,
+                'core_labs_free': sum(1 for r in self.rooms.values() if r[0] == 'core_lab')
+            }
+            self.schedule[slot] = []
+            self.slot_conflicts[slot] = defaultdict(list)
+        
+        # Track allocations
+        for act in self.activities:
+            act_id = act['id']
+            slot = self.Value(self.slot_vars[act_id])
+            room_idx = self.Value(self.room_vars[act_id])
+            room_name = self.reverse_room_map[room_idx]
+            rtype, capacity = self.rooms[room_name]
+            
+            # Update allocation status
+            key = (act['dept'], act['sem'], act['course'])
+            self.allocation_status[key][act['type']]['allocated'] += 1
+            
+            # Update slot utilization
+            if rtype == 'classroom':
+                self.slot_utilization[slot]['classrooms_used'] += 1
+                self.slot_utilization[slot]['classrooms_free'] -= 1
+            elif rtype == 'computer_lab':
+                self.slot_utilization[slot]['computer_labs_used'] += 1
+                self.slot_utilization[slot]['computer_labs_free'] -= 1
+            elif rtype == 'core_lab':
+                self.slot_utilization[slot]['core_labs_used'] += 1
+                self.slot_utilization[slot]['core_labs_free'] -= 1
+            
+            # Add to schedule
+            self.schedule[slot].append({
+                'activity': act_id,
+                'course': f"{act['dept']}-{act['sem']} {act['course']}",
+                'type': act['type'],
+                'room': room_name,
+                'room_type': rtype
+            })
+        
+        # Find unallocated activities
+        for key, status in self.allocation_status.items():
+            dept, sem, course = key
+            for act_type in ['theory', 'lab']:
+                allocated = status[act_type]['allocated']
+                required = status[act_type]['required']
+                if allocated < required:
+                    deficit = required - allocated
+                    self.unallocated_activities.append({
+                        'dept': dept,
+                        'sem': sem,
+                        'course': course,
+                        'type': act_type,
+                        'allocated': allocated,
+                        'required': required,
+                        'deficit': deficit
+                    })
+        
+        # Analyze unallocated activities
+        self.analyze_unallocated()
+        
+        # Print summary
+        logger.info(f"\n🔍 Solution #{self.solution_count} at {runtime:.2f}s")
+        logger.info("📊 Allocation Status:")
+        self.print_allocation_summary()
+        logger.info("\n📈 Slot Utilization:")
+        self.print_slot_utilization()
+        logger.info("\n❗ Unallocated Activities Analysis:")
+        self.print_unallocated_analysis()
+        
+        # Visualize utilization
+        self.visualize_utilization()
+
+    def analyze_unallocated(self):
+        """Determine why activities couldn't be allocated"""
+        # Track room usage per slot per type
+        slot_room_usage = {slot: defaultdict(int) for slot in range(30)}
+        slot_room_capacity = {slot: defaultdict(int) for slot in range(30)}
+        
+        for slot in range(30):
+            for act in self.schedule[slot]:
+                room_type = act['room_type']
+                slot_room_usage[slot][room_type] += 1
+        
+        # Calculate room capacities
+        for room_name, (rtype, cap) in self.rooms.items():
+            for slot in range(30):
+                slot_room_capacity[slot][rtype] += cap
+        
+        # Analyze each unallocated activity
+        for act in self.unallocated_activities:
+            key = (act['dept'], act['sem'], act['course'], act['type'])
+            deficit = act['deficit']
+            
+            # Get sample activity of this type
+            sample_act = next((a for a in self.activities 
+                             if (a['dept'], a['sem'], a['course']) == (act['dept'], act['sem'], act['course'])
+                             and a['type'] == act['type']), None)
+            
+            if not sample_act:
+                self.unallocated_reasons[key] = ["No matching activity found"]
+                continue
+                
+            # Get eligible rooms
+            eligible_rooms = sample_act['eligible_rooms']
+            eligible_room_types = set(self.rooms[r][0] for r in eligible_rooms if r in self.rooms)
+            
+            reasons = []
+            
+            # Check room eligibility
+            if not eligible_rooms:
+                reasons.append("No eligible rooms specified")
+            else:
+                # Check each slot for availability
+                for slot in range(30):
+                    for room_type in eligible_room_types:
+                        available = slot_room_capacity[slot][room_type] - slot_room_usage[slot][room_type]
+                        if available > 0:
+                            break
+                    else:
+                        reasons.append(f"No {', '.join(eligible_room_types)} rooms available in slot {slot}")
+            
+            self.unallocated_reasons[key] = {
+                'reasons': reasons if reasons else ["Unknown reason"],
+                'eligible_rooms': eligible_rooms,
+                'eligible_room_types': list(eligible_room_types),
+                'deficit': deficit
+            }
+
+    def print_unallocated_analysis(self):
+        """Detailed analysis of why activities couldn't be allocated"""
+        if not self.unallocated_reasons:
+            logger.info("✅ All activities allocated successfully!")
+            return
+        
+        headers = ["Dept", "Sem", "Course", "Type", "Deficit", "Reasons", "Eligible Room Types", "Eligible Rooms"]
+        rows = []
+        
+        for (dept, sem, course, act_type), data in sorted(self.unallocated_reasons.items()):
+            rows.append([
+                dept, sem, course, act_type,
+                data['deficit'],
+                "\n".join(data['reasons']),
+                ", ".join(data['eligible_room_types']),
+                ", ".join(data['eligible_rooms']) if data['eligible_rooms'] else "None"
+            ])
+        
+        logger.info("\n" + tabulate(rows, headers=headers, tablefmt="grid"))
+        
+        # Additional conflict analysis
+        logger.info("\n🔍 Most Constrained Resources:")
+        constrained_resources = defaultdict(int)
+        for _, data in self.unallocated_reasons.items():
+            for reason in data['reasons']:
+                if "available" in reason:
+                    resource = reason.split("rooms")[0].strip()
+                    constrained_resources[resource] += data['deficit']
+        
+        if constrained_resources:
+            logger.info("\n".join(f"  {k}: {v} unallocated activities" 
+                                for k, v in sorted(constrained_resources.items(), 
+                                                 key=lambda x: -x[1])))
+
+# (Rest of the code remains the same)
+
 def initialize_rooms():
     """Create room structure with capacities with timing"""
     logger.info("\n Initializing room resources...")
@@ -581,7 +947,7 @@ def main():
     # Load and prepare data
     dept_sem_data, course_lab_map = load_data()
     rooms = initialize_rooms()
-    activities, allocation_status, course_group_map = create_activities(dept_sem_data, course_lab_map)
+    activities, allocation_status, course_group_map = create_activities(dept_sem_data, course_lab_map , rooms)
     
     # Create optimization model
     model, slot_vars, room_vars, room_map, reverse_room_map = create_model(

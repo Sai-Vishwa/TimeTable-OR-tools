@@ -1,0 +1,1228 @@
+2025-06-18 14:16:02,684 - timetable_optimizer - INFO - ==================================================
+2025-06-18 14:16:02,684 - timetable_optimizer - INFO -  COLLEGE TIMETABLE GENERATION SYSTEM
+2025-06-18 14:16:02,684 - timetable_optimizer - INFO - ==================================================
+2025-06-18 14:16:02,684 - timetable_optimizer - INFO -  Loading data files...
+2025-06-18 14:16:02,716 - timetable_optimizer - INFO -  Data loaded successfully in 0.03s
+2025-06-18 14:16:02,716 - timetable_optimizer - INFO -   - Departments: 19
+2025-06-18 14:16:02,718 - timetable_optimizer - INFO -   - Lab mappings: 109 courses mapped
+2025-06-18 14:16:02,718 - timetable_optimizer - INFO - 
+ Initializing room resources...
+2025-06-18 14:16:02,720 - timetable_optimizer - INFO -  Initialized 196 rooms in 0.00s
+2025-06-18 14:16:02,722 - timetable_optimizer - INFO -   - computer_lab: 42
+2025-06-18 14:16:02,723 - timetable_optimizer - INFO -   - classroom: 100
+2025-06-18 14:16:02,723 - timetable_optimizer - INFO -   - core_lab: 54
+2025-06-18 14:16:02,737 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,737 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,741 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,741 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,745 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,745 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Lab rooms: Manufacturing Technology I
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,749 - timetable_optimizer - DEBUG -    Lab rooms: Dynamics Lab
+2025-06-18 14:16:02,754 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,754 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,754 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:02,758 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,758 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,766 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,766 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Lab rooms: Isaac Asimov Laboratory
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,769 - timetable_optimizer - DEBUG -    Lab rooms: Automation Lab
+2025-06-18 14:16:02,777 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,777 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,783 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,783 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,789 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,789 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,793 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,793 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,793 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,793 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,808 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,808 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,808 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,808 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Lab rooms: Isaac Asimov Laboratory
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Lab rooms: MCT CAD Lab
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,822 - timetable_optimizer - DEBUG -    Lab rooms: Industrial Automation Lab
+2025-06-18 14:16:02,832 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,832 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,838 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,838 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,841 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,841 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,841 - timetable_optimizer - DEBUG -    Lab rooms: MCT CAD Lab
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,848 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,853 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,853 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,853 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,853 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,853 - timetable_optimizer - DEBUG -    Lab rooms: Power Electronics Lab
+2025-06-18 14:16:02,854 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,854 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,858 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,869 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,869 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,870 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,870 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,875 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,875 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,882 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,882 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,882 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,882 - timetable_optimizer - DEBUG -    Created 3 lab sessions
+2025-06-18 14:16:02,882 - timetable_optimizer - DEBUG -    Lab rooms: MCT CAD Lab
+2025-06-18 14:16:02,886 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,886 - timetable_optimizer - DEBUG -    Created 3 lab sessions
+2025-06-18 14:16:02,888 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,888 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,888 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,888 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,888 - timetable_optimizer - DEBUG -    Lab rooms: Microprocessor and Microcontrollers Lab
+2025-06-18 14:16:02,891 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,891 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,898 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,898 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,900 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,900 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,900 - timetable_optimizer - DEBUG -    Lab rooms: Mechatronics Lab
+2025-06-18 14:16:02,906 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,906 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,913 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,913 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,915 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,915 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,917 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,917 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,921 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,921 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Lab rooms: Mech CAD Lab
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,924 - timetable_optimizer - DEBUG -    Lab rooms: Thermal Lab
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Lab rooms: Metrology & Measurement Lab
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,933 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,941 - timetable_optimizer - DEBUG -    Lab rooms: Manufacturing Technology I
+2025-06-18 14:16:02,949 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,949 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,949 - timetable_optimizer - DEBUG -    Lab rooms: Strength of Materials Lab
+2025-06-18 14:16:02,955 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,955 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:02,955 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,955 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,955 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:02,959 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,959 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,964 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,964 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,965 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,965 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,965 - timetable_optimizer - DEBUG -    Lab rooms: Food Microbiology Lab
+2025-06-18 14:16:02,965 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,965 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,968 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,968 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,970 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,970 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,970 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,970 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,970 - timetable_optimizer - DEBUG -    Lab rooms: Biochemistry lab
+2025-06-18 14:16:02,974 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,974 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,980 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,980 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Lab rooms: Biochemistry lab
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,981 - timetable_optimizer - DEBUG -    Lab rooms: Food Processing and Preservation Lab
+2025-06-18 14:16:02,986 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,986 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,992 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,992 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,992 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:02,992 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:02,994 - timetable_optimizer - DEBUG -    Lab rooms: Baking Lab
+2025-06-18 14:16:02,996 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:02,996 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:02,996 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:02,996 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,000 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,000 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,004 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,004 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,009 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,009 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,009 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,009 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,009 - timetable_optimizer - DEBUG -    Lab rooms: Livestock Lab
+2025-06-18 14:16:03,012 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,012 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,014 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,014 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,016 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,024 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,024 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,029 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,029 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,030 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,033 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,033 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,033 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,033 - timetable_optimizer - DEBUG -    Lab rooms: Basic electronics lab-1, Digital Lab
+2025-06-18 14:16:03,036 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,036 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,036 - timetable_optimizer - DEBUG -    Lab rooms: MCT CAD Lab
+2025-06-18 14:16:03,040 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,040 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,040 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,040 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Lab rooms: Communication Systems Lab
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,044 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,048 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,048 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,048 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:03,050 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,050 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,050 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,054 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,057 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,057 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,061 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,061 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,065 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,065 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,065 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,065 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,070 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,070 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,077 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,078 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,082 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,082 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,082 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,084 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,084 - timetable_optimizer - DEBUG -    Lab rooms: Embedded System Laboratory (ECE)
+2025-06-18 14:16:03,084 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,084 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,084 - timetable_optimizer - DEBUG -    Lab rooms: Optical and Microwave Lab
+2025-06-18 14:16:03,089 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,089 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,098 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,098 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,101 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,101 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,108 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,112 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,116 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,117 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,117 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,117 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,117 - timetable_optimizer - DEBUG -    Lab rooms: Electronic Devices & Circuits Lab
+2025-06-18 14:16:03,120 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,120 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,128 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,128 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,128 - timetable_optimizer - DEBUG -    Lab rooms: MCT CAD Lab
+2025-06-18 14:16:03,131 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,131 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,136 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,136 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,136 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,136 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,136 - timetable_optimizer - DEBUG -    Lab rooms: Embedded System Laboratory(EEE)
+2025-06-18 14:16:03,137 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,140 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,145 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,145 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,149 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,149 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Lab rooms: Power System Simulation Lab
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,150 - timetable_optimizer - DEBUG -    Lab rooms: Electronic Devices & Circuits Lab
+2025-06-18 14:16:03,153 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,153 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,153 - timetable_optimizer - DEBUG -    Lab rooms: Microprocessor and Microcontrollers Lab
+2025-06-18 14:16:03,158 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,158 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,162 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,163 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,165 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,165 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Lab rooms: Power System Simulation Lab
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,168 - timetable_optimizer - DEBUG -    Lab rooms: Power System Simulation Lab
+2025-06-18 14:16:03,173 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,173 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,179 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,180 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,180 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,180 - timetable_optimizer - DEBUG -    Created 8 lab sessions
+2025-06-18 14:16:03,180 - timetable_optimizer - DEBUG -    Lab rooms: Power System Simulation Lab
+2025-06-18 14:16:03,185 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,185 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,187 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,187 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,188 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,191 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,191 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,191 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,191 - timetable_optimizer - DEBUG -    Lab rooms: Concrete & Survey Lab
+2025-06-18 14:16:03,196 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,196 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,197 - timetable_optimizer - DEBUG -    Lab rooms: Concrete & Survey Lab
+2025-06-18 14:16:03,197 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,197 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,197 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:03,200 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,200 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,202 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,203 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,207 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,207 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,213 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,213 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,213 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,213 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,213 - timetable_optimizer - DEBUG -    Lab rooms: Chemistry Lab
+2025-06-18 14:16:03,216 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,216 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,216 - timetable_optimizer - DEBUG -    Lab rooms: Classroom
+2025-06-18 14:16:03,218 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,218 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,221 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,221 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,221 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,222 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,222 - timetable_optimizer - DEBUG -    Lab rooms: Classroom
+2025-06-18 14:16:03,225 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,226 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,226 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,226 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,231 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,231 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,231 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,231 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Lab rooms: Classroom
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Lab rooms: Classroom
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,236 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,241 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,241 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,246 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,246 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,246 - timetable_optimizer - DEBUG -    Lab rooms: Fluid Mechanics Lab
+2025-06-18 14:16:03,248 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,248 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,250 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,250 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,250 - timetable_optimizer - DEBUG -    Lab rooms: Chemistry Lab
+2025-06-18 14:16:03,252 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,252 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,261 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,261 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,265 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,265 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,268 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,268 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,274 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,274 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,274 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,274 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,275 - timetable_optimizer - DEBUG -    Lab rooms: Thermal Lab
+2025-06-18 14:16:03,281 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,282 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,287 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,287 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,287 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,287 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,288 - timetable_optimizer - DEBUG -    Lab rooms: Process Control Lab
+2025-06-18 14:16:03,341 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,341 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Created 3 lab sessions
+2025-06-18 14:16:03,348 - timetable_optimizer - DEBUG -    Lab rooms: Chemical Reaction Engineering Lab
+2025-06-18 14:16:03,353 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,353 - timetable_optimizer - DEBUG -    Created 3 lab sessions
+2025-06-18 14:16:03,357 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,357 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,362 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,362 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Lab rooms: microbiology lab
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,374 - timetable_optimizer - DEBUG -    Lab rooms: Biochemistry lab
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,378 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,386 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,386 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,390 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,390 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,390 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,390 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,390 - timetable_optimizer - DEBUG -    Lab rooms: Bioprocess lab
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Lab rooms: Immunology Lab
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,394 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,403 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,403 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,403 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,403 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,407 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,407 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,410 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,412 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,412 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,412 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,417 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,417 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,417 - timetable_optimizer - DEBUG -    Lab rooms: Downstream Processing Lab
+2025-06-18 14:16:03,425 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,425 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,431 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,431 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,434 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,434 - timetable_optimizer - DEBUG -    Created 24 lab sessions
+2025-06-18 14:16:03,434 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,434 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,441 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,441 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Lab rooms: Biochemistry lab
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,446 - timetable_optimizer - DEBUG -    Lab rooms: Diagnostic and Therapeutic Equipment Lab
+2025-06-18 14:16:03,450 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,450 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,450 - timetable_optimizer - DEBUG -    Lab rooms: Electronics and Instrumentation
+2025-06-18 14:16:03,451 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,451 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,451 - timetable_optimizer - DEBUG -    Lab rooms: Power Electronics Lab
+2025-06-18 14:16:03,451 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,451 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,457 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,457 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,464 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,464 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,464 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,464 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,464 - timetable_optimizer - DEBUG -    Lab rooms: Diagnostic and Therapeutic Equipment Lab
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Lab rooms: Medical Image Processing Lab
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Lab rooms: Microprocessor Lab
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,467 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:03,473 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,473 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,477 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,477 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,477 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,477 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,484 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,484 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,484 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,484 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,484 - timetable_optimizer - DEBUG -    Lab rooms: Medical Image Processing Lab
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Lab rooms: Diagnostic and Therapeutic Equipment Lab
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,487 - timetable_optimizer - DEBUG -    Lab rooms: Electronics and Instrumentation
+2025-06-18 14:16:03,495 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,495 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Lab rooms: Auto CAD Lab
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Lab rooms: Thermal Lab
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Lab rooms: Thermal Lab
+2025-06-18 14:16:03,499 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,503 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,503 - timetable_optimizer - DEBUG -    Lab rooms: Strength of Materials Lab
+2025-06-18 14:16:03,505 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,505 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,505 - timetable_optimizer - DEBUG -    Lab rooms: Manufacturing Technology I
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Lab rooms: Automotive Componenets lab
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,507 - timetable_optimizer - DEBUG -    Lab rooms: Auto CAD Lab
+2025-06-18 14:16:03,521 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,521 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,521 - timetable_optimizer - DEBUG -    Lab rooms: Electrical Machines I Lab
+2025-06-18 14:16:03,528 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,528 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,528 - timetable_optimizer - DEBUG -    Lab rooms: Auto CAD Lab
+2025-06-18 14:16:03,533 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,533 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,536 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,536 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,537 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,537 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,538 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,538 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,545 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,545 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,548 - timetable_optimizer - DEBUG -    Lab rooms: Vehicle Maintenance Lab
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Lab rooms: Vehicle Maintenance Lab
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,552 - timetable_optimizer - DEBUG -    Lab rooms: Vehicle Maintenance Lab
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Lab rooms: Aero CAD Lab
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Lab rooms: Strength of Materials Lab
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,554 - timetable_optimizer - DEBUG -    Lab rooms: DSP Lab
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Lab rooms: Thermal Lab
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,561 - timetable_optimizer - DEBUG -    Lab rooms: Fluid Mechanics Lab
+2025-06-18 14:16:03,565 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,565 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,567 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,567 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,570 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,570 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,570 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,570 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 20 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Lab rooms: Aircraft Structures Lab
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,578 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,583 - timetable_optimizer - DEBUG -    Lab rooms: Airframe Repair and Aero Engine Lab
+2025-06-18 14:16:03,588 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,588 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,595 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,595 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,596 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,596 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,599 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,599 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,599 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,599 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,607 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,607 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,612 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,612 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,615 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,615 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,615 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,615 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,621 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,621 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,626 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,627 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,628 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,628 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,631 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,631 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,637 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,637 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,637 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,637 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,644 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,644 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,645 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,645 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,648 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,648 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,648 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,648 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,654 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,654 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,661 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,661 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,667 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,667 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,670 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,671 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,677 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,677 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,677 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,677 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,681 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,681 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,687 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,687 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,694 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,694 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,695 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,695 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,695 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,698 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,700 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,700 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,704 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,704 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,712 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,712 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,712 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,712 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,716 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,716 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,720 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,720 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,721 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,721 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,727 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,727 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,728 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,728 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,728 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,728 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,733 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,733 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,737 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,737 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,737 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,737 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,744 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,744 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,745 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,745 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,750 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,750 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,754 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,754 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,760 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,760 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,762 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,762 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,765 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,765 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,770 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,770 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,778 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,778 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,781 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,781 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,787 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,787 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,787 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,787 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,788 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,788 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,795 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,795 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,795 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,795 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,798 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,798 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,798 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,798 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:03,809 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,809 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,812 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,812 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,814 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,814 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,823 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,823 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,824 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,824 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,831 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,831 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,833 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,833 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,838 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,838 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,843 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,843 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,848 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,848 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,850 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,850 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,855 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,855 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,860 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:03,860 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,866 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,866 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,866 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:03,866 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,866 - timetable_optimizer - DEBUG -    Lab rooms: Electronic Devices & Circuits Lab
+2025-06-18 14:16:03,870 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,870 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,878 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,878 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,888 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,888 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,898 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,898 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,900 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,900 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,915 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,915 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,921 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,921 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,932 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,932 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,936 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,936 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,947 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,947 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,953 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,953 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,962 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,962 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,966 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,966 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,976 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,976 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:03,983 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,983 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,985 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,985 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:03,993 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,993 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:03,993 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:03,993 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,003 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,003 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,007 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,007 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,015 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,015 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,020 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,021 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,021 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,021 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,024 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:04,024 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,028 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,028 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,032 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,032 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,036 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,036 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,040 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,044 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,047 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,047 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,052 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,052 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,053 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,053 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,053 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,053 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,062 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,066 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,066 - timetable_optimizer - DEBUG -    Created 0 lab sessions
+2025-06-18 14:16:04,074 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,074 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,079 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,079 - timetable_optimizer - DEBUG -    Created 4 lab sessions
+2025-06-18 14:16:04,085 - timetable_optimizer - DEBUG -    Created 2 theory sessions
+2025-06-18 14:16:04,085 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,087 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:04,087 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,089 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:04,090 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,095 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:04,095 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:04,095 - timetable_optimizer - DEBUG -    Created 0 theory sessions
+2025-06-18 14:16:04,095 - timetable_optimizer - DEBUG -    Created 6 lab sessions
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG -    Created 1 theory sessions
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG -    Created 2 lab sessions
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO -   - Theory activities: 541
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO -   - Lab activities: 648
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO -   - Courses with no lab rooms mapped: 113
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO -   - Courses with odd theory hours: 256
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO -   - Allocation tracking for 389 courses
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG - 
+Sample activities created:
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG -   {
+  "id": "A0",
+  "dept": "Robotics & Automation",
+  "sem": "Semester 3",
+  "course": "RO23311",
+  "type": "theory",
+  "duration": 2,
+  "batch": 0,
+  "required": true,
+  "eligible_rooms": [
+    "Class1",
+    "Class2",
+    "Class3",
+    "Class4",
+    "Class5",
+    "Class6",
+    "Class7",
+    "Class8",
+    "Class9",
+    "Class10",
+    "Class11",
+    "Class12",
+    "Class13",
+    "Class14",
+    "Class15",
+    "Class16",
+    "Class17",
+    "Class18",
+    "Class19",
+    "Class20",
+    "Class21",
+    "Class22",
+    "Class23",
+    "Class24",
+    "Class25",
+    "Class26",
+    "Class27",
+    "Class28",
+    "Class29",
+    "Class30",
+    "Class31",
+    "Class32",
+    "Class33",
+    "Class34",
+    "Class35",
+    "Class36",
+    "Class37",
+    "Class38",
+    "Class39",
+    "Class40",
+    "Class41",
+    "Class42",
+    "Class43",
+    "Class44",
+    "Class45",
+    "Class46",
+    "Class47",
+    "Class48",
+    "Class49",
+    "Class50",
+    "Class51",
+    "Class52",
+    "Class53",
+    "Class54",
+    "Class55",
+    "Class56",
+    "Class57",
+    "Class58",
+    "Class59",
+    "Class60",
+    "Class61",
+    "Class62",
+    "Class63",
+    "Class64",
+    "Class65",
+    "Class66",
+    "Class67",
+    "Class68",
+    "Class69",
+    "Class70",
+    "Class71",
+    "Class72",
+    "Class73",
+    "Class74",
+    "Class75",
+    "Class76",
+    "Class77",
+    "Class78",
+    "Class79",
+    "Class80",
+    "Class81",
+    "Class82",
+    "Class83",
+    "Class84",
+    "Class85",
+    "Class86",
+    "Class87",
+    "Class88",
+    "Class89",
+    "Class90",
+    "Class91",
+    "Class92",
+    "Class93",
+    "Class94",
+    "Class95",
+    "Class96",
+    "Class97",
+    "Class98",
+    "Class99",
+    "Class100"
+  ]
+}
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG -   {
+  "id": "A1",
+  "dept": "Robotics & Automation",
+  "sem": "Semester 3",
+  "course": "RO23311",
+  "type": "theory",
+  "duration": 2,
+  "batch": 1,
+  "required": true,
+  "eligible_rooms": [
+    "Class1",
+    "Class2",
+    "Class3",
+    "Class4",
+    "Class5",
+    "Class6",
+    "Class7",
+    "Class8",
+    "Class9",
+    "Class10",
+    "Class11",
+    "Class12",
+    "Class13",
+    "Class14",
+    "Class15",
+    "Class16",
+    "Class17",
+    "Class18",
+    "Class19",
+    "Class20",
+    "Class21",
+    "Class22",
+    "Class23",
+    "Class24",
+    "Class25",
+    "Class26",
+    "Class27",
+    "Class28",
+    "Class29",
+    "Class30",
+    "Class31",
+    "Class32",
+    "Class33",
+    "Class34",
+    "Class35",
+    "Class36",
+    "Class37",
+    "Class38",
+    "Class39",
+    "Class40",
+    "Class41",
+    "Class42",
+    "Class43",
+    "Class44",
+    "Class45",
+    "Class46",
+    "Class47",
+    "Class48",
+    "Class49",
+    "Class50",
+    "Class51",
+    "Class52",
+    "Class53",
+    "Class54",
+    "Class55",
+    "Class56",
+    "Class57",
+    "Class58",
+    "Class59",
+    "Class60",
+    "Class61",
+    "Class62",
+    "Class63",
+    "Class64",
+    "Class65",
+    "Class66",
+    "Class67",
+    "Class68",
+    "Class69",
+    "Class70",
+    "Class71",
+    "Class72",
+    "Class73",
+    "Class74",
+    "Class75",
+    "Class76",
+    "Class77",
+    "Class78",
+    "Class79",
+    "Class80",
+    "Class81",
+    "Class82",
+    "Class83",
+    "Class84",
+    "Class85",
+    "Class86",
+    "Class87",
+    "Class88",
+    "Class89",
+    "Class90",
+    "Class91",
+    "Class92",
+    "Class93",
+    "Class94",
+    "Class95",
+    "Class96",
+    "Class97",
+    "Class98",
+    "Class99",
+    "Class100"
+  ]
+}
+2025-06-18 14:16:04,099 - timetable_optimizer - DEBUG -   {
+  "id": "A2",
+  "dept": "Robotics & Automation",
+  "sem": "Semester 3",
+  "course": "RO23312",
+  "type": "theory",
+  "duration": 2,
+  "batch": 0,
+  "required": true,
+  "eligible_rooms": [
+    "Class1",
+    "Class2",
+    "Class3",
+    "Class4",
+    "Class5",
+    "Class6",
+    "Class7",
+    "Class8",
+    "Class9",
+    "Class10",
+    "Class11",
+    "Class12",
+    "Class13",
+    "Class14",
+    "Class15",
+    "Class16",
+    "Class17",
+    "Class18",
+    "Class19",
+    "Class20",
+    "Class21",
+    "Class22",
+    "Class23",
+    "Class24",
+    "Class25",
+    "Class26",
+    "Class27",
+    "Class28",
+    "Class29",
+    "Class30",
+    "Class31",
+    "Class32",
+    "Class33",
+    "Class34",
+    "Class35",
+    "Class36",
+    "Class37",
+    "Class38",
+    "Class39",
+    "Class40",
+    "Class41",
+    "Class42",
+    "Class43",
+    "Class44",
+    "Class45",
+    "Class46",
+    "Class47",
+    "Class48",
+    "Class49",
+    "Class50",
+    "Class51",
+    "Class52",
+    "Class53",
+    "Class54",
+    "Class55",
+    "Class56",
+    "Class57",
+    "Class58",
+    "Class59",
+    "Class60",
+    "Class61",
+    "Class62",
+    "Class63",
+    "Class64",
+    "Class65",
+    "Class66",
+    "Class67",
+    "Class68",
+    "Class69",
+    "Class70",
+    "Class71",
+    "Class72",
+    "Class73",
+    "Class74",
+    "Class75",
+    "Class76",
+    "Class77",
+    "Class78",
+    "Class79",
+    "Class80",
+    "Class81",
+    "Class82",
+    "Class83",
+    "Class84",
+    "Class85",
+    "Class86",
+    "Class87",
+    "Class88",
+    "Class89",
+    "Class90",
+    "Class91",
+    "Class92",
+    "Class93",
+    "Class94",
+    "Class95",
+    "Class96",
+    "Class97",
+    "Class98",
+    "Class99",
+    "Class100"
+  ]
+}
+2025-06-18 14:16:04,099 - timetable_optimizer - INFO - 
+ Creating optimization model...
+2025-06-18 14:16:04,111 - timetable_optimizer - INFO - 
+ Creating decision variables...
