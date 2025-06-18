@@ -1,0 +1,4 @@
+2025-06-18 11:56:14,988 - timetable_optimizer - INFO - ==================================================
+2025-06-18 11:56:15,003 - timetable_optimizer - INFO - ==================================================
+2025-06-18 11:56:15,019 - timetable_optimizer - DEBUG - Loaded department data: 19 departments
+2025-06-18 11:56:15,026 - timetable_optimizer - DEBUG - Loaded lab mappings: 55 labs

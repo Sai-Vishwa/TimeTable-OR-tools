@@ -1,0 +1,8 @@
+2025-06-18 10:31:14,634 - timetable_optimizer - INFO - ==================================================
+2025-06-18 10:31:14,683 - timetable_optimizer - INFO - ==================================================
+2025-06-18 10:31:14,696 - timetable_optimizer - INFO -   - Departments: 19
+2025-06-18 10:31:14,696 - timetable_optimizer - INFO -   - Lab mappings: 109 courses mapped
+2025-06-18 10:31:14,707 - timetable_optimizer - INFO -   - computer_lab: 42
+2025-06-18 10:31:14,707 - timetable_optimizer - INFO -   - classroom: 100
+2025-06-18 10:31:14,707 - timetable_optimizer - INFO -   - core_lab: 54
+2025-06-18 10:31:14,719 - timetable_optimizer - INFO -   - Allocation tracking for 389 courses

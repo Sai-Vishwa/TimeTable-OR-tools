@@ -1,0 +1,112 @@
+2025-06-18 12:21:27,823 - timetable_optimizer - INFO - ==================================================
+2025-06-18 12:21:27,823 - timetable_optimizer - INFO -  COLLEGE TIMETABLE GENERATION SYSTEM
+2025-06-18 12:21:27,827 - timetable_optimizer - INFO - ==================================================
+2025-06-18 12:21:27,827 - timetable_optimizer - INFO -  Loading data files...
+2025-06-18 12:21:27,829 - timetable_optimizer - INFO -  Data loaded successfully in 0.00s
+2025-06-18 12:21:27,829 - timetable_optimizer - INFO -   - Departments: 19
+2025-06-18 12:21:27,829 - timetable_optimizer - INFO -   - Lab mappings: 109 courses mapped
+2025-06-18 12:21:27,829 - timetable_optimizer - INFO - 
+ Initializing room resources...
+2025-06-18 12:21:27,866 - timetable_optimizer - INFO -  Initialized 196 rooms in 0.00s
+2025-06-18 12:21:27,866 - timetable_optimizer - INFO -   - computer_lab: 42
+2025-06-18 12:21:27,866 - timetable_optimizer - INFO -   - classroom: 100
+2025-06-18 12:21:27,869 - timetable_optimizer - INFO -   - core_lab: 54
+2025-06-18 12:21:27,869 - timetable_optimizer - INFO - 
+ Creating scheduling activities...
+2025-06-18 12:21:27,870 - timetable_optimizer - INFO -  Created 1189 activities in 0.00s
+2025-06-18 12:21:27,870 - timetable_optimizer - INFO -   - Allocation tracking for 389 courses
+2025-06-18 12:21:27,870 - timetable_optimizer - INFO - 
+ Creating optimization model...
+2025-06-18 12:21:27,870 - timetable_optimizer - INFO - 
+ Creating decision variables...
+2025-06-18 12:21:27,944 - timetable_optimizer - INFO -  Created variables in 0.07s
+2025-06-18 12:21:27,944 - timetable_optimizer - INFO - 
+ Adding hard constraints...
+2025-06-18 12:21:27,944 - timetable_optimizer - INFO -    Constraint: All batches for same course must be in same slot
+2025-06-18 12:21:27,969 - timetable_optimizer - INFO -      Course groups constrained in 0.02s
+2025-06-18 12:21:27,969 - timetable_optimizer - INFO -    Constraint: No overlapping subjects for same dept/sem
+2025-06-18 12:21:31,479 - timetable_optimizer - INFO -      Student groups constrained in 3.52s
+2025-06-18 12:21:31,479 - timetable_optimizer - INFO -    Constraint: Room capacity limits (OPTIMIZED)
+2025-06-18 12:21:31,611 - timetable_optimizer - INFO -      Creating room assignment indicators...
+2025-06-18 12:21:51,254 - timetable_optimizer - INFO -      Creating room-slot indicators...
+2025-06-18 12:34:10,441 - timetable_optimizer - INFO -      Room capacity constrained in 758.94s
+2025-06-18 12:34:10,471 - timetable_optimizer - INFO -  Model created in 762.60s
+2025-06-18 12:34:10,552 - timetable_optimizer - INFO - 
+ Starting solver...
+2025-06-18 12:39:33,422 - timetable_optimizer - INFO - 
+==================================================
+2025-06-18 12:39:33,438 - timetable_optimizer - INFO -  FINAL ALLOCATION REPORT
+2025-06-18 12:39:33,438 - timetable_optimizer - INFO - ==================================================
+2025-06-18 12:39:33,438 - timetable_optimizer - INFO -  No solution found
+2025-06-18 12:39:33,438 - timetable_optimizer - INFO -  Total solve time: 322.86 seconds
+2025-06-18 12:39:33,438 - timetable_optimizer - INFO - 
+ FINAL ALLOCATION STATUS:
+2025-06-18 12:39:34,125 - timetable_optimizer - INFO - 
+ FINAL SLOT UTILIZATION:
+2025-06-18 12:39:34,125 - timetable_optimizer - INFO - 
++--------+------------------+-----------------+-----------------+
+|   Slot | Classrooms       | Computer Labs   | Core Labs       |
++========+==================+=================+=================+
+|      0 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      1 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      2 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      3 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      4 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      5 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      6 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      7 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      8 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|      9 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     10 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     11 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     12 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     13 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     14 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     15 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     16 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     17 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     18 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     19 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     20 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     21 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     22 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     23 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     24 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     25 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     26 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     27 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     28 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+|     29 | 0 used, 100 free | 0 used, 42 free | 0 used, 54 free |
++--------+------------------+-----------------+-----------------+
+2025-06-18 12:39:34,492 - timetable_optimizer - INFO - 
+ FINAL UNALLOCATED ACTIVITIES:
+2025-06-18 12:39:36,980 - timetable_optimizer - INFO -  Saved utilization visualization to utilization_solution_0.png

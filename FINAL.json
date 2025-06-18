@@ -1,0 +1,6492 @@
+{
+  "Robotics & Automation": {
+    "Semester 3": {
+      "RO23311": [
+        {
+          "staff_code": "ME213",
+          "faculty_name": "Ramkumar S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23312": [
+        {
+          "staff_code": "ME201",
+          "faculty_name": "Abraham Anthony D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23313": [
+        {
+          "staff_code": "ME246",
+          "faculty_name": "L Ganesh Babu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23331": [
+        {
+          "staff_code": "ME244",
+          "faculty_name": "Venugopal K",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "ME244",
+            "assist_name": "Venugopal K"
+          }
+        }
+      ],
+      "RO23332": [
+        {
+          "staff_code": "ME248",
+          "faculty_name": "Senthilrajan S",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "ME248",
+            "assist_name": "Senthilrajan S"
+          }
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "ME050",
+          "faculty_name": "RA",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME050",
+            "assist_name": "RA"
+          }
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "NF-1",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "RO23511": [
+        {
+          "staff_code": "ME246",
+          "faculty_name": "L Ganesh Babu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23512": [
+        {
+          "staff_code": "ME247",
+          "faculty_name": "R Saravanan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23521": [
+        {
+          "staff_code": "ME213",
+          "faculty_name": "Ramkumar S",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME213",
+            "assist_name": "Ramkumar S"
+          }
+        }
+      ],
+      "RO23522": [
+        {
+          "staff_code": "ME246",
+          "faculty_name": "L Ganesh Babu",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME246",
+            "assist_name": "L Ganesh Babu"
+          }
+        }
+      ],
+      
+      "ME23511": [
+        {
+          "staff_code": "ME132",
+          "faculty_name": "Dr. E.Shankar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO23C13": [
+        {
+          "staff_code": "ME248",
+          "faculty_name": "Senthilrajan S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "GE19304": [
+        {
+          "staff_code": "ME236",
+          "faculty_name": "P.Vimalanathan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO19702": [
+        {
+          "staff_code": "ME185",
+          "faculty_name": "Eswaran A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO19703": [
+        {
+          "staff_code": "ME247",
+          "faculty_name": "R Saravanan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO19D12": [
+        {
+          "staff_code": "ME244",
+          "faculty_name": "Venugopal K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "RO19711": [
+        {
+          "staff_code": "ME247",
+          "faculty_name": "R Saravanan",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME247",
+            "assist_name": "R Saravanan"
+          }
+        }
+      ],
+      "RO19721": [
+        {
+          "staff_code": "ME244",
+          "faculty_name": "Venugopal K",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "RO19712": [
+        {
+          "staff_code": "ME213",
+          "faculty_name": "Ramkumar S",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "ME213",
+            "assist_name": "Ramkumar S"
+          }
+        }
+      ]
+    }
+  },
+  "Mechatronics Engineering": {
+    "Semester 3": {
+      "MT23332": [
+        {
+          "staff_code": "ME147",
+          "faculty_name": "Uma Maheswari M",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "MT23331": [
+        {
+          "staff_code": "ME231",
+          "faculty_name": "Nareshbabu Gajendran",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "MT23333": [
+        {
+          "staff_code": "ME197",
+          "faculty_name": "Sridharan M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "MT23334": [
+        {
+          "staff_code": "ME235",
+          "faculty_name": "Prakash E",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23336": [
+        {
+          "staff_code": "ME256",
+          "faculty_name": "Dr Ramesh Shanmugam",
+          "lecture_hours": 1,
+          "practical_hours": 4
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "MA151",
+          "faculty_name": "Akshaya A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "MT23512": [
+        {
+          "staff_code": "ME228",
+          "faculty_name": "Nivethitha S B",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "MT23511": [
+        {
+          "staff_code": "ME242",
+          "faculty_name": "Vimalesh. A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT23513": [
+        {
+          "staff_code": "ME256",
+          "faculty_name": "Dr Ramesh Shanmugam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT23522": [
+        {
+          "staff_code": "ME228",
+          "faculty_name": "Nivethitha S B",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "MT23523": [
+        {
+          "staff_code": "ME228",
+          "faculty_name": "Nivethitha S B",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "ME231",
+          "faculty_name": "Nareshbabu Gajendran",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "ME147",
+          "faculty_name": "Uma Maheswari M",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "GE23311": [
+        {
+          "staff_code": "ME255",
+          "faculty_name": "Shobana D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "MT19701": [
+        {
+          "staff_code": "ME227",
+          "faculty_name": "Dr.M.Balakarthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT19702": [
+        {
+          "staff_code": "ME239",
+          "faculty_name": "Dr.P.Chandramohan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT19703": [
+        {
+          "staff_code": "ME231",
+          "faculty_name": "Nareshbabu Gajendran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT19704": [
+        {
+          "staff_code": "ME242",
+          "faculty_name": "Vimalesh. A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MT19711": [
+        {
+          "staff_code": "ME239",
+          "faculty_name": "Dr.P.Chandramohan",
+          "lecture_hours": 0,
+          "practical_hours": 3
+        }
+      ],
+      "MT19712": [
+        {
+          "staff_code": "ME231",
+          "faculty_name": "Nareshbabu Gajendran",
+          "lecture_hours": 0,
+          "practical_hours": 3
+        }
+      ],
+      "MT19713": [
+        {
+          "staff_code": "ME256",
+          "faculty_name": "Dr Ramesh Shanmugam",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "MT19721": [
+        {
+          "staff_code": "ME35",
+          "faculty_name": "Santhanam V",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    }
+  },
+  "Mechanical Engineering": {
+    "Semester 7": {
+      "ME19701": [
+        {
+          "staff_code": "ME183",
+          "faculty_name": "Santhanakrishnan Mamallan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME147",
+          "faculty_name": "Dr. Chandrasekar P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME259",
+          "faculty_name": "Ramkumar S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME19702": [
+        {
+          "staff_code": "ME249",
+          "faculty_name": "S Venkat Prasat",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME220",
+          "faculty_name": "R.Dhanaraj",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME102",
+          "faculty_name": "S. Panneer Selvan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME19741": [
+        {
+          "staff_code": "ME209",
+          "faculty_name": "Dr.A.Paramasivam",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME203",
+          "faculty_name": "Aruna R",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME157",
+          "faculty_name": "Arun Prakash N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "ME19B18": [
+        {
+          "staff_code": "ME209",
+          "faculty_name": "Dr.A.Paramasivam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME19E19": [
+        {
+          "staff_code": "ME199",
+          "faculty_name": "Dr.S.Dhandapani",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME19D17": [
+        {
+          "staff_code": "ME234",
+          "faculty_name": "Dr. S Senthil Murugan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME19711": [
+        {
+          "staff_code": "ME253",
+          "faculty_name": "Dr S Baskar",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "ME253",
+            "assist_name": "Dr S Baskar"
+          }
+        },
+        {
+          "staff_code": "ME188",
+          "faculty_name": "C. Devanathan",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "ME188",
+            "assist_name": "C. Devanathan"
+          }
+        },
+        {
+          "staff_code": "ME220",
+          "faculty_name": "R.Dhanaraj",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "ME220",
+            "assist_name": "R.Dhanaraj"
+          }
+        }
+      ],
+      "ME19712": [
+        {
+          "staff_code": "ME226",
+          "faculty_name": "Dr. S. Sekar",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME234",
+          "faculty_name": "Dr. S Senthil Murugan",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME260",
+          "faculty_name": "Ramesh G",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 5": {
+      "GE23511": [
+        {
+          "staff_code": "ME221",
+          "faculty_name": "Rajesh Kumar B",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME249",
+          "faculty_name": "S Venkat Prasat",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME23511": [
+        {
+          "staff_code": "ME31",
+          "faculty_name": "Venkateshwaran N",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME253",
+          "faculty_name": "Dr S Baskar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME23521": [
+        {
+          "staff_code": "ME184",
+          "faculty_name": "Loganathan.K",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "ME150",
+          "faculty_name": "Dr.S.Arulmurugan",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "ME23531": [
+        {
+          "staff_code": "ME147",
+          "faculty_name": "Dr. Chandrasekar P",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME210",
+          "faculty_name": "Dr.S.Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "ME23532": [
+        {
+          "staff_code": "ME188",
+          "faculty_name": "C. Devanathan",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME214",
+          "faculty_name": "K.Vigneshwaran",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "ME23G11": [
+        {
+          "staff_code": "ME177",
+          "faculty_name": "Ct.Muthiah",
+          "lecture_hours": 0,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME223",
+          "faculty_name": "Parthiban.N",
+          "lecture_hours": 0,
+          "practical_hours": 0
+        }
+      ],
+      "ME23G12": [
+        {
+          "staff_code": "ME241",
+          "faculty_name": "Ragavendiran. R",
+          "lecture_hours": 0,
+          "practical_hours": 0
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "ME203",
+          "faculty_name": "Aruna R",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME241",
+          "faculty_name": "Ragavendiran. R",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 3": {
+      "ME23311": [
+        {
+          "staff_code": "ME226",
+          "faculty_name": "Dr. S. Sekar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME186",
+          "faculty_name": "P T Dineshkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME23312": [
+        {
+          "staff_code": "ME32",
+          "faculty_name": "Dr. A. Rajkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME215",
+          "faculty_name": "M.S.Natarajan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME23313": [
+        {
+          "staff_code": "ME150",
+          "faculty_name": "Dr.S.Arulmurugan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME184",
+          "faculty_name": "Loganathan.K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ME23321": [
+        {
+          "staff_code": "ME199",
+          "faculty_name": "Dr.S.Dhandapani",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME102",
+          "faculty_name": "S. Panneer Selvan",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "ME23331": [
+        {
+          "staff_code": "ME163",
+          "faculty_name": "Hariram S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "ME171",
+          "faculty_name": "P.Arumugam",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "MA23331": [
+        {
+          "staff_code": "MA137",
+          "faculty_name": "Vikram S T",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "MA131",
+          "faculty_name": "Dr.V.Bharathi",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "ME146",
+          "faculty_name": "Vinoth Babu N",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME146",
+            "assist_name": "Vinoth Babu N"
+          }
+        },
+        {
+          "staff_code": "ME186",
+          "faculty_name": "P T Dineshkumar",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME186",
+            "assist_name": "P T Dineshkumar"
+          }
+        }
+      ]
+    }
+  },
+  "Food Technology": {
+    "Semester 3": {
+      "FT23301": [
+        {
+          "staff_code": "FT23",
+          "faculty_name": "Anand R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23305": [
+        {
+          "staff_code": "FT10",
+          "faculty_name": "Kulastic Jassy A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23311": [
+        {
+          "staff_code": "FT23",
+          "faculty_name": "Anand R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT23",
+            "assist_name": "Anand R"
+          }
+        }
+      ],
+      "FT23302": [
+        {
+          "staff_code": "FT08",
+          "faculty_name": "Aruthra Devi G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23303": [
+        {
+          "staff_code": "ME210",
+          "faculty_name": "Dr.S.Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "ME245",
+          "faculty_name": "L S Tamizhselvan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23304": [
+        {
+          "staff_code": "FT16",
+          "faculty_name": "Dr. P. Bharathi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23312": [
+        {
+          "staff_code": "FT08",
+          "faculty_name": "Aruthra Devi G",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT08",
+            "assist_name": "Aruthra Devi G"
+          }
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "MA150",
+          "faculty_name": "Chitra Rameshbabu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "FT23501": [
+        {
+          "staff_code": "FT26",
+          "faculty_name": "Divyashree J S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23503": [
+        {
+          "staff_code": "FT16",
+          "faculty_name": "Dr. P. Bharathi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT23511": [
+        {
+          "staff_code": "FT10",
+          "faculty_name": "Kulastic Jassy A",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT10",
+            "assist_name": "Kulastic Jassy A"
+          }
+        }
+      ],
+      "FT23512": [
+        {
+          "staff_code": "FT09",
+          "faculty_name": "Dr. Niveadhitha S",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT09",
+            "assist_name": "Dr. Niveadhitha S"
+          }
+        },
+        {
+          "staff_code": "FT25",
+          "faculty_name": "Nithya Bala Sundari S",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "FT23502": [
+        {
+          "staff_code": "FT25",
+          "faculty_name": "Nithya Bala Sundari S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19704": [
+        {
+          "staff_code": "FT10",
+          "faculty_name": "Kulastic Jassy A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19711": [
+        {
+          "staff_code": "FT12",
+          "faculty_name": "Ms.A.Srimagal",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT12",
+            "assist_name": "Ms.A.Srimagal"
+          }
+        }
+      ],
+      "FT19713": [
+        {
+          "staff_code": "HOD-FOOD-TECH",
+          "faculty_name": "HOD FOOD TECH",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ],
+      "NPTEL": [
+        {
+          "staff_code": "BT159",
+          "faculty_name": "Priyadarshini S R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "PE I": [
+        {
+          "staff_code": "FT19",
+          "faculty_name": "Dr.V.Sudhakar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 6": {
+      "FT19701": [
+        {
+          "staff_code": "FT12",
+          "faculty_name": "Ms.A.Srimagal",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19703": [
+        {
+          "staff_code": "FT19",
+          "faculty_name": "Dr.V.Sudhakar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19712": [
+        {
+          "staff_code": "BT159",
+          "faculty_name": "Priyadarshini S R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT159",
+            "assist_name": "Priyadarshini S R"
+          }
+        }
+      ]
+    },
+    "Semester 7": {
+      "FT19702": [
+        {
+          "staff_code": "BT159",
+          "faculty_name": "Priyadarshini S R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19705": [
+        {
+          "staff_code": "HOD-FOOD-TECH",
+          "faculty_name": "HOD FOOD TECH",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "FT19714": [
+        {
+          "staff_code": "FT23",
+          "faculty_name": "Anand R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "FT23",
+            "assist_name": "Anand R"
+          }
+        }
+      ],
+      "FT19P79": [
+        {
+          "staff_code": "FT09",
+          "faculty_name": "Dr. Niveadhitha S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "NPTEL IV Year": [
+        {
+          "staff_code": "FT08",
+          "faculty_name": "Aruthra Devi G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    }
+  },
+  "Electronics & Communication Engineering": {
+    "Semester 3": {
+      "EC23311": [
+        {
+          "staff_code": "EC207",
+          "faculty_name": "G Loganathan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE98",
+          "faculty_name": "Dr.T.Mariammal",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC163",
+          "faculty_name": "Karthi J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC67",
+          "faculty_name": "Dr.V.S.Selvakumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC209",
+          "faculty_name": "Kumaran N",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC223",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23312": [
+        {
+          "staff_code": "EC160",
+          "faculty_name": "Jhanani Shree U",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC114",
+          "faculty_name": "Dr. Sathish M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC200",
+          "faculty_name": "M.Brenda",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC149",
+          "faculty_name": "Anitha Mary M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC201",
+          "faculty_name": "S.Priyanka Devi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC217",
+          "faculty_name": "Indhu Bala B",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23313": [
+        {
+          "staff_code": "EC211",
+          "faculty_name": "Jayanthi D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC215",
+          "faculty_name": "Sathiyavathi S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC214",
+          "faculty_name": "S R Balaji",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC149",
+          "faculty_name": "Anitha Mary M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC167",
+          "faculty_name": "Asokan V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC177",
+          "faculty_name": "Tamilarasi M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23321": [
+        {
+          "staff_code": "EC149",
+          "faculty_name": "Anitha Mary M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC149",
+            "assist_name": "Anitha Mary M"
+          }
+        },
+        {
+          "staff_code": "EC163",
+          "faculty_name": "Karthi J",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC163",
+            "assist_name": "Karthi J"
+          }
+        },
+        {
+          "staff_code": "EC167",
+          "faculty_name": "Asokan V",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC167",
+            "assist_name": "Asokan V"
+          }
+        },
+        {
+          "staff_code": "EC177",
+          "faculty_name": "Tamilarasi M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC177",
+            "assist_name": "Tamilarasi M"
+          }
+        },
+        {
+          "staff_code": "EC207",
+          "faculty_name": "G Loganathan",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC207",
+            "assist_name": "G Loganathan"
+          }
+        },
+        {
+          "staff_code": "EC163",
+          "faculty_name": "Karthi J",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC163",
+            "assist_name": "Karthi J"
+          }
+        },
+        {
+          "staff_code": "EC186",
+          "faculty_name": "Yogalakshmi.V",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "CS23336": [
+        {
+          "staff_code": "EC143",
+          "faculty_name": "Gururaj D",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC143",
+            "assist_name": "Gururaj D"
+          }
+        },
+        {
+          "staff_code": "EC186",
+          "faculty_name": "Yogalakshmi.V",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC186",
+            "assist_name": "Yogalakshmi.V"
+          }
+        },
+        {
+          "staff_code": "EC162",
+          "faculty_name": "Benazir Begam R",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC162",
+            "assist_name": "Benazir Begam R"
+          }
+        },
+        {
+          "staff_code": "EC179",
+          "faculty_name": "Sushma S Jagtap",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC179",
+            "assist_name": "Sushma S Jagtap"
+          }
+        },
+        {
+          "staff_code": "EC185",
+          "faculty_name": "Murali Krishna K",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC185",
+            "assist_name": "Murali Krishna K"
+          }
+        },
+        {
+          "staff_code": "EC197",
+          "faculty_name": "Ms. Indhumathi G",
+          "lecture_hours": 1,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC197",
+            "assist_name": "Ms. Indhumathi G"
+          }
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA08",
+          "faculty_name": "Dr.V.Lakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA134",
+          "faculty_name": "Ponmana Selvan Arumugam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA136",
+          "faculty_name": "Sathiragavan M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA148",
+          "faculty_name": "Vinod Kumar R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA118",
+          "faculty_name": "C.Shanthini",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA144",
+          "faculty_name": "Ramalakshmi K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EN81",
+          "faculty_name": "Malathy G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "EC23511": [
+        {
+          "staff_code": "EC04",
+          "faculty_name": "B.Thilakavathi",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC134",
+          "faculty_name": "Radhamani .V",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC130",
+          "faculty_name": "Dr B Priya",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC215",
+          "faculty_name": "Sathiyavathi S",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "EC23512": [
+        {
+          "staff_code": "EC101",
+          "faculty_name": "Dr. T. Manikandan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC47",
+          "faculty_name": "Dr.S.Chitra",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC192",
+          "faculty_name": "S Sudharsan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC171",
+          "faculty_name": "T. Helan Vidhya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23521": [
+        {
+          "staff_code": "EC197",
+          "faculty_name": "Ms. Indhumathi G",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC197",
+            "assist_name": "Ms. Indhumathi G"
+          }
+        },
+        {
+          "staff_code": "EC185",
+          "faculty_name": "Murali Krishna K",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC185",
+            "assist_name": "Murali Krishna K"
+          }
+        },
+        {
+          "staff_code": "EC149",
+          "faculty_name": "Anitha Mary M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC149",
+            "assist_name": "Anitha Mary M"
+          }
+        },
+        {
+          "staff_code": "EC162",
+          "faculty_name": "Benazir Begam R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC162",
+            "assist_name": "Benazir Begam R"
+          }
+        }
+      ],
+      "EC23522": [
+        {
+          "staff_code": "EC210",
+          "faculty_name": "Senthilraja B",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC163",
+          "faculty_name": "Karthi J",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC217",
+          "faculty_name": "Indhu Bala B",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC207",
+          "faculty_name": "G Loganathan",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "EC23531": [
+        {
+          "staff_code": "EC143",
+          "faculty_name": "Gururaj D",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC134",
+          "faculty_name": "Radhamani .V",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC167",
+          "faculty_name": "Asokan V",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC192",
+          "faculty_name": "S Sudharsan",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "EC23A11": [
+        {
+          "staff_code": "EC185",
+          "faculty_name": "Murali Krishna K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC04",
+          "faculty_name": "B.Thilakavathi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23B11": [
+        {
+          "staff_code": "EC34",
+          "faculty_name": "Dr. A. Asha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC101",
+          "faculty_name": "Dr. T. Manikandan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC204",
+          "faculty_name": "M. Latha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC197",
+          "faculty_name": "Ms. Indhumathi G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23E11": [
+        {
+          "staff_code": "EC67",
+          "faculty_name": "Dr.V.S.Selvakumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC216",
+          "faculty_name": "R Jeevani",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "EC179",
+          "faculty_name": "Sushma S Jagtap",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC143",
+          "faculty_name": "Gururaj D",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC160",
+          "faculty_name": "Jhanani Shree U",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EC172",
+          "faculty_name": "Shanmuga Priya P",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 7": {
+      "EC19701": [
+        {
+          "staff_code": "EC121",
+          "faculty_name": "Shaik Thasleem Bhanu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC175",
+          "faculty_name": "Sasirekha D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC212",
+          "faculty_name": "Nirmala D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC114",
+          "faculty_name": "Dr. Sathish M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC19702": [
+        {
+          "staff_code": "EC190",
+          "faculty_name": "Saranya G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC179",
+          "faculty_name": "Sushma S Jagtap",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC172",
+          "faculty_name": "Shanmuga Priya P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC198",
+          "faculty_name": "Dr.S.V.Vinodhini",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC19703": [
+        {
+          "staff_code": "EC130",
+          "faculty_name": "Dr B Priya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC210",
+          "faculty_name": "Senthilraja B",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC135",
+          "faculty_name": "Dr. Saranya J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC175",
+          "faculty_name": "Sasirekha D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC19P74": [
+        {
+          "staff_code": "EC173",
+          "faculty_name": "Dr.L.Bhagyalakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC47",
+          "faculty_name": "Dr.S.Chitra",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC19P76": [
+        {
+          "staff_code": "EC34",
+          "faculty_name": "Dr. A. Asha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC162",
+          "faculty_name": "Benazir Begam R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC19711": [
+        {
+          "staff_code": "EC190",
+          "faculty_name": "Saranya G",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC190",
+            "assist_name": "Saranya G"
+          }
+        },
+        {
+          "staff_code": "EC135",
+          "faculty_name": "Dr. Saranya J",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC135",
+            "assist_name": "Dr. Saranya J"
+          }
+        },
+        {
+          "staff_code": "EC210",
+          "faculty_name": "Senthilraja B",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC210",
+            "assist_name": "Senthilraja B"
+          }
+        },
+        {
+          "staff_code": "EC190",
+          "faculty_name": "Saranya G",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC190",
+            "assist_name": "Saranya G"
+          }
+        }
+      ],
+      "EC19712": [
+        {
+          "staff_code": "EC121",
+          "faculty_name": "Shaik Thasleem Bhanu",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC121",
+            "assist_name": "Shaik Thasleem Bhanu"
+          }
+        },
+        {
+          "staff_code": "EC175",
+          "faculty_name": "Sasirekha D",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC175",
+            "assist_name": "Sasirekha D"
+          }
+        },
+        {
+          "staff_code": "EC212",
+          "faculty_name": "Nirmala D",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC212",
+            "assist_name": "Nirmala D"
+          }
+        },
+        {
+          "staff_code": "EC175",
+          "faculty_name": "Sasirekha D",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "EC175",
+            "assist_name": "Sasirekha D"
+          }
+        }
+      ]
+    }
+  },
+  "Electrical & Electronics Engineering": {
+    "Semester 3": {
+      "EE23311": [
+        {
+          "staff_code": "EE03",
+          "faculty_name": "Dr. V. Geetha Priya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE78",
+          "faculty_name": "Anto Sheeba J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23312": [
+        {
+          "staff_code": "EE56",
+          "faculty_name": "Dr A Rajalakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE52",
+          "faculty_name": "A.Sangari",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23313": [
+        {
+          "staff_code": "EE102",
+          "faculty_name": "Ron Carter Sb",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE138",
+          "faculty_name": "Dhandayuthapani S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23314": [
+        {
+          "staff_code": "EE10",
+          "faculty_name": "Dr.Alice Hepzibah.A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE133",
+          "faculty_name": "Dr Sridevi M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23315": [
+        {
+          "staff_code": "EE40",
+          "faculty_name": "Padmavathi R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE54",
+          "faculty_name": "Dr. A. Selvaraj",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23321": [
+        {
+          "staff_code": "EE10",
+          "faculty_name": "Dr.Alice Hepzibah.A",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE52",
+          "faculty_name": "A.Sangari",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE133",
+          "faculty_name": "Dr Sridevi M",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE78",
+          "faculty_name": "Anto Sheeba J",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA125",
+          "faculty_name": "Dr. Priya Nair",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA21",
+          "faculty_name": "V James",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23336": [
+        {
+          "staff_code": "EE60",
+          "faculty_name": "Sivamani.D",
+          "lecture_hours": 1,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "EE135",
+          "faculty_name": "Aswini A",
+          "lecture_hours": 1,
+          "practical_hours": 4
+        }
+      ],
+      "ET23311": [
+        {
+          "staff_code": "EE03",
+          "faculty_name": "Dr. V. Geetha Priya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ET23D11": [
+        {
+          "staff_code": "EE05",
+          "faculty_name": "Dr. J. Kavitha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "ET23322": [
+        {
+          "staff_code": "EE99",
+          "faculty_name": "Amutha C",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ]
+    },
+    "Semester 5": {
+      "EE23511": [
+        {
+          "staff_code": "EE77",
+          "faculty_name": "Jayashree K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE139",
+          "faculty_name": "Brindhu Kumari",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23512": [
+        {
+          "staff_code": "EE126",
+          "faculty_name": "Dr. S.Rama Reddy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE125",
+          "faculty_name": "A.Nazar Ali",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23513": [
+        {
+          "staff_code": "EE05",
+          "faculty_name": "Dr. J. Kavitha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE43",
+          "faculty_name": "Dr.R. Essaki Raj",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE23521": [
+        {
+          "staff_code": "EE48",
+          "faculty_name": "V Devi Maheswaran",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE48",
+          "faculty_name": "V Devi Maheswaran",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE138",
+          "faculty_name": "Dhandayuthapani S",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE102",
+          "faculty_name": "Ron Carter Sb",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "GE23627": [
+        {
+          "staff_code": "EE40",
+          "faculty_name": "Padmavathi R",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "EE134",
+          "faculty_name": "Kandaswamy K V",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "EE82",
+          "faculty_name": "Dr. P. R. Sivaraman",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "EE23",
+          "faculty_name": "Santhanakrishnan T",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "EE23531": [
+        {
+          "staff_code": "EE99",
+          "faculty_name": "Amutha C",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE96",
+          "faculty_name": "D Shyam",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "EE139",
+          "faculty_name": "Brindhu Kumari",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE128",
+          "faculty_name": "A Sowmiya",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "EE23B21": [
+        {
+          "staff_code": "EE59",
+          "faculty_name": "Dr. P. Thirusenthil Kumaran",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "EE59",
+            "assist_name": "Dr. P. Thirusenthil Kumaran"
+          }
+        },
+        {
+          "staff_code": "EE23",
+          "faculty_name": "Santhanakrishnan T",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "EE23",
+            "assist_name": "Santhanakrishnan T"
+          }
+        },
+        {
+          "staff_code": "EE90",
+          "faculty_name": "Ragupathy P",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "EE90",
+            "assist_name": "Ragupathy P"
+          }
+        }
+      ]
+    },
+    "Semester 7": {
+      "EE19701": [
+        {
+          "staff_code": "EE54",
+          "faculty_name": "Dr. A. Selvaraj",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE48",
+          "faculty_name": "V Devi Maheswaran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE19741": [
+        {
+          "staff_code": "EE121",
+          "faculty_name": "Dr.M.G.Umamaheswari",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "EE121",
+            "assist_name": "Dr.M.G.Umamaheswari"
+          }
+        },
+        {
+          "staff_code": "EE43",
+          "faculty_name": "Dr.R. Essaki Raj",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "EE43",
+            "assist_name": "Dr.R. Essaki Raj"
+          }
+        }
+      ],
+      "EE19742": [
+        {
+          "staff_code": "EE77",
+          "faculty_name": "Jayashree K",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "EE11",
+          "faculty_name": "Dr.R.Kalaivani",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "EE11",
+            "assist_name": "Dr.R.Kalaivani"
+          }
+        }
+      ],
+      "EE19P72": [
+        {
+          "staff_code": "EE99",
+          "faculty_name": "Amutha C",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EE112",
+          "faculty_name": "Sivakumar P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE19P73": [
+        {
+          "staff_code": "EE40",
+          "faculty_name": "Padmavathi R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EE19711": [
+        {
+          "staff_code": "EE57",
+          "faculty_name": "T. S. Saravanan",
+          "lecture_hours": 0,
+          "practical_hours": 8
+        },
+        {
+          "staff_code": "EE125",
+          "faculty_name": "A.Nazar Ali",
+          "lecture_hours": 0,
+          "practical_hours": 8
+        }
+      ]
+    }
+  },
+  "Civil Engineering": {
+    "Semester 3": {
+      "CE23311": [
+        {
+          "staff_code": "CV29",
+          "faculty_name": "S. Muthu Lakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23312": [
+        {
+          "staff_code": "CV39",
+          "faculty_name": "A.J.Jeya Arthi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23313": [
+        {
+          "staff_code": "CV67",
+          "faculty_name": "Ammaiappan.M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23321": [
+        {
+          "staff_code": "CV39",
+          "faculty_name": "A.J.Jeya Arthi",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CV39",
+          "faculty_name": "A.J.Jeya Arthi",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "CE23331": [
+        {
+          "staff_code": "CV70",
+          "faculty_name": "Yugasini S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "CV72",
+          "faculty_name": "R Madhava Perumal",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CV65",
+          "faculty_name": "M.Manoharan",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "GE23311": [
+        {
+          "staff_code": "CV19",
+          "faculty_name": "Mahamood Ul Hasan N",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "CE23511": [
+        {
+          "staff_code": "CV30",
+          "faculty_name": "Dr. S. Geetha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23512": [
+        {
+          "staff_code": "CV29",
+          "faculty_name": "S. Muthu Lakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23513": [
+        {
+          "staff_code": "CV27",
+          "faculty_name": "Dr. M. Selvakumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23521": [
+        {
+          "staff_code": "CV67",
+          "faculty_name": "Ammaiappan.M",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CV67",
+          "faculty_name": "Ammaiappan.M",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "CE23531": [
+        {
+          "staff_code": "CV19",
+          "faculty_name": "Mahamood Ul Hasan N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CV65",
+          "faculty_name": "M.Manoharan",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CE23C11": [
+        {
+          "staff_code": "CV083",
+          "faculty_name": "T Eswary Devi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE23F14": [
+        {
+          "staff_code": "CV61",
+          "faculty_name": "S Premkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE19712": [
+        {
+          "staff_code": "CV29",
+          "faculty_name": "S. Muthu Lakshmi",
+          "lecture_hours": 0,
+          "practical_hours": 6
+        }
+      ]
+    },
+    "Semester 6": {
+      "CE19701": [
+        {
+          "staff_code": "CV083",
+          "faculty_name": "T Eswary Devi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE19713": [
+        {
+          "staff_code": "CV67",
+          "faculty_name": "Ammaiappan.M",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 7": {
+      "CE19702": [
+        {
+          "staff_code": "CV61",
+          "faculty_name": "S Premkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE19P71": [
+        {
+          "staff_code": "CV81",
+          "faculty_name": "Dr.M.Uma Maguesvari",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE19P75": [
+        {
+          "staff_code": "CV72",
+          "faculty_name": "R Madhava Perumal",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CE19711": [
+        {
+          "staff_code": "CV083",
+          "faculty_name": "T Eswary Devi",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "CE19714": [
+        {
+          "staff_code": "CV61",
+          "faculty_name": "S Premkumar",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ]
+    }
+  },
+  "Chemical Engineering": {
+    "Semester 3": {
+      "CH23311": [
+        {
+          "staff_code": "CL02",
+          "faculty_name": "G Vijayaraghavan",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "CH23312": [
+        {
+          "staff_code": "BT115",
+          "faculty_name": "Dr.T.R.Sundararaman",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "CH23313": [
+        {
+          "staff_code": "CL03",
+          "faculty_name": "Ambigadevi J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH23331": [
+        {
+          "staff_code": "CL18",
+          "faculty_name": "Mangaleswari S",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CL18",
+            "assist_name": "Mangaleswari S"
+          }
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "MB75",
+          "faculty_name": "Gurunathan S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CY23334": [
+        {
+          "staff_code": "CH52",
+          "faculty_name": "Geetha Chandrasekran",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 4": {
+      "CH23411": [
+        {
+          "staff_code": "CL12",
+          "faculty_name": "Dr. Seelam Narasimha Reddy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "CH23511": [
+        {
+          "staff_code": "CL02",
+          "faculty_name": "G Vijayaraghavan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH23512": [
+        {
+          "staff_code": "CL12",
+          "faculty_name": "Dr. Seelam Narasimha Reddy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH23513": [
+        {
+          "staff_code": "CL11",
+          "faculty_name": "N Kalaiarasi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH23514": [
+        {
+          "staff_code": "CL05",
+          "faculty_name": "Dr. Mary Rosana Nt",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH23521": [
+        {
+          "staff_code": "CL11",
+          "faculty_name": "N Kalaiarasi",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "CH23A11": [
+        {
+          "staff_code": "CL15",
+          "faculty_name": "Dr. S. Sivamani",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "EC23527": [
+        {
+          "staff_code": "CL17",
+          "faculty_name": "Abhilasha Krishnamurthy",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 7": {
+      "CH23722": [
+        {
+          "staff_code": "CL15",
+          "faculty_name": "Dr. S. Sivamani",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CL15",
+            "assist_name": "Dr. S. Sivamani"
+          }
+        }
+      ],
+      "CH19701": [
+        {
+          "staff_code": "CL15",
+          "faculty_name": "Dr. S. Sivamani",
+          "lecture_hours": 3,
+          "practical_hours": 0,
+          "assistant": {
+            "assist_staff_code": "CL15",
+            "assist_name": "Dr. S. Sivamani"
+          }
+        }
+      ],
+      "CH19702": [
+        {
+          "staff_code": "CL12",
+          "faculty_name": "Dr. Seelam Narasimha Reddy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH19703": [
+        {
+          "staff_code": "CL17",
+          "faculty_name": "Abhilasha Krishnamurthy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CH19711": [
+        {
+          "staff_code": "CL05",
+          "faculty_name": "Dr. Mary Rosana Nt",
+          "lecture_hours": 0,
+          "practical_hours": 3,
+          "assistant": {
+            "assist_staff_code": "CL05",
+            "assist_name": "Dr. Mary Rosana Nt"
+          }
+        }
+      ],
+      "CH19713": [
+        {
+          "staff_code": "CL17",
+          "faculty_name": "Abhilasha Krishnamurthy",
+          "lecture_hours": 0,
+          "practical_hours": 3,
+          "assistant": {
+            "assist_staff_code": "CL17",
+            "assist_name": "Abhilasha Krishnamurthy"
+          }
+        }
+      ],
+      "CH19P71": [
+        {
+          "staff_code": "CL14",
+          "faculty_name": "Dr. Vincent Joseph Kl",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    }
+  },
+  "Biotechnology": {
+    "Semester 3": {
+      "BT23311": [
+        {
+          "staff_code": "BT125",
+          "faculty_name": "Arun Kumar S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT125",
+          "faculty_name": "Arun Kumar S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT NS-3",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23312": [
+        {
+          "staff_code": "BT179",
+          "faculty_name": "Vimala Devi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT170",
+          "faculty_name": "Divya Lakshmi. S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT170",
+          "faculty_name": "Divya Lakshmi. S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23314": [
+        {
+          "staff_code": "BT NS-4",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0,
+          "assistant": {
+            "assist_staff_code": "BT NS-4",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "BT NS-6",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT166",
+          "faculty_name": "Preethi B",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23321": [
+        {
+          "staff_code": "BT103",
+          "faculty_name": "Dr. P. Rajasekar",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "BT170",
+          "faculty_name": "Divya Lakshmi. S",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "BT NS-3",
+          "faculty_name": "Teacher",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "BT23331": [
+        {
+          "staff_code": "BT179",
+          "faculty_name": "Vimala Devi",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BT179",
+            "assist_name": "Vimala Devi"
+          }
+        },
+        {
+          "staff_code": "BT182",
+          "faculty_name": "Shanthi M",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BT182",
+            "assist_name": "Shanthi M"
+          }
+        },
+        {
+          "staff_code": "BT178",
+          "faculty_name": "Muneeswari Alias Surya S",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BT178",
+            "assist_name": "Muneeswari Alias Surya S"
+          }
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "MA72",
+          "faculty_name": "Ms. D. Rajalakshmy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA149",
+          "faculty_name": "Bharathi D",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA145",
+          "faculty_name": "Yuvashri P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23313": [
+        {
+          "staff_code": "BT180",
+          "faculty_name": "Sinduja M E",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT180",
+          "faculty_name": "Sinduja M E",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT178",
+          "faculty_name": "Muneeswari Alias Surya S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "BT23511": [
+        {
+          "staff_code": "BT85",
+          "faculty_name": "Dr.R.Anila",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT122",
+          "faculty_name": "Dr.T.Anitha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT NS-3",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23512": [
+        {
+          "staff_code": "BT156",
+          "faculty_name": "Dr. G. Carlin Geor Malar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT118",
+          "faculty_name": "Dr. Sujata Roy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT118",
+          "faculty_name": "Dr. Sujata Roy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23513": [
+        {
+          "staff_code": "BT169",
+          "faculty_name": "N.Premalatha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT171",
+          "faculty_name": "Sangeetha Gandhi S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT169",
+          "faculty_name": "N.Premalatha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23521": [
+        {
+          "staff_code": "BT85",
+          "faculty_name": "Dr.R.Anila",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT85",
+            "assist_name": "Dr.R.Anila"
+          }
+        },
+        {
+          "staff_code": "BT107",
+          "faculty_name": "Dr.M.Millicent Mabel",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT107",
+            "assist_name": "Dr.M.Millicent Mabel"
+          }
+        },
+        {
+          "staff_code": "BT122",
+          "faculty_name": "Dr.T.Anitha",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT122",
+            "assist_name": "Dr.T.Anitha"
+          }
+        }
+      ],
+      "BT23522": [
+        {
+          "staff_code": "BT156",
+          "faculty_name": "Dr. G. Carlin Geor Malar",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT156",
+            "assist_name": "Dr. G. Carlin Geor Malar"
+          }
+        },
+        {
+          "staff_code": "BT125",
+          "faculty_name": "Arun Kumar S",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT125",
+            "assist_name": "Arun Kumar S"
+          }
+        },
+        {
+          "staff_code": "BT178",
+          "faculty_name": "Muneeswari Alias Surya S",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT178",
+            "assist_name": "Muneeswari Alias Surya S"
+          }
+        }
+      ],
+      "BT23514": [
+        {
+          "staff_code": "BT33",
+          "faculty_name": "M Sankar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT109",
+          "faculty_name": "S.Thiruvengadam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT153",
+          "faculty_name": "Dr. Saravanan Periasamy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT23523": [
+        {
+          "staff_code": "BT33",
+          "faculty_name": "M Sankar",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT33",
+            "assist_name": "M Sankar"
+          }
+        },
+        {
+          "staff_code": "BT180",
+          "faculty_name": "Sinduja M E",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT180",
+            "assist_name": "Sinduja M E"
+          }
+        },
+        {
+          "staff_code": "BT153",
+          "faculty_name": "Dr. Saravanan Periasamy",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT153",
+            "assist_name": "Dr. Saravanan Periasamy"
+          }
+        }
+      ]
+    },
+    "Semester 7": {
+      "BT19701": [
+        {
+          "staff_code": "BT124",
+          "faculty_name": "Dr. K. Sathya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT171",
+          "faculty_name": "Sangeetha Gandhi S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT NS-1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19702": [
+        {
+          "staff_code": "BT168",
+          "faculty_name": "A. Arun",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT182",
+          "faculty_name": "Shanthi M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT NS-5",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19705": [
+        {
+          "staff_code": "BT123",
+          "faculty_name": "Dr.D.Haripriya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT123",
+          "faculty_name": "Dr.D.Haripriya",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT177",
+          "faculty_name": "Dr Rekha Ravindran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19P71": [
+        {
+          "staff_code": "BT181",
+          "faculty_name": "Preethy K R",
+          "lecture_hours": 3,
+          "practical_hours": 0,
+          "assistant": {
+            "assist_staff_code": "BT181",
+            "assist_name": "Preethy K R"
+          }
+        },
+        {
+          "staff_code": "BT156",
+          "faculty_name": "Dr. G. Carlin Geor Malar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19P74": [
+        {
+          "staff_code": "BT01",
+          "faculty_name": "Dr.Johanna Rajkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT114",
+          "faculty_name": "Dr.B.Vijaya Geetha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19P76": [
+        {
+          "staff_code": "BT103",
+          "faculty_name": "Dr. P. Rajasekar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BT107",
+          "faculty_name": "Dr.M.Millicent Mabel",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BT19711": [
+        {
+          "staff_code": "BT169",
+          "faculty_name": "N.Premalatha",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT169",
+            "assist_name": "N.Premalatha"
+          }
+        },
+        {
+          "staff_code": "BT171",
+          "faculty_name": "Sangeetha Gandhi S",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT171",
+            "assist_name": "Sangeetha Gandhi S"
+          }
+        },
+        {
+          "staff_code": "BT NS-1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT NS-1",
+            "assist_name": "Teacher"
+          }
+        }
+      ],
+      "BT19713": [
+        {
+          "staff_code": "BT118",
+          "faculty_name": "Dr. Sujata Roy",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT118",
+            "assist_name": "Dr. Sujata Roy"
+          }
+        },
+        {
+          "staff_code": "BT168",
+          "faculty_name": "A. Arun",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT168",
+            "assist_name": "A. Arun"
+          }
+        },
+        {
+          "staff_code": "BT177",
+          "faculty_name": "Dr Rekha Ravindran",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT177",
+            "assist_name": "Dr Rekha Ravindran"
+          }
+        }
+      ],
+      "BT19712": [
+        {
+          "staff_code": "BT182",
+          "faculty_name": "Shanthi M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT182",
+            "assist_name": "Shanthi M"
+          }
+        },
+        {
+          "staff_code": "BT173",
+          "faculty_name": "S.R.Saranya Arunkumar",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT173",
+            "assist_name": "S.R.Saranya Arunkumar"
+          }
+        },
+        {
+          "staff_code": "BT181",
+          "faculty_name": "Preethy K R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BT181",
+            "assist_name": "Preethy K R"
+          }
+        }
+      ]
+    },
+    "Semester 4": {
+      "BY23421": [
+        {
+          "staff_code": "BT103",
+          "faculty_name": "Dr. P. Rajasekar",
+          "lecture_hours": 0,
+          "practical_hours": 24,
+          "assistant": {
+            "assist_staff_code": "BT103",
+            "assist_name": "Dr. P. Rajasekar"
+          }
+        }
+      ]
+    }
+  },
+  "Biomedical Engineering": {
+    "Semester 3": {
+      "BM23311": [
+        {
+          "staff_code": "BM83",
+          "faculty_name": "Revathy P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM60",
+          "faculty_name": "Karuppathal E",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM23312": [
+        {
+          "staff_code": "BM70",
+          "faculty_name": "Subathra Y",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM83",
+          "faculty_name": "Revathy P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM23313": [
+        {
+          "staff_code": "BM22",
+          "faculty_name": "S. Sudha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM22",
+          "faculty_name": "S. Sudha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM23321": [
+        {
+          "staff_code": "BM73",
+          "faculty_name": "S.Abiramy",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM73",
+            "assist_name": "S.Abiramy"
+          }
+        },
+        {
+          "staff_code": "BM22",
+          "faculty_name": "S. Sudha",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM22",
+            "assist_name": "S. Sudha"
+          }
+        }
+      ],
+      "BM23322": [
+        {
+          "staff_code": "BM70",
+          "faculty_name": "Subathra Y",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM70",
+            "assist_name": "Subathra Y"
+          }
+        },
+        {
+          "staff_code": "BM83",
+          "faculty_name": "Revathy P",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM83",
+            "assist_name": "Revathy P"
+          }
+        }
+      ],
+      "BM23331": [
+        {
+          "staff_code": "BM66",
+          "faculty_name": "Krishnakumar S",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM66",
+            "assist_name": "Krishnakumar S"
+          }
+        },
+        {
+          "staff_code": "BM74",
+          "faculty_name": "Rubesh Kumar T",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM74",
+            "assist_name": "Rubesh Kumar T"
+          }
+        }
+      ],
+      "BM23332": [
+        {
+          "staff_code": "BM71",
+          "faculty_name": "Sankar K",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM71",
+            "assist_name": "Sankar K"
+          }
+        },
+        {
+          "staff_code": "BM82",
+          "faculty_name": "Nithyakalyani Krishnan",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM82",
+            "assist_name": "Nithyakalyani Krishnan"
+          }
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA135",
+          "faculty_name": "Charles Sagayaraj A C",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA132",
+          "faculty_name": "K Rajaannam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "BM23511": [
+        {
+          "staff_code": "BM78",
+          "faculty_name": "Jemina Asnoth Sylvia J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM23",
+          "faculty_name": "R.Premkumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM23512": [
+        {
+          "staff_code": "BM86",
+          "faculty_name": "Shanthipriya A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM78",
+          "faculty_name": "Jemina Asnoth Sylvia J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM23521": [
+        {
+          "staff_code": "BM60",
+          "faculty_name": "Karuppathal E",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM60",
+            "assist_name": "Karuppathal E"
+          }
+        },
+        {
+          "staff_code": "BM86",
+          "faculty_name": "Shanthipriya A",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM86",
+            "assist_name": "Shanthipriya A"
+          }
+        }
+      ],
+      "BM23531": [
+        {
+          "staff_code": "BM79",
+          "faculty_name": "Senthilkumar P",
+          "lecture_hours": 1,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM79",
+            "assist_name": "Senthilkumar P"
+          }
+        },
+        {
+          "staff_code": "BM28",
+          "faculty_name": "Dr. R. Kalpana",
+          "lecture_hours": 1,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM28",
+            "assist_name": "Dr. R. Kalpana"
+          }
+        }
+      ],
+      "BM23532": [
+        {
+          "staff_code": "BM26",
+          "faculty_name": "Muralidharan C",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM26",
+            "assist_name": "Muralidharan C"
+          }
+        },
+        {
+          "staff_code": "BM78",
+          "faculty_name": "Ramachandran.R",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM78",
+            "assist_name": "Ramachandran.R"
+          }
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "BM78",
+          "faculty_name": "Ramachandran.R",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM78",
+            "assist_name": "Ramachandran.R"
+          }
+        },
+        {
+          "staff_code": "BM86",
+          "faculty_name": "Shanthipriya A",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "BM86",
+            "assist_name": "Shanthipriya A"
+          }
+        }
+      ],
+      "BM23C11": [
+        {
+          "staff_code": "BM81",
+          "faculty_name": "Glory Precious J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "24NCS08": [
+        {
+          "staff_code": "BM72",
+          "faculty_name": "Prathisha M",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM82",
+          "faculty_name": "Nithyakalyani Krishnan",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "BM66",
+          "faculty_name": "Krishnakumar S",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "BM26",
+          "faculty_name": "Muralidharan C",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 7": {
+      "BM19701": [
+        {
+          "staff_code": "BM81",
+          "faculty_name": "Glory Precious J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM59",
+          "faculty_name": "Dr.M.C.Jobin Christ",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "BM19741": [
+        {
+          "staff_code": "BM61",
+          "faculty_name": "Dr.S.Rajkumar",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "BM61",
+            "assist_name": "Dr.S.Rajkumar"
+          }
+        },
+        {
+          "staff_code": "BM35",
+          "faculty_name": "Dr. N.Padmasini",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "BM19711": [
+        {
+          "staff_code": "BM61",
+          "faculty_name": "Dr.S.Rajkumar",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "BM61",
+            "assist_name": "Dr.S.Rajkumar"
+          }
+        },
+        {
+          "staff_code": "BM59",
+          "faculty_name": "Dr.M.C.Jobin Christ",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "BM59",
+            "assist_name": "Dr.M.C.Jobin Christ"
+          }
+        }
+      ],
+      "BM19712": [
+        {
+          "staff_code": "BM23",
+          "faculty_name": "R.Premkumar",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "BM22",
+          "faculty_name": "S. Sudha",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "BM19713": [
+        {
+          "staff_code": "BM82",
+          "faculty_name": "Nithyakalyani Krishnan",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "BM82",
+            "assist_name": "Nithyakalyani Krishnan"
+          }
+        },
+        {
+          "staff_code": "BM81",
+          "faculty_name": "Glory Precious J",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "BM81",
+            "assist_name": "Glory Precious J"
+          }
+        }
+      ],
+      "BM19721": [
+        {
+          "staff_code": "BM82",
+          "faculty_name": "Nithyakalyani Krishnan",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM71",
+          "faculty_name": "Sankar K",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ],
+      "BM19P72": [
+        {
+          "staff_code": "BM72",
+          "faculty_name": "Prathisha M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM66",
+          "faculty_name": "Krishnakumar S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "24NBM01": [
+        {
+          "staff_code": "BM83",
+          "faculty_name": "Revathy P",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "BM73",
+          "faculty_name": "S.Abiramy",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ]
+    }
+  },
+  "Automobile Engineering": {
+    "Semester 3": {
+      "AT23321": [
+        {
+          "staff_code": "AU46",
+          "faculty_name": "Zahir Hussain M",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "AT23331": [
+        {
+          "staff_code": "HOD-AUTO",
+          "faculty_name": "HOD AUTO",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU49",
+            "assist_name": "R. Edwin Joseph"
+          }
+        }
+      ],
+      "AT23332": [
+        {
+          "staff_code": "ME232",
+          "faculty_name": "B.Mullai Sudaroli",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AT23333": [
+        {
+          "staff_code": "AU50",
+          "faculty_name": "Selvaraju P N",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU50",
+            "assist_name": "Selvaraju P N"
+          }
+        }
+      ],
+      "AT23334": [
+        {
+          "staff_code": "AU51",
+          "faculty_name": "R.Karthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU51",
+            "assist_name": "R.Karthikeyan"
+          }
+        }
+      ],
+      "MA23331": [
+        {
+          "staff_code": "MA112",
+          "faculty_name": "Rajkumar V",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 5": {
+      "AT23521": [
+        {
+          "staff_code": "AU20",
+          "faculty_name": "Mohanraj K",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "AT23522": [
+        {
+          "staff_code": "AU46",
+          "faculty_name": "Zahir Hussain M",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU46",
+            "assist_name": "Zahir Hussain M"
+          }
+        }
+      ],
+      "AT23531": [
+        {
+          "staff_code": "AU46",
+          "faculty_name": "Zahir Hussain M",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU46",
+            "assist_name": "Zahir Hussain M"
+          }
+        }
+      ],
+      "AT23532": [
+        {
+          "staff_code": "AU35",
+          "faculty_name": "Pavan.P",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU35",
+            "assist_name": "Pavan.P"
+          }
+        }
+      ],
+      "GE23311": [
+        {
+          "staff_code": "AU51",
+          "faculty_name": "R.Karthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AT23G12": [
+        {
+          "staff_code": "AU20",
+          "faculty_name": "Mohanraj K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AT23511": [
+        {
+          "staff_code": "AU49",
+          "faculty_name": "R. Edwin Joseph",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "AT19701": [
+        {
+          "staff_code": "AU20",
+          "faculty_name": "Mohanraj K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AT19702": [
+        {
+          "staff_code": "AU46",
+          "faculty_name": "Zahir Hussain M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AT19P73": [
+        {
+          "staff_code": "AU11",
+          "faculty_name": "R.Anbalagan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AT19722": [
+        {
+          "staff_code": "AU49",
+          "faculty_name": "R. Edwin Joseph",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU49",
+            "assist_name": "R. Edwin Joseph"
+          }
+        }
+      ],
+      "AT19723": [
+        {
+          "staff_code": "AU11",
+          "faculty_name": "R.Anbalagan",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "AT19711": [
+        {
+          "staff_code": "AU35",
+          "faculty_name": "Pavan.P",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "AU35",
+            "assist_name": "Pavan.P"
+          }
+        }
+      ],
+      "AT19713": [
+        {
+          "staff_code": "AU20",
+          "faculty_name": "Mohanraj K",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "AU20",
+            "assist_name": "Mohanraj K"
+          }
+        }
+      ],
+      "AT19721": [
+        {
+          "staff_code": "AU11",
+          "faculty_name": "R.Anbalagan",
+          "lecture_hours": 0,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "AU11",
+            "assist_name": "R.Anbalagan"
+          }
+        }
+      ]
+    }
+  },
+  "Aeronautical Engineering": {
+    "Semester 3": {
+      "AE23321": [
+        {
+          "staff_code": "AE72",
+          "faculty_name": "D.L. Vasthadu Vasu Kannah",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "AE23331": [
+        {
+          "staff_code": "AE67",
+          "faculty_name": "Shebaz Ahmed J P",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CS23422": [
+        {
+          "staff_code": "AE79",
+          "faculty_name": "S Harish",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "MA23311": [
+        {
+          "staff_code": "MA143",
+          "faculty_name": "Santhiya S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AE23333": [
+        {
+          "staff_code": "IT213",
+          "faculty_name": "Harikrishnan Ravichandran",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AE23332": [
+        {
+          "staff_code": "AE76",
+          "faculty_name": "Pradesh S",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "NPTEL": [
+        {
+          "staff_code": "AE60",
+          "faculty_name": "Balaji Rajendran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AV23311": [
+        {
+          "staff_code": "AE75",
+          "faculty_name": "Nithiyanantham K K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AV23312": [
+        {
+          "staff_code": "ME227",
+          "faculty_name": "Dr.M.Balakarthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AV23C15": [
+        {
+          "staff_code": "NS8",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AV23321": [
+        {
+          "staff_code": "AE78",
+          "faculty_name": "B Kathiravan",
+          "lecture_hours": 0,
+          "practical_hours": 20,
+          "assistant": {
+            "assist_staff_code": "AE78",
+            "assist_name": "B Kathiravan"
+          }
+        }
+      ]
+    },
+    "Semester 5": {
+      "AE23511": [
+        {
+          "staff_code": "HOD-AERO",
+          "faculty_name": "HOD AERO",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "AE23512": [
+        {
+          "staff_code": "AE49",
+          "faculty_name": "Surendra Bogadi",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "AE23513": [
+        {
+          "staff_code": "AE78",
+          "faculty_name": "B Kathiravan",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "AE23531": [
+        {
+          "staff_code": "AE60",
+          "faculty_name": "Balaji Rajendran",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "GE23521": [
+        {
+          "staff_code": "AE67",
+          "faculty_name": "Shebaz Ahmed J P",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "AE23D11": [
+        {
+          "staff_code": "AE73",
+          "faculty_name": "Prem Anand T P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "Nptel": [
+        {
+          "staff_code": "AE67",
+          "faculty_name": "Shebaz Ahmed J P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 6": {
+      "AE23521": [
+        {
+          "staff_code": "AE72",
+          "faculty_name": "D.L. Vasthadu Vasu Kannah",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ]
+    },
+    "Semester 7": {
+      "AE19701": [
+        {
+          "staff_code": "AE79",
+          "faculty_name": "S Harish",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AE19711": [
+        {
+          "staff_code": "AE49",
+          "faculty_name": "Surendra Bogadi",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "AE19A11": [
+        {
+          "staff_code": "AE49",
+          "faculty_name": "Surendra Bogadi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AE19P72": [
+        {
+          "staff_code": "AE60",
+          "faculty_name": "Balaji Rajendran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AE19P74": [
+        {
+          "staff_code": "AE78",
+          "faculty_name": "B Kathiravan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AE19741": [
+        {
+          "staff_code": "AE75",
+          "faculty_name": "Nithiyanantham K K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "AE19713": [
+        {
+          "staff_code": "AE73",
+          "faculty_name": "Prem Anand T P",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "AE19712": [
+        {
+          "staff_code": "AE79",
+          "faculty_name": "S Harish",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ],
+      "AE19511": [
+        {
+          "staff_code": "AE60",
+          "faculty_name": "Balaji Rajendran",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ]
+    }
+  }
+,
+  "Artificial Intelligence & Data Science": {
+    "Semester 5": {
+      "AD23531": [
+        {
+          "staff_code": "CS49",
+          "faculty_name": "Suresh Kumar S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT245",
+          "faculty_name": "Selvarani K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "NF5",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "AD23532": [
+        {
+          "staff_code": "IT257",
+          "faculty_name": "Beulah A",
+          "lecture_hours": 2,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT224",
+          "faculty_name": "Jayasri Archana Devi P",
+          "lecture_hours": 2,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT237",
+          "faculty_name": "Saravana Kumar V",
+          "lecture_hours": 2,
+          "practical_hours": 4
+        }
+      ],
+      "AD19751": [
+        {
+          "staff_code": "IT273",
+          "faculty_name": "R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23532": [
+        {
+          "staff_code": "IT269",
+          "faculty_name": "V",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NF8",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "AI23531": [
+        {
+          "staff_code": "IT224",
+          "faculty_name": "Jayasri Archana Devi P",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT270",
+          "faculty_name": "S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT274",
+          "faculty_name": "R",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "IT23A11": [
+        {
+          "staff_code": "IT256",
+          "faculty_name": "Sampath Kumar V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT256",
+          "faculty_name": "Sampath Kumar V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "AD19P74": [
+        {
+          "staff_code": "IT216",
+          "faculty_name": "S Renuka Devi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AD19P72": [
+        {
+          "staff_code": "IT254",
+          "faculty_name": "Srinivasan Thaigarajan",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AI19741": [
+        {
+          "staff_code": "IT217",
+          "faculty_name": "Thiyagarajan G",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 3": {
+      "MA23313": [
+        {
+          "staff_code": "MA104",
+          "faculty_name": "S.Vasanthi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA130",
+          "faculty_name": "Anbarasi.V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA129",
+          "faculty_name": "M. Subha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA141",
+          "faculty_name": "Thilagavathi R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA116",
+          "faculty_name": "V. Shakila",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23331": [
+        {
+          "staff_code": "IT269",
+          "faculty_name": "V",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "IT268",
+          "faculty_name": "E.K",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NF1",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NF6",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NF7",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT273",
+          "faculty_name": "R",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT274",
+          "faculty_name": "R",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "CS66",
+          "faculty_name": "Sorna Shanthi D",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS66",
+            "assist_name": "Sorna Shanthi D"
+          }
+        }
+      ],
+      "AI23331": [
+        {
+          "staff_code": "IT257",
+          "faculty_name": "Beulah A",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT228",
+          "faculty_name": "Nirmala Anandhi Y",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT265",
+          "faculty_name": "Aswin Jeba Mahir A",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT270",
+          "faculty_name": "S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT271",
+          "faculty_name": "A",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    }
+  },
+  "Artificial Intelligence & Machine Learning": {
+    "Semester 3": {
+      "AI23331": [
+        {
+          "staff_code": "AU35",
+          "faculty_name": "Magesh M P",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT242",
+          "faculty_name": "Priya M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT252",
+          "faculty_name": "J Jasmine Gabriel",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "AIML-NS6",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "IT227",
+          "faculty_name": "Sree Subha S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT178",
+          "faculty_name": "Sowmia K R",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code" : "AIML-NS4",
+          "faculty_name": "NS4",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "AIML-NS5",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "CS23331": [
+        {
+          "staff_code": "IT264",
+          "faculty_name": "Raja Ramamoorthi",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT225",
+          "faculty_name": "Divya S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT264",
+          "faculty_name": "Raja Ramamoorthi",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "AIML-NS1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "IT232",
+          "faculty_name": "Kumaran U",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT215",
+          "faculty_name": "R.Anitha",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS266",
+          "faculty_name": "Saranya S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "AIML-NS2",
+          "faculty_name": "NS2",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "MA23313": [
+        {
+          "staff_code": "MA104",
+          "faculty_name": "S.Vasanthi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA130",
+          "faculty_name": "Anbarasi.V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA116",
+          "faculty_name": "V. Shakila",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA129",
+          "faculty_name": "M. Subha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EN84",
+          "faculty_name": "Manasa K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "MC23112": [
+        {
+          "staff_code": "PH53",
+          "faculty_name": "J.Venkatamuthukumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "PH49",
+          "faculty_name": "Dr.P Vasudevan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "PH34",
+          "faculty_name": "M Sankar Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "PH61",
+          "faculty_name": "Mahesh R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "AI23521": [
+        {
+          "staff_code": "CS266",
+          "faculty_name": "Saranya S",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "AIML-NS3",
+          "faculty_name": "NS3",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "AIML-NS4",
+          "faculty_name": "NS4",
+          "lecture_hours": 0,
+          "practical_hours": 2
+        }
+      ],
+      "AI23531": [
+        {
+          "staff_code": "IT250",
+          "faculty_name": "Raju K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT212",
+          "faculty_name": "V Akshaya",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT225",
+          "faculty_name": "Divya S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "AI23A37": [
+        {
+          "staff_code": "IT195",
+          "faculty_name": "Sangeetha K",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT287",
+          "faculty_name": "Srinivasan T",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CS23532": [
+        {
+          "staff_code": "IT236",
+          "faculty_name": "N M Balamurugan",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS175",
+          "faculty_name": "Vijay K",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT261",
+          "faculty_name": "Soundarya M",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "AI23512": [
+        {
+          "staff_code": "IT178",
+          "faculty_name": "Sowmia K R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT227",
+          "faculty_name": "Sree Subha S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT246",
+          "faculty_name": "Rajasekaran Annamalai",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AI23A35": [
+        {
+          "staff_code": "AIML-NS1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AD23632": [
+        {
+          "staff_code": "IT252",
+          "faculty_name": "J Jasmine Gabriel",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT242",
+          "faculty_name": "Priya M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT246",
+          "faculty_name": "Rajasekaran Annamalai",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 7": {
+      "AI19P75": [
+        {
+          "staff_code": "IT232",
+          "faculty_name": "Kumaran U",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "AU35",
+          "faculty_name": "Magesh M P",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AI19P76": [
+        {
+          "staff_code": "IT250",
+          "faculty_name": "Raju K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AI19P71": [
+        {
+          "staff_code": "CS09",
+          "faculty_name": "Dr. S. Poonkuzhali",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS09",
+            "assist_name": "Dr. S. Poonkuzhali"
+          }
+        },
+        {
+          "staff_code": "CS175",
+          "faculty_name": "Vijay K",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS09",
+          "faculty_name": "Dr. S. Poonkuzhali",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "AI19701": [
+        {
+          "staff_code": "IT236",
+          "faculty_name": "N M Balamurugan",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT215",
+          "faculty_name": "R.Anitha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT261",
+          "faculty_name": "Soundarya M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "AI19702": [
+        {
+          "staff_code": "AIML-NS6",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "AIML-NS7",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "AIML-NS8",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ],
+      "AI19741": [
+        {
+          "staff_code": "CS295",
+          "faculty_name": "AIML",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS295",
+            "assist_name": "AIML"
+          }
+        },
+        {
+          "staff_code": "IT195",
+          "faculty_name": "Sangeetha K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT212",
+          "faculty_name": "V Akshaya",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    }
+  },
+  "Computer Science & Business Systems": {
+    "Semester 5": {
+      "BA23511": [
+        {
+          "staff_code": "MB89",
+          "faculty_name": "Ramanathan V K",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MB89",
+          "faculty_name": "Ramanathan V K",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "CB23521": [
+        {
+          "staff_code": "CS323",
+          "faculty_name": "Janani U",
+          "lecture_hours": 1,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS323",
+          "faculty_name": "Janani U",
+          "lecture_hours": 1,
+          "practical_hours": 2
+        }
+      ],
+      "CB23531": [
+        {
+          "staff_code": "CS287",
+          "faculty_name": "Vishnu Kumar A",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS250",
+          "faculty_name": "S.Bakiyalakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CB23532": [
+        {
+          "staff_code": "NF-1",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "NF-2",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CB23D31": [
+        {
+          "staff_code": "CS270",
+          "faculty_name": "Dr. P. Tamil Selvi",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS250",
+          "faculty_name": "S.Bakiyalakshmi",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS250",
+            "assist_name": "S.Bakiyalakshmi"
+          }
+        }
+      ]
+    },
+    "Semester 3": {
+      "CB23311": [
+        {
+          "staff_code": "CS287",
+          "faculty_name": "Vishnu Kumar A",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "NF-4",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CB23312": [
+        {
+          "staff_code": "CS299",
+          "faculty_name": "Jayanthi M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "NF-2",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CB23331": [
+        {
+          "staff_code": "MA100",
+          "faculty_name": "R Nathiya",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "MA103",
+          "faculty_name": "V. R. Sunil Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "NF-3",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CB23332": [
+        {
+          "staff_code": "CS195",
+          "faculty_name": "Dr. K Devaki",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS195",
+            "assist_name": "Dr. K Devaki"
+          }
+        },
+        {
+          "staff_code": "CS316",
+          "faculty_name": "Manikandan Thirumalaisamy",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CB23333": [
+        {
+          "staff_code": "IT172",
+          "faculty_name": "Nisha R S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS327",
+          "faculty_name": "Rajammal K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "NF-5",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NF-6",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "MC23313": [
+        {
+          "staff_code": "CH60",
+          "faculty_name": "Manigandan Ramadoss",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CH53",
+          "faculty_name": "Dr. D. Udhayakumari",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "BA19701": [
+        {
+          "staff_code": "MB84",
+          "faculty_name": "Sudhan Sk",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MB89",
+          "faculty_name": "Sindhu Al",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "CB19742": [
+        {
+          "staff_code": "IT116",
+          "faculty_name": "K Poornimathi",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "NF-4",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CB19741": [
+        {
+          "staff_code": "IT172",
+          "faculty_name": "Nisha R S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS327",
+          "faculty_name": "Rajammal K",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "BA19702": [
+        {
+          "staff_code": "MB83",
+          "faculty_name": "Immaculate Amali J",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MB81",
+          "faculty_name": "Preetha T",
+          "lecture_hours": 2,
+          "practical_hours": 0
+        }
+      ],
+      "CB19P45": [
+        {
+          "staff_code": "CS270",
+          "faculty_name": "Dr. P. Tamil Selvi",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS270",
+            "assist_name": "Dr. P. Tamil Selvi"
+          }
+        },
+        {
+          "staff_code": "NF-3",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    }
+  },
+  "Computer Science & Design": {
+    "Semester 3": {
+      "CD23321": [
+        {
+          "staff_code": "CS176",
+          "faculty_name": "Vijayakumar R",
+          "lecture_hours": 0,
+          "practical_hours": 6
+        }
+      ],
+      "CD23331": [
+        {
+          "staff_code": "CS331",
+          "faculty_name": "S Pradeep Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CD23332": [
+        {
+          "staff_code": "CSD001",
+          "faculty_name": "Teacher",
+          "lecture_hours": 2,
+          "practical_hours": 4
+        }
+      ],
+      "CS23331": [
+        {
+          "staff_code": "CS11",
+          "faculty_name": "Revathy Padmanabhan",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "CS296",
+          "faculty_name": "Kalpana D",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "MA23313": [
+        {
+          "staff_code": "MA114",
+          "faculty_name": "J.Julie",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 7": {
+      "CD19P11": [
+        {
+          "staff_code": "CS306",
+          "faculty_name": "Thirumalairajan G",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CD19P15": [
+        {
+          "staff_code": "CS307",
+          "faculty_name": "Gunasekar S",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CD19741": [
+        {
+          "staff_code": "ME214",
+          "faculty_name": "K.Vigneshwaran",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "ME214",
+            "assist_name": "K.Vigneshwaran"
+          }
+        }
+      ],
+      "CD19721": [
+        {
+          "staff_code": "CS289",
+          "faculty_name": "S Umamaheswararao",
+          "lecture_hours": 1,
+          "practical_hours": 0
+        }
+      ],
+      "CD19701": [
+        {
+          "staff_code": "CSD001",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "CD23531": [
+        {
+          "staff_code": "CS289",
+          "faculty_name": "S Umamaheswararao",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CS23431": [
+        {
+          "staff_code": "CS307",
+          "faculty_name": "Gunasekar S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "IT23E31": [
+        {
+          "staff_code": "CS176",
+          "faculty_name": "Vijayakumar R",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CS23531": [
+        {
+          "staff_code": "CS306",
+          "faculty_name": "Thirumalairajan G",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "GE23627": [
+        {
+          "staff_code": "CS296",
+          "faculty_name": "Kalpana D",
+          "lecture_hours": 0,
+          "practical_hours": 4
+        }
+      ]
+    }
+  },
+  "Computer Science & Engineering (Cyber Security)": {
+    "Semester 3": {
+      "CR23331": [
+        {
+          "staff_code": "CS315",
+          "faculty_name": "Balasubramanian V",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS40",
+          "faculty_name": "CSE(CS)",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "NS2",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "NS4",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "NS5",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "NS5",
+            "assist_name": "N"
+          }
+        },
+        {
+          "staff_code": "NS3",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "NS3",
+            "assist_name": "N"
+          }
+        }
+      ],
+      "CS23532": [
+        {
+          "staff_code": "CS40",
+          "faculty_name": "CSE(CS)",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT258",
+          "faculty_name": "Subashri Meenakshi G",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA125",
+          "faculty_name": "Dr. Priya Nair",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA121",
+          "faculty_name": "Dr. K. Mageshwaran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "CR23531": [
+        {
+          "staff_code": "CS315",
+          "faculty_name": "Balasubramanian V",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CR23532": [
+        {
+          "staff_code": "NS4",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23531": [
+        {
+          "staff_code": "CS324",
+          "faculty_name": "R Rupmala",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS324",
+            "assist_name": "R Rupmala"
+          }
+        }
+      ],
+      "CS23533": [
+        {
+          "staff_code": "NS3",
+          "faculty_name": "N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23432": [
+        {
+          "staff_code": "IT258",
+          "faculty_name": "Subashri Meenakshi G",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    }
+  },
+  "Information Technology": {
+    "Semester 3": {
+      "EC23314": [
+        {
+          "staff_code": "EC205",
+          "faculty_name": "Ganesamoorthy R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC147",
+          "faculty_name": "R Bharathy",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC163",
+          "faculty_name": "Karthi J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC177",
+          "faculty_name": "Tamilarasi M",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "EC200",
+          "faculty_name": "M.Brenda",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23331": [
+        {
+          "staff_code": "IT203",
+          "faculty_name": "L.Leena Jenifer",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT203",
+            "assist_name": "L.Leena Jenifer"
+          }
+        },
+        {
+          "staff_code": "MA103",
+          "faculty_name": "Janani M",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "MA103",
+            "assist_name": "Janani M"
+          }
+        },
+        {
+          "staff_code": "IT249",
+          "faculty_name": "Priyanka D",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT249",
+            "assist_name": "Priyanka D"
+          }
+        },
+        {
+          "staff_code": "IT200",
+          "faculty_name": "Dr.P.Neelaveni",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT200",
+            "assist_name": "Dr.P.Neelaveni"
+          }
+        },
+        {
+          "staff_code": "IT230",
+          "faculty_name": "Dr B Muthu Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT230",
+            "assist_name": "Dr B Muthu Kumar"
+          }
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "CS325",
+          "faculty_name": "Shunmuganathan K L",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS325",
+            "assist_name": "Shunmuganathan K L"
+          }
+        },
+        {
+          "staff_code": "IT259",
+          "faculty_name": "Premalatha Anand",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT259",
+            "assist_name": "Premalatha Anand"
+          }
+        },
+        {
+          "staff_code": "IT187",
+          "faculty_name": "A.P.Aruna Jameela",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT187",
+            "assist_name": "A.P.Aruna Jameela"
+          }
+        },
+        {
+          "staff_code": "IT260",
+          "faculty_name": "Vimalan M",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT260",
+            "assist_name": "Vimalan M"
+          }
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "CS47",
+          "faculty_name": "Priya Vijay",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS47",
+            "assist_name": "Priya Vijay"
+          }
+        },
+        {
+          "staff_code": "CS200",
+          "faculty_name": "Narayana K E",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS200",
+            "assist_name": "Narayana K E"
+          }
+        },
+        {
+          "staff_code": "IT30",
+          "faculty_name": "Usha S",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT30",
+            "assist_name": "Usha S"
+          }
+        },
+        {
+          "staff_code": "IT251",
+          "faculty_name": "Suresh Kumar K",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT251",
+            "assist_name": "Suresh Kumar K"
+          }
+        },
+        {
+          "staff_code": "NS9",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "NS9",
+            "assist_name": "Humanities & Sciences (PLACEHOLDER)"
+          }
+        }
+      ],
+      "IT23331": [
+        {
+          "staff_code": "IT198",
+          "faculty_name": "Dr.S.Subbiah",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT198",
+            "assist_name": "Dr.S.Subbiah"
+          }
+        },
+        {
+          "staff_code": "IT223",
+          "faculty_name": "Padmini S",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT223",
+            "assist_name": "Padmini S"
+          }
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA144",
+          "faculty_name": "Ramalakshmi K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA87",
+          "faculty_name": "Venkatesan J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA111",
+          "faculty_name": "A. Azhagarasu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA152",
+          "faculty_name": "Arulmozhi Shanmugam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA76",
+          "faculty_name": "C. Renuga",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "IT23531": [
+        {
+          "staff_code": "IT199",
+          "faculty_name": "Dr.A.Kalaivani",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT199",
+            "assist_name": "Dr.A.Kalaivani"
+          }
+        },
+        {
+          "staff_code": "IT203",
+          "faculty_name": "L.Leena Jenifer",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT203",
+            "assist_name": "L.Leena Jenifer"
+          }
+        },
+        {
+          "staff_code": "IT249",
+          "faculty_name": "Priyanka D",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT249",
+            "assist_name": "Priyanka D"
+          }
+        },
+        {
+          "staff_code": "IT199",
+          "faculty_name": "Dr.A.Kalaivani",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT199",
+            "assist_name": "Dr.A.Kalaivani"
+          }
+        }
+      ],
+      "IT23511": [
+        {
+          "staff_code": "MC55",
+          "faculty_name": "Dr.V.Prasannakumari",
+          "lecture_hours": 3,
+          "practical_hours": 0,
+          "assistant": {
+            "assist_staff_code": "MC55",
+            "assist_name": "Dr.V.Prasannakumari"
+          }
+        },
+        {
+          "staff_code": "IT200",
+          "faculty_name": "Dr.P.Neelaveni",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT173",
+          "faculty_name": "M.Madhu Rani",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23531": [
+        {
+          "staff_code": "IT189",
+          "faculty_name": "M.Sandhiya",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT189",
+            "assist_name": "M.Sandhiya"
+          }
+        },
+        {
+          "staff_code": "CS200",
+          "faculty_name": "Narayana K E",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS200",
+            "assist_name": "Narayana K E"
+          }
+        },
+        {
+          "staff_code": "IT230",
+          "faculty_name": "Dr B Muthu Kumar",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT230",
+            "assist_name": "Dr B Muthu Kumar"
+          }
+        },
+        {
+          "staff_code": "IT189",
+          "faculty_name": "M.Sandhiya",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT189",
+            "assist_name": "M.Sandhiya"
+          }
+        }
+      ],
+      "CS23532": [
+        {
+          "staff_code": "IT198",
+          "faculty_name": "Dr.S.Subbiah",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT198",
+            "assist_name": "Dr.S.Subbiah"
+          }
+        },
+        {
+          "staff_code": "IT192",
+          "faculty_name": "Bhalashri Sethuraman",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT192",
+            "assist_name": "Bhalashri Sethuraman"
+          }
+        },
+        {
+          "staff_code": "IT223",
+          "faculty_name": "Padmini S",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT223",
+            "assist_name": "Padmini S"
+          }
+        },
+        {
+          "staff_code": "IT186",
+          "faculty_name": "Dr. Nalini Subramanian",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT186",
+            "assist_name": "Dr. Nalini Subramanian"
+          }
+        }
+      ],
+      "AI23231": [
+        {
+          "staff_code": "IT259",
+          "faculty_name": "Bhuvaneshwari Muthukumaran",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT259",
+            "assist_name": "Bhuvaneshwari Muthukumaran"
+          }
+        },
+        {
+          "staff_code": "IT263",
+          "faculty_name": "Sathish M",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT263",
+            "assist_name": "Sathish M"
+          }
+        },
+        {
+          "staff_code": "IT205",
+          "faculty_name": "K Indumathi",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "IT205",
+            "assist_name": "K Indumathi"
+          }
+        }
+      ]
+    },
+    "Semester 7": {
+      "IT19741": [
+        {
+          "staff_code": "IT186",
+          "faculty_name": "Dr. Nalini Subramanian",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT186",
+            "assist_name": "Dr. Nalini Subramanian"
+          }
+        },
+        {
+          "staff_code": "IT173",
+          "faculty_name": "M.Madhu Rani",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT173",
+            "assist_name": "M.Madhu Rani"
+          }
+        },
+        {
+          "staff_code": "IT192",
+          "faculty_name": "Bhalashri Sethuraman",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT192",
+            "assist_name": "Bhalashri Sethuraman"
+          }
+        }
+      ],
+      "IT19P78": [
+        {
+          "staff_code": "IT240",
+          "faculty_name": "Valarmathie Dinakaran",
+          "lecture_hours": 3,
+          "practical_hours": 0,
+          "assistant": {
+            "assist_staff_code": "IT240",
+            "assist_name": "Valarmathie Dinakaran"
+          }
+        },
+        {
+          "staff_code": "IT205",
+          "faculty_name": "K Indumathi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "IT19711": [
+        {
+          "staff_code": "MA103",
+          "faculty_name": "Janani M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "MA103",
+            "assist_name": "Janani M"
+          }
+        },
+        {
+          "staff_code": "IT251",
+          "faculty_name": "Suresh Kumar K",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT251",
+            "assist_name": "Suresh Kumar K"
+          }
+        },
+        {
+          "staff_code": "IT260",
+          "faculty_name": "Vimalan M",
+          "lecture_hours": 0,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT260",
+            "assist_name": "Vimalan M"
+          }
+        }
+      ],
+      "Professional Elective-II": [
+        {
+          "staff_code": "IT251",
+          "faculty_name": "Suresh Kumar K",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    }
+  },
+  "Computer Science & Engineering": {
+    "Semester 3": {
+      "CS23311": [
+        {
+          "staff_code": "CS218",
+          "faculty_name": "Dr V.Murali Bhaskaran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS218",
+          "faculty_name": "Dr V.Murali Bhaskaran",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT191",
+          "faculty_name": "Dharani Devi G",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS314",
+          "faculty_name": "Deepa B",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "New Staff-1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "New Staff-2",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS221",
+          "faculty_name": "J.Jinu Sophia",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS291",
+          "faculty_name": "Mahesmeena",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "New Staff-6",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT194",
+          "faculty_name": "Farjana U",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23331": [
+        {
+          "staff_code": "CS251",
+          "faculty_name": "Dr.P.Shanmugam",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS226",
+          "faculty_name": "Santhiya M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS239",
+          "faculty_name": "Srinivasan N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS251",
+          "faculty_name": "Dr.P.Shanmugam",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS291",
+          "faculty_name": "Mahesmeena",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS291",
+          "faculty_name": "Mahesmeena",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "New Staff-1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "New Staff-1",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "New Staff-1",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS338",
+          "faculty_name": "T.Ramala",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS338",
+          "faculty_name": "T.Ramala",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ],
+      "CS23332": [
+        {
+          "staff_code": "IT191",
+          "faculty_name": "Dharani Devi G",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS321",
+          "faculty_name": "Bhuvaneswari R",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS321",
+            "assist_name": "Bhuvaneswari R"
+          }
+        },
+        {
+          "staff_code": "CS305",
+          "faculty_name": "Dr Parthasarathy C",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS305",
+            "assist_name": "Dr Parthasarathy C"
+          }
+        },
+        {
+          "staff_code": "CS272",
+          "faculty_name": "S.Vinothini",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS238",
+          "faculty_name": "Sathiyavathi S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS335",
+          "faculty_name": "Adhithyan.S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS335",
+          "faculty_name": "Adhithyan.S",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "IT272",
+          "faculty_name": "N.Karthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "TCH00002",
+          "faculty_name": "Manoranjini",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "TCH2005",
+          "faculty_name": "Sana",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "CS23333": [
+        {
+          "staff_code": "CS298",
+          "faculty_name": "Divya M",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS298",
+            "assist_name": "Divya M"
+          }
+        },
+        {
+          "staff_code": "CS322",
+          "faculty_name": "Dharshini B S",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS322",
+            "assist_name": "Dharshini B S"
+          }
+        },
+        {
+          "staff_code": "CS237",
+          "faculty_name": "Dr.S.Anantha Sivaprakasam",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS237",
+            "assist_name": "Dr.S.Anantha Sivaprakasam"
+          }
+        },
+        {
+          "staff_code": "CS237",
+          "faculty_name": "Dr.S.Anantha Sivaprakasam",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS237",
+            "assist_name": "Dr.S.Anantha Sivaprakasam"
+          }
+        },
+        {
+          "staff_code": "New Staff-2",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "New Staff-2",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "CS314",
+          "faculty_name": "Deepa B",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS314",
+            "assist_name": "Deepa B"
+          }
+        },
+        {
+          "staff_code": "New Staff-2",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "New Staff-2",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "IT272",
+          "faculty_name": "N.Karthikeyan",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT272",
+            "assist_name": "N.Karthikeyan"
+          }
+        },
+        {
+          "staff_code": "TCH2006",
+          "faculty_name": "Fowzia Sihana",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "TCH2006",
+            "assist_name": "Fowzia Sihana"
+          }
+        },
+        {
+          "staff_code": "TCH2006",
+          "faculty_name": "Fowzia Sihana",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "TCH2006",
+            "assist_name": "Fowzia Sihana"
+          }
+        }
+      ],
+      "CS23334": [
+        {
+          "staff_code": "CS313",
+          "faculty_name": "Ayyadurai M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS308",
+          "faculty_name": "Aswana Lal",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS239",
+          "faculty_name": "Srinivasan N",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS224",
+          "faculty_name": "Bhavani M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT194",
+          "faculty_name": "Farjana U",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "IT194",
+          "faculty_name": "Farjana U",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS308",
+          "faculty_name": "Aswana Lal",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS322",
+          "faculty_name": "Dharshini B S",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "New Staff-3",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "New Staff-3",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "TCH2005",
+          "faculty_name": "Sana",
+          "lecture_hours": 3,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "TCH2005",
+            "assist_name": "Sana"
+          }
+        }
+      ],
+      "MA23312": [
+        {
+          "staff_code": "MA140",
+          "faculty_name": "Sriram Sastha",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA147",
+          "faculty_name": "Balavidhya S",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA135",
+          "faculty_name": "Charles Sagayaraj A C",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA76",
+          "faculty_name": "C. Renuga",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA123",
+          "faculty_name": "Dr. S. Prabhu",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA134",
+          "faculty_name": "Ponmana Selvan Arumugam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA139",
+          "faculty_name": "Meenakumari R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA87",
+          "faculty_name": "Venkatesan J",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "MA119",
+          "faculty_name": "Dr S.Bhavani",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "NF-2",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "NFE-2",
+          "faculty_name": "Humanities & Sciences (PLACEHOLDER)",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CP23A11": [
+        {
+          "staff_code": "TCH00002",
+          "faculty_name": "Manoranjini",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "P23A12": [
+        {
+          "staff_code": "IT03",
+          "faculty_name": "Dr. Kumar P",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CP23A13": [
+        {
+          "staff_code": "New Staff-4",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ]
+    },
+    "Semester 5": {
+      "CS23511": [
+        {
+          "staff_code": "CS255",
+          "faculty_name": "Dr.K.Ananthajothi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS255",
+          "faculty_name": "Dr.K.Ananthajothi",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS178",
+          "faculty_name": "Akiladevi R",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS272",
+          "faculty_name": "S.Vinothini",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "IT210",
+          "faculty_name": "J.A.Adlin Layola",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "New Staff-3",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23512": [
+        {
+          "staff_code": "CS319",
+          "faculty_name": "Chettiyar Vani Vivekanand",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS251",
+          "faculty_name": "Dr.P.Shanmugam",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS281",
+          "faculty_name": "V Karthick",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "CS182",
+          "faculty_name": "Jananee V",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "New Staff-5",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        },
+        {
+          "staff_code": "AE23",
+          "faculty_name": "CSE",
+          "lecture_hours": 3,
+          "practical_hours": 0
+        }
+      ],
+      "CS23531": [
+        {
+          "staff_code": "CS320",
+          "faculty_name": "Madhusudhanan S",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS320",
+            "assist_name": "Madhusudhanan S"
+          }
+        },
+        {
+          "staff_code": "CS238",
+          "faculty_name": "Sathiyavathi S",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS238",
+            "assist_name": "Sathiyavathi S"
+          }
+        },
+        {
+          "staff_code": "IT210",
+          "faculty_name": "J.A.Adlin Layola",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "IT210",
+            "assist_name": "J.A.Adlin Layola"
+          }
+        },
+        {
+          "staff_code": "New Staff-4",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "New Staff-4",
+            "assist_name": "Teacher"
+          }
+        },
+        {
+          "staff_code": "CS221",
+          "faculty_name": "J.Jinu Sophia",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "CS221",
+            "assist_name": "J.Jinu Sophia"
+          }
+        },
+        {
+          "staff_code": "New Staff-2",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 4,
+          "assistant": {
+            "assist_staff_code": "New Staff-2",
+            "assist_name": "Teacher"
+          }
+        }
+      ],
+      "CS23532": [
+        {
+          "staff_code": "CS256",
+          "faculty_name": "Dr.R.Sabitha",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS253",
+          "faculty_name": "Dr.K.Anand",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS319",
+          "faculty_name": "Chettiyar Vani Vivekanand",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "CS253",
+          "faculty_name": "Dr.K.Anand",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "New Staff-4",
+          "faculty_name": "Teacher",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        },
+        {
+          "staff_code": "TCH2005",
+          "faculty_name": "Sana",
+          "lecture_hours": 3,
+          "practical_hours": 4
+        }
+      ],
+      "CS23533": [
+        {
+          "staff_code": "IT03",
+          "faculty_name": "Dr. Kumar P",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS69",
+          "faculty_name": "Dr.S.Vinodhkumar",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS203",
+          "faculty_name": "Jaeyalakshmi M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS298",
+          "faculty_name": "Divya M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS224",
+          "faculty_name": "Bhavani M",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS314",
+          "faculty_name": "Deepa B",
+          "lecture_hours": 3,
+          "practical_hours": 2
+        }
+      ]
+    },
+    "Semester 6": {
+      "CS19P18": [
+        {
+          "staff_code": "CS284",
+          "faculty_name": "Muneeshwari R",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS284",
+            "assist_name": "Muneeshwari R"
+          }
+        },
+        {
+          "staff_code": "CS284",
+          "faculty_name": "Muneeshwari R",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS279",
+          "faculty_name": "M.Rakesh Kumar",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS279",
+            "assist_name": "M.Rakesh Kumar"
+          }
+        },
+        {
+          "staff_code": "CS333",
+          "faculty_name": "Suba Malai Rajasekar",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS333",
+            "assist_name": "Suba Malai Rajasekar"
+          }
+        },
+        {
+          "staff_code": "CS333",
+          "faculty_name": "Suba Malai Rajasekar",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS333",
+            "assist_name": "Suba Malai Rajasekar"
+          }
+        }
+      ]
+    },
+    "Semester 7": {
+      "CS19P14": [
+        {
+          "staff_code": "CS256",
+          "faculty_name": "Dr.R.Sabitha",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        },
+        {
+          "staff_code": "CS171",
+          "faculty_name": "S.Ponmani",
+          "lecture_hours": 2,
+          "practical_hours": 2
+        }
+      ],
+      "CS19P21": [
+        {
+          "staff_code": "CS208",
+          "faculty_name": "Dr. N. Duraimurugan",
+          "lecture_hours": 0,
+          "practical_hours": 6
+        },
+        {
+          "staff_code": "CS77",
+          "faculty_name": "Bhuvaneswaran B",
+          "lecture_hours": 0,
+          "practical_hours": 6
+        },
+        {
+          "staff_code": "CS77",
+          "faculty_name": "Bhuvaneswaran B",
+          "lecture_hours": 0,
+          "practical_hours": 6
+        }
+      ],
+      "CS19P23": [
+        {
+          "staff_code": "CS77",
+          "faculty_name": "Bhuvaneswaran B",
+          "lecture_hours": 0,
+          "practical_hours": 6,
+          "assistant": {
+            "assist_staff_code": "CS77",
+            "assist_name": "Bhuvaneswaran B"
+          }
+        }
+      ],
+      "CS19741": [
+        {
+          "staff_code": "cs",
+          "faculty_name": "Vadlamani",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "cs",
+            "assist_name": "Vadlamani"
+          }
+        },
+        {
+          "staff_code": "cs",
+          "faculty_name": "Vadlamani",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "cs",
+            "assist_name": "Vadlamani"
+          }
+        },
+        {
+          "staff_code": "CS226",
+          "faculty_name": "Santhiya M",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS226",
+            "assist_name": "Santhiya M"
+          }
+        },
+        {
+          "staff_code": "CS281",
+          "faculty_name": "V Karthick",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS281",
+            "assist_name": "V Karthick"
+          }
+        },
+        {
+          "staff_code": "CS313",
+          "faculty_name": "Ayyadurai M",
+          "lecture_hours": 2,
+          "practical_hours": 2,
+          "assistant": {
+            "assist_staff_code": "CS313",
+            "assist_name": "Ayyadurai M"
+          }
+        }
+      ]
+    }
+  }
+}

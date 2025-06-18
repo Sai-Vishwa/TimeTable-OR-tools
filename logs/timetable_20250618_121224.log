@@ -1,0 +1,31 @@
+2025-06-18 12:12:25,001 - timetable_optimizer - INFO - ==================================================
+2025-06-18 12:12:25,002 - timetable_optimizer - INFO -  COLLEGE TIMETABLE GENERATION SYSTEM
+2025-06-18 12:12:25,002 - timetable_optimizer - INFO - ==================================================
+2025-06-18 12:12:25,002 - timetable_optimizer - INFO -  Loading data files...
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -  Data loaded successfully in 0.01s
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -   - Departments: 19
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -   - Lab mappings: 109 courses mapped
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO - 
+ Initializing room resources...
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -  Initialized 196 rooms in 0.00s
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -   - computer_lab: 42
+2025-06-18 12:12:25,004 - timetable_optimizer - INFO -   - classroom: 100
+2025-06-18 12:12:25,012 - timetable_optimizer - INFO -   - core_lab: 54
+2025-06-18 12:12:25,012 - timetable_optimizer - INFO - 
+ Creating scheduling activities...
+2025-06-18 12:12:25,015 - timetable_optimizer - INFO -  Created 1189 activities in 0.00s
+2025-06-18 12:12:25,015 - timetable_optimizer - INFO -   - Allocation tracking for 389 courses
+2025-06-18 12:12:25,015 - timetable_optimizer - INFO - 
+ Creating optimization model...
+2025-06-18 12:12:25,024 - timetable_optimizer - INFO - 
+ Creating decision variables...
+2025-06-18 12:12:25,137 - timetable_optimizer - INFO -  Created variables in 0.12s
+2025-06-18 12:12:25,137 - timetable_optimizer - INFO - 
+ Adding hard constraints...
+2025-06-18 12:12:25,137 - timetable_optimizer - INFO -    Constraint: All batches for same course must be in same slot
+2025-06-18 12:12:25,222 - timetable_optimizer - INFO -      Course groups constrained in 0.08s
+2025-06-18 12:12:25,222 - timetable_optimizer - INFO -    Constraint: No overlapping subjects for same dept/sem
+2025-06-18 12:12:28,515 - timetable_optimizer - INFO -      Student groups constrained in 3.30s
+2025-06-18 12:12:28,515 - timetable_optimizer - INFO -    Constraint: Room capacity limits (OPTIMIZED)
+2025-06-18 12:12:28,650 - timetable_optimizer - INFO -      Creating room assignment indicators...
+2025-06-18 12:12:49,423 - timetable_optimizer - INFO -      Creating room-slot indicators...

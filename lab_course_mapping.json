@@ -1,0 +1,217 @@
+  {
+    "Aero CAD Lab": [
+      "AE23321"
+    ],
+    "Aircraft Structures Lab": [
+      "AE23531"
+    ],
+    "Airframe Repair and Aero Engine Lab": [
+      "AE23521"
+    ],
+    "Auto CAD Lab": [
+      "AT23321",
+      "AT23522",
+      "AT23532"
+    ],
+  "Automation Lab": [
+    "RO23522"
+  ],
+  "Automotive Componenets lab": [
+    "AT23521"
+  ],
+  "Avionics Lab": [
+    "AV23121"
+  ],
+  "Baking Lab": [
+    "FT19711"
+  ],
+  "Basic electronics lab-1": [
+    "EC23321",
+    "EE23133"
+  ],
+  "Biochemistry lab": [
+    "BM23321",
+    "BT23331",
+    "FT23312",
+    "FT23511"
+  ],
+  "Bioprocess lab": [ 
+    "BT23521"
+  ],
+  "Chemical Reaction Engineering Lab": [
+    "CH19711"
+  ],
+  "Chemistry Lab": [
+    "CE23521",
+    "CY23131",
+    "CY23132",
+    "CY23334"
+  ],
+  "Classroom": [
+    "CE19711",
+    "CE19712",
+    "CE19714",
+    "CE23531"
+  ],
+  "Communication Systems Lab": [
+    "EC23521"
+  ],
+  "Concrete & Survey Lab": [
+    "CE23321",
+    "CE23331"
+  ],
+  "DSP Lab": [
+    "CS23422",
+    "EC23531"
+  ],
+  "Diagnostic and Therapeutic Equipment Lab": [
+    "BM19712",
+    "MX23121",
+    "MX23322",
+    "BM23322",
+    "BM23521"
+  ],
+  "Digital Lab": [
+    "EC23321"
+  ],
+  "Downstream Processing Lab": [
+    "BT19711"
+  ],
+  "Dynamics Lab": [
+    "ED23131",
+    "RO23332"
+  ],
+  "Electrical Machines I Lab": [
+    "AT23531",
+    "EE23131",
+    "EE23132"
+  ],
+  "Electronic Devices & Circuits Lab": [
+    "EE23321",
+    "GE23627"
+  ],
+  "Electronics and Instrumentation": [
+    "BM19713",
+    "BM23331"
+  ],
+  "Embedded System Laboratory (ECE)": [
+    "EC19711" 
+  ],
+  "Embedded System Laboratory(EEE)": [
+    "ET23121",
+    "ET23322"
+  ],
+  "Engineering Practices Lab (Electrical)": [
+    "GE23122"
+  ],
+  "Engineering Practices Lab (Electronics)": [
+    "EC23131",
+    "GE23122"
+  ],
+  "Fluid Mechanics Lab": [
+    "AE23332",
+    "CH23331"
+  ],
+  "Food Microbiology Lab": [
+    "FT23311"
+  ],
+  "Food Processing and Preservation Lab": [
+    "FT23512"
+  ],
+  "Genetic Engineering Lab": [
+    "BY23122"
+  ],
+  "Immunology Lab": [
+    "BT23523"
+  ],
+  "Industrial Automation Lab": [
+    "MT23331"
+  ],
+  "Isaac Asimov Laboratory": [
+    "RO19712",
+    "RO23521"
+  ],
+  "Livestock Lab": [
+    "FT19712"
+  ],
+  "MCT CAD Lab": [
+    "CS23336",
+    "MT19711",
+    "MT23121",
+    "MT23332"
+  ],
+  "Machine Shop FF1 - EPL": [
+    "GE23121"
+  ],
+  "Manufacturing Technology I": [
+    "AT23334",
+    "ME23321",
+    "RO23331"
+  ],
+  "Mech CAD Lab": [
+    "ED23121",
+    "ME23521"
+  ],
+  "Mechatronics Lab": [
+    "ME19741"
+  ],
+  "Medical Image Processing Lab": [
+    "BM19741",
+    "MX23131",
+    "BM23531"
+  ],
+  "Metrology & Measurement Lab": [
+    "ME23532"
+  ],
+  "Microprocessor Lab": [
+    "BM23532",
+    "EC23332"
+  ],
+  "Microprocessor and Microcontrollers Lab": [
+    "EE23531",
+    "MT19721"
+  ],
+  "Optical and Microwave Lab": [
+    "EC19712"
+  ],
+  "Physics Lab": [
+    "PH23131",
+    "PH23132",
+    "PH23133"
+  ],
+  "Power Electronics Lab": [
+    "BM23332",
+    "MT23522"
+  ],
+  "Power System Simulation Lab": [
+    "EE19711",
+    "EE19741",
+    "EE19742",
+    "EE23521"
+  ],
+  "Process Control Lab": [
+    "CH23722"
+  ],
+  "Strength of Materials Lab": [
+    "AE23331",
+    "AT23333",
+    "ME23331"
+  ],
+  "Thermal Lab": [
+    "AE23333",
+    "AT23331",
+    "AT23332",
+    "CH23521",
+    "ME23531"
+  ],
+  "Vehicle Maintenance Lab": [
+    "AT19713",
+    "AT19721",
+    "AT19723"
+  ],
+  "microbiology lab": [
+    "BT23131",
+    "BT23321"
+  ],
+  "Special Computer Lab": ["CS101", "CS102","CS103", "CS104","CS105"]
+}
